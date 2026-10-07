@@ -1,0 +1,263 @@
+{
+ "data_base": "2026-10-06",
+ "versao": "v5",
+ "escolhas": {
+  "pedidos": "ML calendário (GB+XGB)",
+  "ticket": "Holt amortecido",
+  "Total": "SARIMAX calendário",
+  "Canal": "ARIMA",
+  "Origem 1P/3P": "ARIMA",
+  "Região": "SARIMAX calendário",
+  "UF": "Top-down (pai × part.)",
+  "Marca": "Combinação top-3",
+  "Produto": "ARIMA"
+ },
+ "catalogo_diario": {
+  "Ingênuo": {
+   "janela": 7
+  },
+  "Média móvel": {
+   "janela": 28
+  },
+  "Sazonal ingênuo": {
+   "lag": 364,
+   "janela_reserva": 7,
+   "historico_completo": true
+  },
+  "Sazonal × crescimento": {
+   "lag": 364,
+   "janela_reserva": 7,
+   "janela_crescimento": 56,
+   "limites": [
+    0.5,
+    2.0
+   ],
+   "historico_completo": true
+  },
+  "ETS (Holt-Winters)": {
+   "sazonal": true,
+   "periodo": 7
+  },
+  "ARIMA": {
+   "grade": [
+    [
+     1,
+     1,
+     1
+    ],
+    [
+     0,
+     1,
+     1
+    ],
+    [
+     1,
+     1,
+     0
+    ],
+    [
+     2,
+     1,
+     2
+    ],
+    [
+     1,
+     0,
+     1
+    ],
+    [
+     2,
+     0,
+     1
+    ]
+   ]
+  },
+  "SARIMAX calendário": {
+   "ordem": [
+    1,
+    1,
+    1
+   ],
+   "sazonal": [
+    1,
+    0,
+    1,
+    7
+   ],
+   "fourier": 3
+  },
+  "Prophet": {
+   "changepoint_prior_scale": 0.05,
+   "seasonality_prior_scale": 5.0,
+   "holidays_prior_scale": 10.0,
+   "sazonalidade_anual": 10,
+   "min_dias_sazonalidade_anual": 547,
+   "feriados_pais": "BR"
+  },
+  "ML calendário (GB+XGB)": {
+   "tendencia": true,
+   "meia_vida_dias": 180,
+   "seed": 42,
+   "gb": {
+    "n_estimators": 300,
+    "max_depth": 3,
+    "learning_rate": 0.03
+   },
+   "xgb": {
+    "n_estimators": 400,
+    "max_depth": 3,
+    "learning_rate": 0.03
+   }
+  },
+  "Híbrido Prophet+XGB": {
+   "seed": 42,
+   "peso_residuo": 1.0,
+   "prophet": {
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 5.0,
+    "sazonalidade_anual": 10,
+    "min_dias_sazonalidade_anual": 547,
+    "feriados_pais": "BR"
+   },
+   "xgb": {
+    "n_estimators": 200,
+    "max_depth": 2,
+    "learning_rate": 0.03,
+    "subsample": 0.8
+   }
+  },
+  "ARIMA_PLUS (BigQuery)": {
+   "log": true,
+   "holiday_region": "BR",
+   "auto_arima_max_order": 5,
+   "include_drift": false,
+   "clean_spikes_and_dips": true,
+   "adjust_step_changes": true,
+   "nivel_confianca": 0.8
+  }
+ },
+ "catalogo_semanal": {
+  "Ingênuo": {
+   "janela": 1
+  },
+  "Média móvel": {
+   "janela": 8
+  },
+  "Sazonal ingênuo": {
+   "lag": 52,
+   "janela_reserva": 1,
+   "historico_completo": true
+  },
+  "Sazonal × crescimento": {
+   "lag": 52,
+   "janela_reserva": 1,
+   "janela_crescimento": 8,
+   "limites": [
+    0.5,
+    2.0
+   ],
+   "historico_completo": true
+  },
+  "ETS (Holt-Winters)": {
+   "sazonal": false,
+   "periodo": 7
+  },
+  "ARIMA": {
+   "grade": [
+    [
+     1,
+     1,
+     1
+    ],
+    [
+     0,
+     1,
+     1
+    ],
+    [
+     1,
+     1,
+     0
+    ],
+    [
+     2,
+     1,
+     2
+    ],
+    [
+     1,
+     0,
+     1
+    ],
+    [
+     2,
+     0,
+     1
+    ]
+   ]
+  },
+  "SARIMAX calendário": {
+   "ordem": [
+    1,
+    1,
+    1
+   ],
+   "sazonal": [
+    1,
+    0,
+    1,
+    7
+   ],
+   "fourier": 3
+  },
+  "Prophet": {
+   "changepoint_prior_scale": 0.05,
+   "seasonality_prior_scale": 5.0,
+   "holidays_prior_scale": 10.0,
+   "sazonalidade_anual": 6,
+   "min_dias_sazonalidade_anual": 547,
+   "feriados_pais": "BR"
+  },
+  "ML calendário (GB+XGB)": {
+   "tendencia": true,
+   "meia_vida_dias": 180,
+   "seed": 42,
+   "gb": {
+    "n_estimators": 300,
+    "max_depth": 3,
+    "learning_rate": 0.03
+   },
+   "xgb": {
+    "n_estimators": 400,
+    "max_depth": 3,
+    "learning_rate": 0.03
+   }
+  },
+  "Híbrido Prophet+XGB": {
+   "seed": 42,
+   "peso_residuo": 1.0,
+   "prophet": {
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 5.0,
+    "sazonalidade_anual": 6,
+    "min_dias_sazonalidade_anual": 547,
+    "feriados_pais": "BR"
+   },
+   "xgb": {
+    "n_estimators": 200,
+    "max_depth": 2,
+    "learning_rate": 0.03,
+    "subsample": 0.8
+   }
+  },
+  "ARIMA_PLUS (BigQuery)": {
+   "log": true,
+   "holiday_region": "BR",
+   "auto_arima_max_order": 5,
+   "include_drift": false,
+   "clean_spikes_and_dips": true,
+   "adjust_step_changes": true,
+   "nivel_confianca": 0.8
+  }
+ }
+}

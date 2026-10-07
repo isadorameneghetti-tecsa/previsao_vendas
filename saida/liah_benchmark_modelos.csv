@@ -1,0 +1,197 @@
+modelo,wape_pct,mape_pct,viés_pct,n,complexidade,elegível,ganho_vs_sazonal_ingênuo_pp,escolhido,nivel,justificativa,data_base,versao
+ML calendário (GB+XGB),14.1065,15.6631,12.6124,24.0,4,True,2.0753,True,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Média móvel,15.2803,17.321,10.1092,24.0,0,False,0.9015,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal ingênuo,16.1818,17.0672,-1.4755,24.0,0,False,0.0,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Ingênuo,17.8591,20.0323,13.9057,24.0,0,False,-1.6774,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ETS (Holt-Winters),19.2567,21.3653,13.3492,24.0,2,False,-3.0749,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA,19.9516,21.6984,12.8001,24.0,2,False,-3.7698,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Combinação top-3,19.9967,21.9066,14.4409,24.0,6,False,-3.815,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Híbrido Prophet+XGB,21.7626,23.5384,9.303,24.0,5,False,-5.5808,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Prophet,22.228,24.313,9.1851,24.0,3,False,-6.0463,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA_PLUS (BigQuery),32.2509,35.5243,29.4516,24.0,3,False,-16.0691,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal × crescimento,43.3832,43.8283,41.6797,24.0,1,False,-27.2015,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+SARIMAX calendário,53.8423,53.9461,36.2251,24.0,3,False,-37.6605,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+SARIMAX calendário,8.9763,8.7714,5.9084,10.0,3,True,4.7155,True,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA,10.6261,10.4405,-8.8951,10.0,2,False,3.0658,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Média móvel,10.9903,10.5434,5.6036,10.0,0,False,2.7016,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ML calendário (GB+XGB),11.8464,11.2412,5.7145,10.0,4,False,1.8455,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Combinação top-3,12.9027,12.316,2.1421,10.0,6,False,0.7892,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Ingênuo,13.3408,13.4512,12.9662,10.0,0,False,0.3511,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ETS (Holt-Winters),13.3717,13.1765,8.3,10.0,2,False,0.3202,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Híbrido Prophet+XGB,13.5331,13.7933,9.3857,10.0,5,False,0.1587,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal ingênuo,13.6919,13.7247,-10.7513,10.0,0,False,0.0,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Prophet,13.8894,14.0035,11.251,10.0,3,False,-0.1976,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA_PLUS (BigQuery),16.7645,16.5434,16.443,10.0,3,False,-3.0727,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal × crescimento,16.9373,17.6274,10.1438,10.0,1,False,-3.2454,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA,9.5868,9.3141,-7.7909,10.0,2,True,5.469,True,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+SARIMAX calendário,10.2971,10.3093,7.192,10.0,3,False,4.7586,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Média móvel,11.9129,11.4371,6.8835,10.0,0,False,3.1429,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ETS (Holt-Winters),13.1263,12.8352,9.6126,10.0,2,False,1.9294,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ML calendário (GB+XGB),13.202,12.729,6.9958,10.0,4,False,1.8538,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Ingênuo,14.4489,14.507,14.3353,10.0,0,False,0.6068,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Híbrido Prophet+XGB,14.9092,15.3023,10.7115,10.0,5,False,0.1466,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal ingênuo,15.0557,15.1905,-9.6696,10.0,0,False,0.0,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Prophet,15.2698,15.3398,12.5993,10.0,3,False,-0.214,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Combinação top-3,15.5192,15.1543,4.381,10.0,6,False,-0.4635,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA_PLUS (BigQuery),18.1797,18.1051,17.8543,10.0,3,False,-3.124,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal × crescimento,18.3546,19.2194,11.4788,10.0,1,False,-3.2988,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA,103.9143,2545.4961,80.1854,16.0,2,True,105.7048,True,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ML calendário (GB+XGB),130.8612,3121.264,94.7274,16.0,4,False,78.7579,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA_PLUS (BigQuery),130.9881,3503.1656,112.8013,16.0,3,False,78.6311,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Ingênuo,133.2277,3480.2531,115.5423,16.0,0,False,76.3914,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Média móvel,150.3913,3891.1225,101.4942,16.0,0,False,59.2279,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Híbrido Prophet+XGB,180.6398,3933.6334,52.3239,16.0,5,False,28.9793,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Prophet,181.0437,3787.7366,53.3547,16.0,3,False,28.5755,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal × crescimento,207.3725,5443.1514,75.5122,16.0,1,False,2.2466,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal ingênuo,209.6191,6335.8297,70.2888,16.0,0,False,0.0,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+SARIMAX calendário,302.8648,14238.4829,216.746,16.0,3,False,-93.2456,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Combinação top-3,452.3555,13527.4442,442.4788,10.0,6,False,-242.7364,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ETS (Holt-Winters),1276.1446,4129.5796,1275.3846,16.0,2,False,-1066.5255,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+SARIMAX calendário,8.9778,8.7724,5.9257,10.0,3,True,4.7,True,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA,10.6115,10.4254,-8.8802,10.0,2,False,3.0663,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Média móvel,10.9921,10.545,5.6208,10.0,0,False,2.6857,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ML calendário (GB+XGB),11.8483,11.2431,5.7318,10.0,4,False,1.8295,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Combinação top-3,12.905,12.3182,2.1562,10.0,6,False,0.7727,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Ingênuo,13.3593,13.4696,12.9846,10.0,0,False,0.3185,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ETS (Holt-Winters),13.3739,13.1788,8.3177,10.0,2,False,0.3039,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Híbrido Prophet+XGB,13.5353,13.7954,9.4036,10.0,5,False,0.1424,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal ingênuo,13.6778,13.712,-10.7367,10.0,0,False,0.0,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Prophet,13.908,14.0224,11.2691,10.0,3,False,-0.2303,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA_PLUS (BigQuery),16.7836,16.5625,16.4621,10.0,3,False,-3.1058,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal × crescimento,16.9401,17.6293,10.1618,10.0,1,False,-3.2623,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Top-down (pai × part.),9.5379,9.8595,5.9257,20.0,6,True,4.6537,True,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+SARIMAX calendário,10.0822,11.3449,5.3933,20.0,3,False,4.1094,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Média móvel,11.5055,10.0944,5.6208,20.0,0,False,2.6861,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ML calendário (GB+XGB),11.7382,10.9218,4.4975,20.0,4,False,2.4534,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA,12.6023,10.6609,-2.3017,20.0,2,False,1.5893,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Prophet,13.9214,12.7801,10.0985,20.0,3,False,0.2702,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Híbrido Prophet+XGB,13.9293,14.313,8.8518,20.0,5,False,0.2624,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Combinação top-3,13.9551,11.7342,2.8872,20.0,6,False,0.2365,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ETS (Holt-Winters),13.9708,11.8415,5.808,20.0,2,False,0.2208,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal ingênuo,14.1916,15.4157,-10.7367,20.0,0,False,0.0,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Ingênuo,14.2198,16.7456,12.9846,20.0,0,False,-0.0281,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA_PLUS (BigQuery),15.9749,12.8958,14.5152,20.0,3,False,-1.7833,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal × crescimento,18.4163,18.5313,10.2835,20.0,1,False,-4.2246,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Combinação top-3,18.8108,24.8919,2.75,130.0,6,True,12.1958,True,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Top-down (pai × part.),19.4388,33.2204,5.1669,120.0,6,True,11.5679,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+SARIMAX calendário,19.7891,30.1338,4.5661,130.0,3,False,11.2175,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA,20.0514,27.2261,0.7109,130.0,2,False,10.9552,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ETS (Holt-Winters),20.1975,26.4234,1.124,130.0,2,False,10.8092,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ML calendário (GB+XGB),20.9391,26.0113,4.7496,130.0,4,False,10.0675,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Média móvel,21.1683,30.688,5.6036,130.0,0,False,9.8383,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Prophet,22.6532,33.3906,9.0076,130.0,3,False,8.3534,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Híbrido Prophet+XGB,23.3222,36.5802,10.2128,130.0,5,False,7.6844,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Ingênuo,23.7467,28.8069,12.9662,130.0,0,False,7.2599,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA_PLUS (BigQuery),24.3145,31.199,10.9108,130.0,3,False,6.6922,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal × crescimento,25.8889,38.9112,11.3275,130.0,1,False,5.1177,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal ingênuo,31.0066,43.0954,-10.7513,130.0,0,False,0.0,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA,19.9949,42.269,-7.9401,260.0,2,True,7.784,True,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ARIMA_PLUS (BigQuery),20.592,47.0068,-1.455,260.0,3,True,7.1869,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Combinação top-3,21.709,42.0475,1.7096,260.0,6,False,6.0699,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Média móvel,21.9064,48.7432,5.6036,260.0,0,False,5.8724,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ETS (Holt-Winters),22.3383,41.6449,-2.43,260.0,2,False,5.4405,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ML calendário (GB+XGB),23.1127,44.891,1.6571,260.0,4,False,4.6661,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Prophet,26.5024,58.8322,11.3874,260.0,3,False,1.2764,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+SARIMAX calendário,27.6689,62.1223,4.5302,260.0,3,False,0.11,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal ingênuo,27.7788,46.4703,-10.7513,260.0,0,False,0.0,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Sazonal × crescimento,28.0825,59.6461,9.7223,260.0,1,False,-0.3036,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Ingênuo,29.5977,60.7571,12.9662,260.0,0,False,-1.8189,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+Híbrido Prophet+XGB,43.2302,121.2578,27.2333,260.0,5,False,-15.4514,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-06,v5
+ML calendário (GB+XGB),14.1065,15.6631,12.6124,24.0,4,True,2.0753,True,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Média móvel,15.2803,17.321,10.1092,24.0,0,False,0.9015,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal ingênuo,16.1818,17.0672,-1.4755,24.0,0,False,0.0,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Ingênuo,17.8591,20.0323,13.9057,24.0,0,False,-1.6774,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ETS (Holt-Winters),19.2567,21.3653,13.3492,24.0,2,False,-3.0749,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA,19.9516,21.6984,12.8001,24.0,2,False,-3.7698,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Combinação top-3,19.9967,21.9066,14.4409,24.0,6,False,-3.815,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Híbrido Prophet+XGB,21.7626,23.5384,9.303,24.0,5,False,-5.5808,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Prophet,22.228,24.313,9.1851,24.0,3,False,-6.0463,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA_PLUS (BigQuery),32.2509,35.5243,29.4516,24.0,3,False,-16.0691,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal × crescimento,43.3832,43.8283,41.6797,24.0,1,False,-27.2015,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+SARIMAX calendário,53.8423,53.9461,36.2251,24.0,3,False,-37.6605,False,Total (pedidos diários),"Escolhido: ML calendário (GB+XGB) (erro 14.1%). Erra 2.1 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+SARIMAX calendário,8.9763,8.7714,5.9084,10.0,3,True,4.7155,True,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA,10.6261,10.4405,-8.8951,10.0,2,False,3.0658,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Média móvel,10.9903,10.5434,5.6036,10.0,0,False,2.7016,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ML calendário (GB+XGB),11.8464,11.2412,5.7145,10.0,4,False,1.8455,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Combinação top-3,12.9027,12.316,2.1421,10.0,6,False,0.7892,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Ingênuo,13.3408,13.4512,12.9662,10.0,0,False,0.3511,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ETS (Holt-Winters),13.3717,13.1765,8.3,10.0,2,False,0.3202,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Híbrido Prophet+XGB,13.5331,13.7933,9.3857,10.0,5,False,0.1587,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal ingênuo,13.6919,13.7247,-10.7513,10.0,0,False,0.0,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Prophet,13.8894,14.0035,11.251,10.0,3,False,-0.1976,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA_PLUS (BigQuery),16.7645,16.5434,16.443,10.0,3,False,-3.0727,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal × crescimento,16.9373,17.6274,10.1438,10.0,1,False,-3.2454,False,Total,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA,9.5868,9.3141,-7.7909,10.0,2,True,5.469,True,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+SARIMAX calendário,10.2971,10.3093,7.192,10.0,3,False,4.7586,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Média móvel,11.9129,11.4371,6.8835,10.0,0,False,3.1429,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ETS (Holt-Winters),13.1263,12.8352,9.6126,10.0,2,False,1.9294,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ML calendário (GB+XGB),13.202,12.729,6.9958,10.0,4,False,1.8538,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Ingênuo,14.4489,14.507,14.3353,10.0,0,False,0.6068,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Híbrido Prophet+XGB,14.9092,15.3023,10.7115,10.0,5,False,0.1466,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal ingênuo,15.0557,15.1905,-9.6696,10.0,0,False,0.0,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Prophet,15.2698,15.3398,12.5993,10.0,3,False,-0.214,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Combinação top-3,15.5192,15.1543,4.381,10.0,6,False,-0.4635,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA_PLUS (BigQuery),18.1375,18.0582,17.8121,10.0,3,False,-3.0818,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal × crescimento,18.3546,19.2194,11.4788,10.0,1,False,-3.2988,False,Canal,"Escolhido: ARIMA (erro 9.6%). Erra 5.5 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA,103.9143,2545.4961,80.1854,16.0,2,True,105.7048,True,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ML calendário (GB+XGB),130.8612,3121.264,94.7274,16.0,4,False,78.7579,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA_PLUS (BigQuery),130.9292,3500.6733,112.7424,16.0,3,False,78.6899,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Ingênuo,133.2277,3480.2531,115.5423,16.0,0,False,76.3914,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Média móvel,150.3913,3891.1225,101.4942,16.0,0,False,59.2279,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Híbrido Prophet+XGB,180.6398,3933.6334,52.3239,16.0,5,False,28.9793,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Prophet,181.0437,3787.7366,53.3547,16.0,3,False,28.5755,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal × crescimento,207.3725,5443.1514,75.5122,16.0,1,False,2.2466,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal ingênuo,209.6191,6335.8297,70.2888,16.0,0,False,0.0,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+SARIMAX calendário,302.8648,14238.4829,216.746,16.0,3,False,-93.2456,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Combinação top-3,452.3555,13527.4442,442.4788,10.0,6,False,-242.7364,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ETS (Holt-Winters),1276.1446,4129.5796,1275.3846,16.0,2,False,-1066.5255,False,Origem 1P/3P,"Escolhido: ARIMA (erro 103.9%). Erra 105.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+SARIMAX calendário,8.9778,8.7724,5.9257,10.0,3,True,4.7,True,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA,10.6115,10.4254,-8.8802,10.0,2,False,3.0663,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Média móvel,10.9921,10.545,5.6208,10.0,0,False,2.6857,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ML calendário (GB+XGB),11.8483,11.2431,5.7318,10.0,4,False,1.8295,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Combinação top-3,12.905,12.3182,2.1562,10.0,6,False,0.7727,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Ingênuo,13.3593,13.4696,12.9846,10.0,0,False,0.3185,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ETS (Holt-Winters),13.3739,13.1788,8.3177,10.0,2,False,0.3039,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Híbrido Prophet+XGB,13.5353,13.7954,9.4036,10.0,5,False,0.1424,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal ingênuo,13.6778,13.712,-10.7367,10.0,0,False,0.0,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Prophet,13.908,14.0224,11.2691,10.0,3,False,-0.2303,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA_PLUS (BigQuery),16.7419,16.5163,16.4204,10.0,3,False,-3.0641,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal × crescimento,16.9401,17.6293,10.1618,10.0,1,False,-3.2623,False,Região,"Escolhido: SARIMAX calendário (erro 9.0%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Top-down (pai × part.),9.5379,9.8595,5.9257,20.0,6,True,4.6537,True,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+SARIMAX calendário,10.0822,11.3449,5.3933,20.0,3,False,4.1094,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Média móvel,11.5055,10.0944,5.6208,20.0,0,False,2.6861,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ML calendário (GB+XGB),11.7382,10.9218,4.4975,20.0,4,False,2.4534,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA,12.6023,10.6609,-2.3017,20.0,2,False,1.5893,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Prophet,13.9214,12.7801,10.0985,20.0,3,False,0.2702,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Híbrido Prophet+XGB,13.9293,14.313,8.8518,20.0,5,False,0.2624,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Combinação top-3,13.9551,11.7342,2.8872,20.0,6,False,0.2365,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ETS (Holt-Winters),13.9708,11.8415,5.808,20.0,2,False,0.2208,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal ingênuo,14.1916,15.4157,-10.7367,20.0,0,False,0.0,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Ingênuo,14.2198,16.7456,12.9846,20.0,0,False,-0.0281,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA_PLUS (BigQuery),15.9749,12.8958,14.5152,20.0,3,False,-1.7833,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal × crescimento,18.4163,18.5313,10.2835,20.0,1,False,-4.2246,False,UF,"Escolhido: Top-down (pai × part.) (erro 9.5%). Erra 4.7 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Combinação top-3,18.8108,24.8918,2.75,130.0,6,True,12.1959,True,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Top-down (pai × part.),19.4388,33.2204,5.1669,120.0,6,True,11.5679,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+SARIMAX calendário,19.7891,30.1338,4.5661,130.0,3,False,11.2175,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA,20.0514,27.2261,0.7109,130.0,2,False,10.9552,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ETS (Holt-Winters),20.1975,26.4234,1.124,130.0,2,False,10.8092,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ML calendário (GB+XGB),20.9391,26.0113,4.7496,130.0,4,False,10.0675,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Média móvel,21.1683,30.688,5.6036,130.0,0,False,9.8383,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Prophet,22.6532,33.3906,9.0076,130.0,3,False,8.3534,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Híbrido Prophet+XGB,23.3222,36.5802,10.2128,130.0,5,False,7.6844,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Ingênuo,23.7467,28.8069,12.9662,130.0,0,False,7.2599,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA_PLUS (BigQuery),24.3146,31.199,10.9096,130.0,3,False,6.692,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal × crescimento,25.8889,38.9112,11.3275,130.0,1,False,5.1177,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal ingênuo,31.0066,43.0954,-10.7513,130.0,0,False,0.0,False,Marca,"Escolhido: Combinação top-3 (erro 18.8%). Erra 12.2 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA,19.9949,42.269,-7.9401,260.0,2,True,7.784,True,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ARIMA_PLUS (BigQuery),20.5947,47.0385,-1.4942,260.0,3,True,7.1841,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Combinação top-3,21.7274,42.1407,1.7302,260.0,6,False,6.0514,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Média móvel,21.9064,48.7432,5.6036,260.0,0,False,5.8724,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ETS (Holt-Winters),22.3383,41.6449,-2.43,260.0,2,False,5.4405,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+ML calendário (GB+XGB),23.1127,44.891,1.6571,260.0,4,False,4.6661,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Prophet,26.5024,58.8322,11.3874,260.0,3,False,1.2764,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+SARIMAX calendário,27.6689,62.1223,4.5302,260.0,3,False,0.11,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal ingênuo,27.7788,46.4703,-10.7513,260.0,0,False,0.0,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Sazonal × crescimento,28.0825,59.6461,9.7223,260.0,1,False,-0.3036,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Ingênuo,29.5977,60.7571,12.9662,260.0,0,False,-1.8189,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5
+Híbrido Prophet+XGB,43.2302,121.2578,27.2333,260.0,5,False,-15.4514,False,Produto,"Escolhido: ARIMA (erro 20.0%). Erra 7.8 p.p. menos que ""Sazonal ingênuo"".",2026-10-07,v5

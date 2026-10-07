@@ -1,0 +1,500 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Painel de Vendas Liah</title>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f4f3ef; --surface: #fcfcfb; --border: #e3e1da; --grid: #ecebe6;
+  --text-1: #0b0b0b; --text-2: #52514e; --text-3: #7a7974;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #4a3aa7; --s8: #e34948;
+  --outros: #b9b8b1; --soft: #b7d3f6;
+  --good: #0a7d0a; --bad: #c03030;
+  --seq-0: #f0f5fc; --seq-1: #cde2fb; --seq-2: #9ec5f4; --seq-3: #6da7ec; --seq-4: #3987e5; --seq-5: #256abf; --seq-6: #184f95;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #121211; --surface: #1a1a19; --border: #2e2e2b; --grid: #262624;
+    --text-1: #ffffff; --text-2: #c3c2b7; --text-3: #8f8e86;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
+    --outros: #5b5a55; --soft: #1c5cab;
+    --good: #4cc44c; --bad: #ef7a7a;
+    --seq-0: #1f2733; --seq-1: #104281; --seq-2: #184f95; --seq-3: #1c5cab; --seq-4: #256abf; --seq-5: #3987e5; --seq-6: #86b6ef;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #121211; --surface: #1a1a19; --border: #2e2e2b; --grid: #262624;
+  --text-1: #ffffff; --text-2: #c3c2b7; --text-3: #8f8e86;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
+  --outros: #5b5a55; --soft: #1c5cab;
+  --good: #4cc44c; --bad: #ef7a7a;
+  --seq-0: #1f2733; --seq-1: #104281; --seq-2: #184f95; --seq-3: #1c5cab; --seq-4: #256abf; --seq-5: #3987e5; --seq-6: #86b6ef;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text-1);
+  font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+header { padding: 20px 16px 8px; max-width: 1280px; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-end; justify-content: space-between; }
+h1 { font-size: 22px; margin: 0; }
+.sub { color: var(--text-2); font-size: 13px; }
+.acoes { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+button, select { font: inherit; color: var(--text-1); background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 6px 12px; cursor: pointer; }
+button:hover, select:hover { border-color: var(--text-3); }
+main { max-width: 1280px; margin: 0 auto; padding: 8px 16px 40px; }
+nav { display: flex; gap: 4px; flex-wrap: wrap; margin: 8px 0 16px; border-bottom: 1px solid var(--border); }
+nav button { border: none; border-bottom: 2px solid transparent; border-radius: 0; background: none; color: var(--text-2); padding: 8px 12px; }
+nav button.ativo { color: var(--text-1); border-bottom-color: var(--s1); font-weight: 600; }
+.aba { display: none; } .aba.ativa { display: block; }
+.grade { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 520px), 1fr)); }
+.kpis { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 210px), 1fr)); margin-bottom: 16px; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px; min-width: 0; }
+.card h2 { font-size: 15px; margin: 0 0 2px; }
+.card .nota { color: var(--text-3); font-size: 12px; margin: 0 0 10px; }
+.kpi .rot { color: var(--text-2); font-size: 12px; }
+.kpi .val { font-size: 26px; font-weight: 650; margin: 2px 0; font-variant-numeric: tabular-nums; }
+.kpi .cmp { font-size: 12px; color: var(--text-2); }
+.up { color: var(--good); } .down { color: var(--bad); }
+.chart { width: 100%; position: relative; }
+.chart svg { display: block; width: 100%; overflow: visible; }
+.legenda { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 12px; color: var(--text-2); margin: 0 0 6px; }
+.legenda span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 5px; vertical-align: -1px; background: var(--c); }
+.legenda span.linha::before { height: 3px; vertical-align: 3px; }
+table { width: 100%; border-collapse: collapse; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { padding: 6px 8px; text-align: right; border-bottom: 1px solid var(--grid); white-space: nowrap; }
+th:first-child, td:first-child { text-align: left; }
+th { color: var(--text-2); font-weight: 600; font-size: 12px; }
+.tabwrap { overflow-x: auto; }
+.heat td { text-align: center; border: 2px solid var(--surface); border-radius: 4px; font-size: 12px; }
+#tip { position: fixed; pointer-events: none; background: var(--surface); color: var(--text-1); border: 1px solid var(--border);
+  border-radius: 8px; padding: 8px 10px; font-size: 12px; box-shadow: 0 4px 16px rgba(0,0,0,.15); display: none; z-index: 10; max-width: 280px; }
+#tip b { display: block; margin-bottom: 4px; }
+#tip .ln { display: flex; justify-content: space-between; gap: 12px; }
+#tip .ln i { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; background: var(--c); }
+.vazio { color: var(--text-3); padding: 24px; text-align: center; }
+.aviso { background: var(--surface); border: 1px dashed var(--border); border-radius: 12px; padding: 24px; color: var(--text-2); }
+footer { color: var(--text-3); font-size: 12px; max-width: 1280px; margin: 0 auto; padding: 0 16px 24px; }
+.filtro { display: flex; gap: 8px; align-items: center; margin-bottom: 12px; flex-wrap: wrap; color: var(--text-2); font-size: 13px; }
+</style>
+<!-- Dados gerados pelo notebook analise_vendas_liah_bigframes.ipynb (mesma pasta) -->
+<script src="dados_painel.js"></script>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Vendas Liah</h1>
+    <div class="sub" id="subtitulo">Pedidos válidos (sem cancelados, PIX não pago, aguardando pagamento e testes)</div>
+  </div>
+  <div class="acoes">
+    <button id="btnCarregar" title="Carregar um dados_painel.json">Carregar dados</button>
+    <input type="file" id="arquivo" accept=".json,application/json" hidden>
+    <button id="btnTema" title="Alternar tema claro/escuro">Tema</button>
+  </div>
+</header>
+<main>
+  <nav id="abas">
+    <button data-aba="resumo" class="ativo">Resumo</button>
+    <button data-aba="tempo">Meses e semanas</button>
+    <button data-aba="padroes">Padrões de compra</button>
+    <button data-aba="mix">Mix e granularidade</button>
+    <button data-aba="ranking">Rankings e datas</button>
+  </nav>
+  <div id="conteudo"></div>
+</main>
+<footer>Análise interna, sujeita a validação pela área responsável; não é número oficial da Tecsa.</footer>
+<div id="tip"></div>
+
+<script>
+(function () {
+'use strict';
+const MESES = ['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'];
+const DIAS = ['Seg','Ter','Qua','Qui','Sex','Sáb','Dom'];
+const NS = 'http://www.w3.org/2000/svg';
+const nf0 = new Intl.NumberFormat('pt-BR', { maximumFractionDigits: 0 });
+const nf1 = new Intl.NumberFormat('pt-BR', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+const brl = v => v == null ? '—' : 'R$ ' + nf0.format(v);
+const brlK = v => v == null ? '—' : (Math.abs(v) >= 1e6 ? 'R$ ' + nf1.format(v / 1e6) + ' mi' : Math.abs(v) >= 1e3 ? 'R$ ' + nf0.format(v / 1e3) + ' mil' : 'R$ ' + nf0.format(v));
+const num = v => v == null ? '—' : nf0.format(v);
+const pct = v => v == null || !isFinite(v) ? '—' : (v > 0 ? '+' : '') + nf1.format(v) + '%';
+const cor = i => `var(--s${(i % 8) + 1})`;
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const mesRot = m => { const [a, mm] = m.split('-'); return MESES[+mm - 1] + '/' + a.slice(2); };
+const dataBR = d => { const [a, m, dd] = d.split('-'); return `${dd}/${m}/${a}`; };
+let D = null;
+
+// ---------- tooltip
+const tip = document.getElementById('tip');
+function mostrarTip(ev, titulo, linhas) {
+  tip.innerHTML = `<b>${titulo}</b>` + linhas.map(l =>
+    `<div class="ln"><span>${l.c ? `<i style="--c:${l.c}"></i>` : ''}${l.n}</span><span>${l.v}</span></div>`).join('');
+  tip.style.display = 'block';
+  const r = tip.getBoundingClientRect();
+  let x = ev.clientX + 14, y = ev.clientY + 14;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - 14;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - 14;
+  tip.style.left = x + 'px'; tip.style.top = y + 'px';
+}
+const esconderTip = () => { tip.style.display = 'none'; };
+
+// ---------- SVG helpers
+function el(tag, attrs, pai) {
+  const e = document.createElementNS(NS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (pai) pai.appendChild(e);
+  return e;
+}
+function niceMax(v) {
+  if (!(v > 0)) return 1;
+  const p = Math.pow(10, Math.floor(Math.log10(v))), f = v / p;
+  return (f <= 1 ? 1 : f <= 2 ? 2 : f <= 2.5 ? 2.5 : f <= 5 ? 5 : 10) * p;
+}
+function eixo(svg, W, H, m, maxY, fmtY, minY = 0) {
+  const g = el('g', {}, svg);
+  for (let i = 0; i <= 4; i++) {
+    const v = minY + (maxY - minY) * i / 4, y = H - m.b - (H - m.t - m.b) * i / 4;
+    el('line', { x1: m.l, x2: W - m.r, y1: y, y2: y, stroke: 'var(--grid)', 'stroke-width': 1 }, g);
+    const t = el('text', { x: m.l - 6, y: y + 4, 'text-anchor': 'end', 'font-size': 11, fill: 'var(--text-3)' }, g);
+    t.textContent = fmtY(v);
+  }
+  return g;
+}
+function rotulosX(svg, labels, xPos, H, m, maxRot) {
+  const passo = Math.max(1, Math.ceil(labels.length / maxRot));
+  labels.forEach((l, i) => {
+    if (i % passo) return;
+    const t = el('text', { x: xPos(i), y: H - m.b + 16, 'text-anchor': 'middle', 'font-size': 11, fill: 'var(--text-3)' }, svg);
+    t.textContent = l;
+  });
+}
+function legenda(cont, itens) {
+  const d = document.createElement('div'); d.className = 'legenda';
+  d.innerHTML = itens.map(i => `<span class="${i.linha ? 'linha' : ''}" style="--c:${i.c}">${i.n}</span>`).join('');
+  cont.appendChild(d);
+}
+// Gráficos são desenhados depois que todos os cards da aba existem (para medir a largura final do grid)
+let fila = null;
+const adiar = fn => (...a) => fila ? fila.push(() => fn(...a)) : fn(...a);
+function largura(cont) { return Math.max(280, cont.clientWidth || 600); }
+
+// Linhas (eixo x categórico) com crosshair
+const linhas = adiar(function (cont, { labels, series, fmt, altura = 260, tracejarDepois = null }) {
+  cont.innerHTML = '';
+  if (series.length > 1) legenda(cont, series.map(s => ({ n: s.nome, c: s.cor, linha: true })));
+  const W = largura(cont), H = altura, m = { t: 10, r: 14, b: 26, l: 70 };
+  const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, height: H, role: 'img' }, cont);
+  const vals = series.flatMap(s => s.valores).filter(v => v != null);
+  const maxY = niceMax(Math.max(...vals) * 1.05);
+  eixo(svg, W, H, m, maxY, v => fmt(v, true));
+  const x = i => m.l + (labels.length === 1 ? (W - m.l - m.r) / 2 : (W - m.l - m.r) * i / (labels.length - 1));
+  const y = v => H - m.b - (H - m.t - m.b) * v / maxY;
+  rotulosX(svg, labels, x, H, m, Math.floor(W / 60));
+  series.forEach(s => {
+    let d = '', pen = false;
+    s.valores.forEach((v, i) => {
+      if (v == null) { pen = false; return; }
+      d += (pen ? 'L' : 'M') + x(i) + ',' + y(v); pen = true;
+    });
+    el('path', { d, fill: 'none', stroke: s.cor, 'stroke-width': 2, 'stroke-linejoin': 'round', 'stroke-dasharray': s.tracejado ? '5 4' : 'none' }, svg);
+    s.valores.forEach((v, i) => {
+      if (v == null) return;
+      const parcial = s.parcial && s.parcial[i];
+      if (s.pontos === false && !parcial) return;
+      el('circle', { cx: x(i), cy: y(v), r: 4, fill: parcial ? 'var(--surface)' : s.cor, stroke: parcial ? s.cor : 'var(--surface)', 'stroke-width': 2 }, svg);
+    });
+  });
+  const cross = el('line', { y1: m.t, y2: H - m.b, stroke: 'var(--text-3)', 'stroke-width': 1, visibility: 'hidden' }, svg);
+  const alvo = el('rect', { x: m.l, y: m.t, width: W - m.l - m.r, height: H - m.t - m.b, fill: 'transparent' }, svg);
+  alvo.addEventListener('mousemove', ev => {
+    const r = svg.getBoundingClientRect(), px = (ev.clientX - r.left) * W / r.width;
+    const i = Math.max(0, Math.min(labels.length - 1, Math.round((px - m.l) / ((W - m.l - m.r) / Math.max(1, labels.length - 1)))));
+    cross.setAttribute('x1', x(i)); cross.setAttribute('x2', x(i)); cross.setAttribute('visibility', 'visible');
+    mostrarTip(ev, labels[i], series.filter(s => s.valores[i] != null).map(s => ({ n: s.nome + (s.parcial && s.parcial[i] ? ' (parcial)' : ''), v: fmt(s.valores[i]), c: s.cor })));
+  });
+  alvo.addEventListener('mouseleave', () => { cross.setAttribute('visibility', 'hidden'); esconderTip(); });
+});
+
+// Barras (uma série), com linha de referência e linha extra opcional
+const barras = adiar(function (cont, { labels, valores, fmt, corFn, ref = null, extra = null, altura = 240, titulos = labels, horizontal = false }) {
+  cont.innerHTML = '';
+  if (extra) legenda(cont, [{ n: extra.nomeBarras, c: corFn ? corFn(0, valores[0]) : 'var(--s1)' }, { n: extra.nome, c: extra.cor, linha: true }]);
+  if (horizontal) return barrasH(cont, { labels, valores, fmt, corFn });
+  const W = largura(cont), H = altura, m = { t: 10, r: 10, b: 26, l: 70 };
+  const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, height: H, role: 'img' }, cont);
+  const maxY = niceMax(Math.max(...valores, ref || 0, ...(extra ? extra.valores.filter(v => v != null) : [0])) * 1.05);
+  eixo(svg, W, H, m, maxY, v => fmt(v, true));
+  const n = valores.length, bw = (W - m.l - m.r) / n, gap = Math.max(2, Math.min(bw * 0.25, 10));
+  const xc = i => m.l + bw * i + bw / 2, y = v => H - m.b - (H - m.t - m.b) * v / maxY;
+  rotulosX(svg, labels, xc, H, m, Math.floor(W / 52));
+  valores.forEach((v, i) => {
+    const h = Math.max(0, H - m.b - y(v)), w = Math.max(1, bw - gap), x0 = xc(i) - w / 2, r = Math.min(4, w / 2, h);
+    const d = `M${x0},${H - m.b} V${H - m.b - h + r} Q${x0},${H - m.b - h} ${x0 + r},${H - m.b - h} H${x0 + w - r} Q${x0 + w},${H - m.b - h} ${x0 + w},${H - m.b - h + r} V${H - m.b} Z`;
+    el('path', { d, fill: corFn ? corFn(i, v) : 'var(--s1)' }, svg);
+  });
+  if (ref != null) {
+    el('line', { x1: m.l, x2: W - m.r, y1: y(ref), y2: y(ref), stroke: 'var(--text-2)', 'stroke-width': 1, 'stroke-dasharray': '4 3' }, svg);
+  }
+  if (extra) {
+    let d = '', pen = false;
+    extra.valores.forEach((v, i) => { if (v == null) { pen = false; return; } d += (pen ? 'L' : 'M') + xc(i) + ',' + y(v); pen = true; });
+    el('path', { d, fill: 'none', stroke: extra.cor, 'stroke-width': 2 }, svg);
+  }
+  valores.forEach((v, i) => {
+    const a = el('rect', { x: m.l + bw * i, y: m.t, width: bw, height: H - m.t - m.b, fill: 'transparent' }, svg);
+    a.addEventListener('mousemove', ev => mostrarTip(ev, titulos[i], [{ n: extra ? extra.nomeBarras : 'Valor', v: fmt(v) }].concat(extra && extra.valores[i] != null ? [{ n: extra.nome, v: fmt(extra.valores[i]) }] : [])));
+    a.addEventListener('mouseleave', esconderTip);
+  });
+});
+function barrasH(cont, { labels, valores, fmt, corFn }) {
+  const W = largura(cont), lh = 26, m = { t: 4, r: 70, b: 4, l: Math.min(150, W * 0.35) };
+  const H = m.t + m.b + lh * valores.length;
+  const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, height: H, role: 'img' }, cont);
+  const maxV = Math.max(...valores) || 1;
+  valores.forEach((v, i) => {
+    const y0 = m.t + i * lh, w = (W - m.l - m.r) * v / maxV;
+    const t = el('text', { x: m.l - 8, y: y0 + lh / 2 + 4, 'text-anchor': 'end', 'font-size': 12, fill: 'var(--text-2)' }, svg); t.textContent = labels[i];
+    el('rect', { x: m.l, y: y0 + 5, width: Math.max(1, w), height: lh - 10, rx: 4, fill: corFn ? corFn(i, v) : 'var(--s1)' }, svg);
+    const tv = el('text', { x: m.l + w + 6, y: y0 + lh / 2 + 4, 'font-size': 12, fill: 'var(--text-1)' }, svg); tv.textContent = fmt(v);
+  });
+}
+
+// Barras 100% empilhadas (participação por mês)
+const empilhado100 = adiar(function (cont, { labels, series, altura = 280 }) {
+  cont.innerHTML = '';
+  legenda(cont, series.map(s => ({ n: s.nome, c: s.cor })));
+  const W = largura(cont), H = altura, m = { t: 10, r: 10, b: 26, l: 46 };
+  const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, height: H, role: 'img' }, cont);
+  eixo(svg, W, H, m, 100, v => nf0.format(v) + '%');
+  const n = labels.length, bw = (W - m.l - m.r) / n, w = Math.max(2, bw - Math.max(2, Math.min(bw * 0.2, 8)));
+  const xc = i => m.l + bw * i + bw / 2, y = v => H - m.b - (H - m.t - m.b) * v / 100;
+  rotulosX(svg, labels, xc, H, m, Math.floor(W / 52));
+  labels.forEach((l, i) => {
+    const tot = series.reduce((a, s) => a + (s.valores[i] || 0), 0) || 1;
+    let acc = 0;
+    series.forEach(s => {
+      const p = (s.valores[i] || 0) / tot * 100;
+      if (p <= 0) return;
+      const y1 = y(acc + p), y0 = y(acc);
+      el('rect', { x: xc(i) - w / 2, y: y1, width: w, height: Math.max(0, y0 - y1 - (acc + p < 99.9 ? 2 : 0)), fill: s.cor }, svg);
+      acc += p;
+    });
+    const a = el('rect', { x: m.l + bw * i, y: m.t, width: bw, height: H - m.t - m.b, fill: 'transparent' }, svg);
+    a.addEventListener('mousemove', ev => mostrarTip(ev, l, series.slice().reverse().map(s => ({ n: s.nome, c: s.cor,
+      v: nf1.format((s.valores[i] || 0) / tot * 100) + '% · ' + brlK(s.valores[i] || 0) }))));
+    a.addEventListener('mouseleave', esconderTip);
+  });
+});
+
+function tabela(cont, cab, linhas) {
+  cont.innerHTML = `<div class="tabwrap"><table><thead><tr>${cab.map(c => `<th>${c}</th>`).join('')}</tr></thead><tbody>${
+    linhas.map(l => `<tr>${l.map(c => `<td>${c}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
+}
+function card(pai, titulo, nota, largo) {
+  const c = document.createElement('section'); c.className = 'card';
+  if (largo) c.style.gridColumn = '1 / -1';
+  c.innerHTML = `<h2>${titulo}</h2>${nota ? `<p class="nota">${nota}</p>` : ''}`;
+  const corpo = document.createElement('div'); corpo.className = 'chart';
+  c.appendChild(corpo); pai.appendChild(c);
+  return corpo;
+}
+const variacao = (a, b) => (a != null && b) ? (a / b - 1) * 100 : null;
+const seta = v => v == null ? '' : `<span class="${v >= 0 ? 'up' : 'down'}">${v >= 0 ? '▲' : '▼'} ${pct(v)}</span>`;
+
+// ---------- abas
+const RENDER = {};
+let abaAtual = 'resumo';
+function desenhar() {
+  const c = document.getElementById('conteudo');
+  if (!D) {
+    c.innerHTML = `<div class="aviso"><b>Sem dados.</b> Rode o notebook <code>analise_vendas_liah_bigframes.ipynb</code>: ele grava
+      <code>dados_painel.js</code> na pasta <code>dashboard</code>. Deixe este HTML na mesma pasta e recarregue a página,
+      ou use <b>Carregar dados</b> para abrir o <code>dados_painel.json</code>.</div>`;
+    return;
+  }
+  document.getElementById('subtitulo').textContent =
+    `Dados até ${dataBR(D.fim)} · gerado em ${D.gerado_em} · pedidos válidos (sem cancelados, PIX não pago, aguardando pagamento e testes)`;
+  c.innerHTML = '';
+  const raiz = document.createElement('div'); c.appendChild(raiz);
+  try { fila = []; RENDER[abaAtual](raiz); const f = fila; fila = null; f.forEach(fn => fn()); } catch (e) { fila = null; raiz.innerHTML = `<div class="aviso">Erro ao desenhar esta aba: ${e.message}</div>`; console.error(e); }
+}
+document.getElementById('abas').addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  document.querySelectorAll('#abas button').forEach(x => x.classList.toggle('ativo', x === b));
+  abaAtual = b.dataset.aba; desenhar();
+});
+
+// ===== RESUMO
+RENDER.resumo = raiz => {
+  const k = document.createElement('div'); k.className = 'kpis'; raiz.appendChild(k);
+  const tiles = [];
+  if (D.mtd) {
+    const [a, mm] = D.mtd.mes.split('-');
+    tiles.push({ rot: `Faturamento ${MESES[+mm - 1]}/${a} (até dia ${+D.fim.slice(8)})`, val: brl(D.mtd.fat), cmp: `${seta(variacao(D.mtd.fat, D.mtd.fat_ly))} vs mesmo período do ano anterior` });
+    tiles.push({ rot: `Pedidos ${MESES[+mm - 1]}/${a}`, val: num(D.mtd.ped), cmp: `${seta(variacao(D.mtd.ped, D.mtd.ped_ly))} vs ano anterior` });
+  }
+  if (D.j30) {
+    tiles.push({ rot: 'Faturamento últimos 30 dias', val: brl(D.j30.fat), cmp: `${seta(variacao(D.j30.fat, D.j30.fat_ly))} vs ano ant. · ${seta(variacao(D.j30.fat, D.j30.fat_prev))} vs 30 dias antes` });
+    tiles.push({ rot: 'Ticket médio últimos 30 dias', val: 'R$ ' + nf1.format(D.j30.tk), cmp: `${seta(variacao(D.j30.tk, D.j30.tk_ly))} vs ano anterior` });
+  }
+  if (D.ytd && D.ytd.atual) {
+    tiles.push({ rot: `Acumulado jan–${MESES[D.ytd.mes_fim - 1]} ${D.ytd.ano}`, val: brlK(D.ytd.atual.fat),
+      cmp: D.ytd.anterior ? `${seta(variacao(D.ytd.atual.fat, D.ytd.anterior.fat))} vs ${D.ytd.ano - 1} · ${num(D.ytd.atual.ped)} pedidos` : `${num(D.ytd.atual.ped)} pedidos` });
+  }
+  k.innerHTML = tiles.map(t => `<div class="card kpi"><div class="rot">${t.rot}</div><div class="val">${t.val}</div><div class="cmp">${t.cmp}</div></div>`).join('');
+
+  const g = document.createElement('div'); g.className = 'grade'; raiz.appendChild(g);
+  const jan = card(g, 'Janelas móveis', 'Comparação com o mesmo período do ano anterior e com o período imediatamente anterior');
+  const lin = [];
+  [['Últimos 30 dias', D.j30], ['Últimos 90 dias', D.j90]].forEach(([n, j]) => {
+    if (!j) return;
+    lin.push([n + ' — faturamento', brl(j.fat), brl(j.fat_ly), seta(variacao(j.fat, j.fat_ly)), seta(variacao(j.fat, j.fat_prev))]);
+    lin.push([n + ' — pedidos', num(j.ped), num(j.ped_ly), seta(variacao(j.ped, j.ped_ly)), seta(variacao(j.ped, j.ped_prev))]);
+  });
+  tabela(jan, ['', 'Atual', 'Ano anterior', 'vs ano ant.', 'vs período ant.'], lin);
+
+  const ult = D.mensal.slice(-13);
+  const c2 = card(g, 'Faturamento dos últimos 13 meses', 'Ponto vazado = mês em andamento');
+  linhas(c2, { labels: ult.map(x => mesRot(x.m)), series: [{ nome: 'Faturamento', cor: 'var(--s1)', valores: ult.map(x => x.fat), parcial: ult.map(x => !x.completo) }], fmt: (v, ax) => ax ? brlK(v) : brl(v) });
+};
+
+// ===== MESES E SEMANAS
+RENDER.tempo = raiz => {
+  const g = document.createElement('div'); g.className = 'grade'; raiz.appendChild(g);
+  const anos = [...new Set(D.mensal.map(x => +x.m.slice(0, 4)))].sort().slice(-3);
+  const corAno = a => ['var(--s3)', 'var(--s2)', 'var(--s1)'][3 - anos.length + anos.indexOf(a)];
+  const porAno = campo => anos.map(a => {
+    const v = Array(12).fill(null), p = Array(12).fill(false);
+    D.mensal.filter(x => +x.m.slice(0, 4) === a).forEach(x => { v[+x.m.slice(5) - 1] = x[campo]; p[+x.m.slice(5) - 1] = !x.completo; });
+    return { nome: String(a), cor: corAno(a), valores: v, parcial: p };
+  });
+  linhas(card(g, 'Faturamento por mês, ano a ano', 'Ponto vazado = mês em andamento'), { labels: MESES, series: porAno('fat'), fmt: (v, ax) => ax ? brlK(v) : brl(v) });
+  linhas(card(g, 'Pedidos por mês, ano a ano', 'Ponto vazado = mês em andamento'), { labels: MESES, series: porAno('ped'), fmt: v => num(v) });
+
+  const sem = D.semanal.filter(s => s.s >= (D.inicio_padroes || '0'));
+  const mm4 = sem.map((s, i) => i < 3 ? null : sem.slice(i - 3, i + 1).reduce((a, b) => a + b.fat, 0) / 4);
+  barras(card(g, 'Faturamento semanal (segunda a domingo)', 'Rótulo = segunda-feira da semana', true), {
+    labels: sem.map(s => dataBR(s.s).slice(0, 5)), titulos: sem.map(s => 'Semana de ' + dataBR(s.s)), valores: sem.map(s => s.fat),
+    fmt: (v, ax) => ax ? brlK(v) : brl(v), corFn: () => 'var(--soft)', extra: { nome: 'Média móvel 4 semanas', nomeBarras: 'Faturamento da semana', cor: 'var(--s1)', valores: mm4 }, altura: 280 });
+
+  const tk = D.mensal.filter(x => x.tk != null);
+  linhas(card(g, 'Ticket médio por mês'), { labels: tk.map(x => mesRot(x.m)), series: [{ nome: 'Ticket médio', cor: 'var(--s1)', valores: tk.map(x => x.tk), parcial: tk.map(x => !x.completo) }], fmt: v => 'R$ ' + nf1.format(v) });
+  linhas(card(g, 'Itens por pedido'), { labels: tk.map(x => mesRot(x.m)), series: [{ nome: 'Itens por pedido', cor: 'var(--s2)', valores: tk.map(x => x.itens), parcial: tk.map(x => !x.completo) }], fmt: v => nf1.format(v) });
+};
+
+// ===== PADRÕES
+RENDER.padroes = raiz => {
+  const g = document.createElement('div'); g.className = 'grade'; raiz.appendChild(g);
+  const desde = D.inicio_padroes ? ` desde ${dataBR(D.inicio_padroes)}` : '';
+  const dow = D.dow.slice().sort((a, b) => a.d - b.d);
+  barras(card(g, 'Pedidos por dia da semana', `Índice 100 = média diária${desde}. Barra escura = acima da média`), {
+    labels: dow.map(x => DIAS[x.d]), valores: dow.map(x => x.idx), ref: 100, fmt: v => nf0.format(v),
+    corFn: (i, v) => v >= 100 ? 'var(--s1)' : 'var(--soft)' });
+  barras(card(g, 'Pedidos por dia do mês', 'Índice 100 = média diária'), {
+    labels: D.dia_mes.map(x => String(x.dia)), titulos: D.dia_mes.map(x => 'Dia ' + x.dia), valores: D.dia_mes.map(x => x.idx), ref: 100,
+    fmt: v => nf0.format(v), corFn: (i, v) => v >= 100 ? 'var(--s1)' : 'var(--soft)' });
+
+  const t = card(g, 'Dia da semana: ticket e participação');
+  tabela(t, ['Dia', 'Pedidos/dia', 'Índice', 'Ticket', '% do faturamento'], dow.map(x => [DIAS[x.d], nf1.format(x.ped), nf0.format(x.idx), 'R$ ' + nf1.format(x.tk), nf1.format(x.share) + '%']));
+  const f = card(g, 'Faixas do mês', 'Índice 100 = média diária');
+  barras(f, { labels: D.faixas_mes.map(x => x.faixa), valores: D.faixas_mes.map(x => x.idx), ref: 100, fmt: v => nf0.format(v), corFn: (i, v) => v >= 100 ? 'var(--s1)' : 'var(--soft)', altura: 200 });
+
+  // mapa de calor
+  const h = card(g, 'Pedidos médios por dia: dia da semana × mês', 'Quanto mais escuro, mais pedidos', true);
+  const todos = D.heat.flat().filter(v => v != null), mn = Math.min(...todos), mx = Math.max(...todos);
+  const passo = v => v == null ? null : Math.min(6, Math.floor((v - mn) / ((mx - mn) || 1) * 6.999));
+  h.innerHTML = `<div class="tabwrap"><table class="heat"><thead><tr><th></th>${MESES.map(m => `<th style="text-align:center">${m}</th>`).join('')}</tr></thead><tbody>${
+    D.heat.map((row, i) => `<tr><td style="text-align:left;border:none">${DIAS[i]}</td>${row.map((v, j) => {
+      const s = passo(v);
+      return v == null ? '<td style="background:var(--grid)"></td>' :
+        `<td style="background:var(--seq-${s});color:${s >= 4 ? '#fff' : 'var(--text-1)'}" title="${DIAS[i]} · ${MESES[j]}: ${nf1.format(v)} pedidos/dia">${nf0.format(v)}</td>`;
+    }).join('')}</tr>`).join('')}</tbody></table></div>`;
+
+  if (D.feriado) {
+    const fe = card(g, 'Feriados × dias comuns', 'Pedidos por dia');
+    barras(fe, { labels: ['Feriados', 'Dias úteis comuns', 'Média geral'], valores: [D.feriado.media_feriado, D.feriado.media_util, D.feriado.media_geral], fmt: v => nf1.format(v), corFn: i => i === 0 ? 'var(--s2)' : 'var(--s1)', horizontal: true });
+  }
+};
+
+// ===== MIX
+RENDER.mix = raiz => {
+  const g = document.createElement('div'); g.className = 'grade'; raiz.appendChild(g);
+  if (D.origem && D.origem.length) {
+    const chaves = [...new Set(D.origem.flatMap(o => Object.keys(o).filter(k => k !== 'm')))];
+    const ordem = ['1P', '3P'].filter(k => chaves.includes(k)).concat(chaves.filter(k => k !== '1P' && k !== '3P'));
+    empilhado100(card(g, 'Faturamento por origem (1P / 3P)', '% do faturamento do mês'), {
+      labels: D.origem.map(o => mesRot(o.m)), series: ordem.map((k, i) => ({ nome: k, cor: k === 'SEM_INFO' ? 'var(--outros)' : cor(i), valores: D.origem.map(o => o[k] || 0) })) });
+  }
+  if (D.nao_concluidos && D.nao_concluidos.length) {
+    linhas(card(g, 'Pedidos não concluídos', '% dos pedidos criados: cancelados, PIX não pago, aguardando, testes'), {
+      labels: D.nao_concluidos.map(x => mesRot(x.m)), series: [{ nome: 'Não concluídos', cor: 'var(--s2)', valores: D.nao_concluidos.map(x => x.pct) }], fmt: v => nf1.format(v) + '%' });
+  }
+  const niveis = D.mix ? Object.keys(D.mix) : [];
+  if (!niveis.length) {
+    g.insertAdjacentHTML('beforeend', '<div class="card vazio" style="grid-column:1/-1">Sem dados de mix — rode a versão bigframes do notebook (seção 9).</div>');
+    return;
+  }
+  const bloco = document.createElement('section'); bloco.className = 'card'; bloco.style.gridColumn = '1 / -1'; g.appendChild(bloco);
+  bloco.innerHTML = `<h2>Participação no faturamento por corte</h2><p class="nota">Sem pedidos extremos. Mostra os 7 maiores do período; o restante vira "Outros".</p>
+    <div class="filtro">Corte: <select id="selNivel">${niveis.map(n => `<option>${n}</option>`).join('')}</select></div>
+    <div class="chart" id="mixChart"></div><div id="mixTab" style="margin-top:12px"></div>`;
+  const sel = bloco.querySelector('#selNivel');
+  const desenharMix = () => {
+    const rows = D.mix[sel.value].filter(r => r.m.slice(0, 7) < D.fim.slice(0, 7));
+    const tot = {};
+    rows.forEach(r => Object.keys(r).forEach(k => { if (k !== 'm') tot[k] = (tot[k] || 0) + (r[k] || 0); }));
+    // ordem fixa por volume total (a cor acompanha a categoria, não a posição no mês)
+    const ord = Object.keys(tot).sort((a, b) => tot[b] - tot[a]);
+    const top = ord.slice(0, 7), resto = ord.slice(7);
+    const series = top.map((k, i) => ({ nome: k, cor: k.startsWith('SEM_') ? 'var(--outros)' : cor(i), valores: rows.map(r => r[k] || 0) }));
+    if (resto.length) series.push({ nome: `Outros (${resto.length})`, cor: 'var(--outros)', valores: rows.map(r => resto.reduce((a, k) => a + (r[k] || 0), 0)) });
+    empilhado100(bloco.querySelector('#mixChart'), { labels: rows.map(r => mesRot(r.m)), series });
+    const ult3 = rows.slice(-3), ant3 = rows.filter(r => ult3.some(u => +u.m.slice(0, 4) - 1 === +r.m.slice(0, 4) && u.m.slice(5, 7) === r.m.slice(5, 7)));
+    const soma = (rs, k) => rs.reduce((a, r) => a + (r[k] || 0), 0);
+    const totU = ord.reduce((a, k) => a + soma(ult3, k), 0) || 1;
+    tabela(bloco.querySelector('#mixTab'), [sel.value, 'Últimos 3 meses', 'Mesmos meses ano ant.', 'Variação', 'Participação'],
+      ord.slice(0, 15).map(k => { const a = soma(ult3, k), b = soma(ant3, k);
+        return [k, brl(a), ant3.length ? brl(b) : '—', ant3.length ? seta(variacao(a, b)) : '—', nf1.format(a / totU * 100) + '%']; }));
+  };
+  sel.addEventListener('change', desenharMix); desenharMix();
+
+  if (D.ruido_por_nivel) {
+    const r = Object.entries(D.ruido_por_nivel).filter(([, v]) => v != null).sort((a, b) => a[1] - b[1]);
+    barras(card(g, 'Oscilação semanal por nível (ruído)', 'Coeficiente de variação semanal: quanto mais fino o corte, mais a série oscila e mais difícil é prever', true), {
+      labels: r.map(x => x[0]), valores: r.map(x => x[1]), fmt: v => nf1.format(v * 100) + '%', horizontal: true, corFn: () => 'var(--s1)' });
+  }
+};
+
+// ===== RANKINGS E DATAS
+RENDER.ranking = raiz => {
+  const g = document.createElement('div'); g.className = 'grade'; raiz.appendChild(g);
+  if (D.especiais && D.especiais.length) {
+    tabela(card(g, 'Datas especiais', 'Pedidos por dia no período × período de referência antes dele', true), ['Período', 'Início', 'Pedidos/dia', 'Referência', 'Variação'],
+      D.especiais.map(e => [e.nome, dataBR(e.inicio), nf1.format(e.media), nf1.format(e.ref), seta(e.var)]));
+  }
+  tabela(card(g, 'Melhores dias'), ['Dia', 'Dia da semana', 'Pedidos', 'Faturamento'],
+    D.top_dias.map(d => [dataBR(d.d), DIAS[(new Date(d.d + 'T12:00:00').getDay() + 6) % 7], num(d.ped), brl(d.fat)]));
+  tabela(card(g, 'Melhores semanas'), ['Semana de', 'Pedidos', 'Faturamento'], D.top_semanas.map(s => [dataBR(s.s), num(s.ped), brl(s.fat)]));
+  const ms = D.mensal.filter(m => m.completo && m.m >= (D.inicio_padroes || '').slice(0, 7)).sort((a, b) => b.fat - a.fat).slice(0, 6);
+  tabela(card(g, 'Melhores meses'), ['Mês', 'Pedidos', 'Faturamento', 'Ticket'], ms.map(m => [mesRot(m.m), num(m.ped), brl(m.fat), 'R$ ' + nf1.format(m.tk)]));
+};
+
+// ---------- carregar / tema / resize
+document.getElementById('btnCarregar').onclick = () => document.getElementById('arquivo').click();
+document.getElementById('arquivo').onchange = ev => {
+  const f = ev.target.files[0]; if (!f) return;
+  const r = new FileReader();
+  r.onload = () => { try { D = JSON.parse(r.result); desenhar(); } catch (e) { alert('Arquivo inválido: ' + e.message); } };
+  r.readAsText(f, 'utf-8');
+};
+document.getElementById('btnTema').onclick = () => {
+  const atual = document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+  document.documentElement.dataset.theme = atual === 'dark' ? 'light' : 'dark';
+};
+let t; addEventListener('resize', () => { clearTimeout(t); t = setTimeout(desenhar, 150); });
+D = window.DADOS_PAINEL || null;
+desenhar();
+})();
+</script>
+</body>
+</html>

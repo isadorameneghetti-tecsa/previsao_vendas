@@ -1,0 +1,120 @@
+id_produto,produto,marca,subgrupo,episodios,ganho_nos_picos,variacao_resto_subgrupo,taxa_canibalizacao,vendas_incrementais_%,desconto_no_pico_pp,semanas,leitura,data_base
+1049,Colágeno - Collagen Essential Protein,ESSENTIAL,SEM_SUBGRUPO,1,5.0,146.5,-29.3,3030.0,0.0,08/09/25,poucos picos (< 3) — inconclusivo,2026-10-04
+1065,Bio Vitamina B12 em gotas,PURAVIDA,SEM_SUBGRUPO,2,11.0,179.0,-16.2727,1727.2727,-0.0,"24/03/25, 29/09/25",poucos picos (< 3) — inconclusivo,2026-10-04
+1092,Creatina 100%,NUTRIFY,SEM_SUBGRUPO,2,10.5,146.0,-13.9048,1490.4762,-0.0,"27/01/25, 04/05/26",poucos picos (< 3) — inconclusivo,2026-10-04
+1097,Creatina 100%,NUTRIFY,SEM_SUBGRUPO,2,20.5,49.0,-2.3902,339.0244,0.0,"27/01/25, 14/04/25",poucos picos (< 3) — inconclusivo,2026-10-04
+1118,Própolis Verde 70,APIS FLORA,SEM_SUBGRUPO,1,5.5,146.0,-26.5455,2754.5455,,08/09/25,poucos picos (< 3) — inconclusivo,2026-10-04
+1129,Coenzima Q10,YOSEN,SEM_SUBGRUPO,1,7.0,129.5,-18.5,1950.0,6.1145,28/09/26,poucos picos (< 3) — inconclusivo,2026-10-04
+1159,Refil Whey Concentrado Havanna - W100,NUTRATA,SEM_SUBGRUPO,1,6.0,23.5,-3.9167,491.6667,-0.0,30/06/25,poucos picos (< 3) — inconclusivo,2026-10-04
+1204,Vitamina D3,NUTRIFY,SEM_SUBGRUPO,2,11.5,143.5,-12.4783,1347.8261,0.0,"06/10/25, 10/08/26",poucos picos (< 3) — inconclusivo,2026-10-04
+1212,Ômega 3 - Ultra Caps 1000mg,EQUALIV,SEM_SUBGRUPO,1,5.0,88.0,-17.6,1860.0,,10/03/25,poucos picos (< 3) — inconclusivo,2026-10-04
+1213,Ômega 3 - EPA DHA - 1000mg,EQUALIV,SEM_SUBGRUPO,2,12.0,4.5,-0.375,137.5,15.4727,"20/01/25, 14/09/26",poucos picos (< 3) — inconclusivo,2026-10-04
+1214,Ômega 3 - EPA DHA - 1000mg,EQUALIV,SEM_SUBGRUPO,3,18.0,49.0,-2.7222,372.2222,-0.0,"09/02/26, 04/05/26, 27/07/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+1215,Ômega 3 - EPA DHA - 1000mg,EQUALIV,SEM_SUBGRUPO,5,28.0,178.5,-6.375,737.5,-0.0,"26/05/25, 02/06/25, 13/10/25, 13/04/26, 20/04/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+1219,Beef Protein,ESSENTIAL,SEM_SUBGRUPO,1,5.5,193.0,-35.0909,3609.0909,-0.0,10/02/25,poucos picos (< 3) — inconclusivo,2026-10-04
+1247,Omegafor Family - Ômega 3,VITAFOR,SEM_SUBGRUPO,1,7.0,38.5,-5.5,650.0,-0.0,17/03/25,poucos picos (< 3) — inconclusivo,2026-10-04
+1292,SuperCoffee,CAFFEINE ARMY,SEM_SUBGRUPO,1,5.5,-65.0,11.8182,-1081.8182,,23/06/25,poucos picos (< 3) — inconclusivo,2026-10-04
+1328,Fibras Prébioticas - Prebiotic,NUTRIFY,SEM_SUBGRUPO,1,7.0,-45.0,6.4286,-542.8571,,20/07/26,poucos picos (< 3) — inconclusivo,2026-10-04
+134,Creatina Monohidratada - Hardcore,INTEGRALMEDICA,SEM_SUBGRUPO,1,6.0,111.0,-18.5,1950.0,0.0,03/03/25,poucos picos (< 3) — inconclusivo,2026-10-04
+1341,Fresh Whey,DUX,SEM_SUBGRUPO,1,6.0,15.5,-2.5833,358.3333,14.975,24/08/26,poucos picos (< 3) — inconclusivo,2026-10-04
+1383,SuperCoffee,CAFFEINE ARMY,SEM_SUBGRUPO,2,10.5,-5.5,0.5238,47.619,0.0,"12/05/25, 09/06/25",poucos picos (< 3) — inconclusivo,2026-10-04
+1384,SuperCoffee Língua de gato - Kopenhagen,CAFFEINE ARMY,SEM_SUBGRUPO,10,84.5,840.5,-9.9467,1094.6746,1.9969,"19/01/26, 26/01/26, 06/04/26, 13/07/26, 27/07/26, 31/08/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+141,Creatina Monohidratada,ATLHETICA NUTRITION,SEM_SUBGRUPO,6,48.5,77.5,-1.5979,259.7938,0.0,"27/10/25, 09/02/26, 16/02/26, 23/02/26, 02/03/26, 03/08/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+1646,Salgadinho,BELIVE,SEM_SUBGRUPO,1,6.0,-95.5,15.9167,-1491.6667,8.9585,21/09/26,poucos picos (< 3) — inconclusivo,2026-10-04
+1647,Salgadinho,BELIVE,SEM_SUBGRUPO,2,13.0,-7.5,0.5769,42.3077,,"11/05/26, 31/08/26",poucos picos (< 3) — inconclusivo,2026-10-04
+1670,Tasty Whey 3W Gourmet,ADAPTOGEN,SEM_SUBGRUPO,1,6.0,61.5,-10.25,1125.0,0.0,13/10/25,poucos picos (< 3) — inconclusivo,2026-10-04
+170,100% Whey Pure,INTEGRALMEDICA,SEM_SUBGRUPO,1,8.5,139.0,-16.3529,1735.2941,,27/01/25,poucos picos (< 3) — inconclusivo,2026-10-04
+1886,Ferro Plus,VITAFOR,SEM_SUBGRUPO,1,5.0,58.5,-11.7,1270.0,0.0,13/04/26,poucos picos (< 3) — inconclusivo,2026-10-04
+1897,Eletrólitos,LIQUIDZ,SEM_SUBGRUPO,1,6.0,-62.5,10.4167,-941.6667,,09/03/26,poucos picos (< 3) — inconclusivo,2026-10-04
+1911,Whey Protein Isolado - Sachê,DUX,SEM_SUBGRUPO,2,11.5,27.0,-2.3478,334.7826,,"18/05/26, 10/08/26",poucos picos (< 3) — inconclusivo,2026-10-04
+1913,Whey Protein Isolado - Sachê,DUX,SEM_SUBGRUPO,1,13.0,-24.5,1.8846,-88.4615,,18/05/26,poucos picos (< 3) — inconclusivo,2026-10-04
+1966,NAC,OCEAN DROP,SEM_SUBGRUPO,2,14.5,230.5,-15.8966,1689.6552,,"23/02/26, 02/03/26",poucos picos (< 3) — inconclusivo,2026-10-04
+1968,Snack Proteico,OCEAN DROP,SEM_SUBGRUPO,1,5.0,19.5,-3.9,490.0,26.6973,24/08/26,poucos picos (< 3) — inconclusivo,2026-10-04
+1969,Snack Proteico,OCEAN DROP,SEM_SUBGRUPO,1,5.5,17.5,-3.1818,418.1818,,24/08/26,poucos picos (< 3) — inconclusivo,2026-10-04
+2,Whey Protein Concentrado,DUX,SEM_SUBGRUPO,1,6.0,45.0,-7.5,850.0,-0.0,10/08/26,poucos picos (< 3) — inconclusivo,2026-10-04
+31,Super Ômega 3,ESSENTIAL,SEM_SUBGRUPO,1,6.5,-79.0,12.1538,-1115.3846,0.0,08/12/25,poucos picos (< 3) — inconclusivo,2026-10-04
+32,Super Ômega 3,ESSENTIAL,SEM_SUBGRUPO,1,5.5,192.5,-35.0,3600.0,,10/02/25,poucos picos (< 3) — inconclusivo,2026-10-04
+35,Whey,ESSENTIAL,SEM_SUBGRUPO,1,5.0,55.5,-11.1,1210.0,,31/03/25,poucos picos (< 3) — inconclusivo,2026-10-04
+356,Suplemento Alimentar - GUARDIAN®,CENTRAL NUTRITION,SEM_SUBGRUPO,1,5.0,118.5,-23.7,2470.0,-0.0,27/07/26,poucos picos (< 3) — inconclusivo,2026-10-04
+357,Suplemento Alimentar - GUARDIAN®,CENTRAL NUTRITION,SEM_SUBGRUPO,1,6.5,-52.5,8.0769,-707.6923,,14/09/26,poucos picos (< 3) — inconclusivo,2026-10-04
+360,Probiótico - Simfort Plus,VITAFOR,SEM_SUBGRUPO,3,16.5,-61.5,3.7273,-272.7273,-0.0,"05/05/25, 20/04/26, 07/09/26",forte — a maior parte do ganho veio de produtos do mesmo subgrupo,2026-10-04
+363,"Vitaminas A, E, D e K2- RESTAURE® - Gotas",CENTRAL NUTRITION,SEM_SUBGRUPO,1,6.0,1.5,-0.25,125.0,0.0,04/05/26,poucos picos (< 3) — inconclusivo,2026-10-04
+375,Omegafor Plus,VITAFOR,SEM_SUBGRUPO,2,12.0,25.5,-2.125,312.5,2.4926,"12/01/26, 21/09/26",poucos picos (< 3) — inconclusivo,2026-10-04
+377,Aminoácido N-acetil L-cisteína (NAC),VITAFOR,SEM_SUBGRUPO,1,5.0,120.0,-24.0,2500.0,,17/02/25,poucos picos (< 3) — inconclusivo,2026-10-04
+378,Melatonina em Gotas,VITAFOR,SEM_SUBGRUPO,1,5.5,41.5,-7.5455,854.5455,,25/08/25,poucos picos (< 3) — inconclusivo,2026-10-04
+382,Magnésio Plus - 350mg,VITAFOR,SEM_SUBGRUPO,2,11.0,-110.5,10.0455,-904.5455,0.0,"30/06/25, 08/06/26",poucos picos (< 3) — inconclusivo,2026-10-04
+388,Colágeno - Colagentek II,VITAFOR,SEM_SUBGRUPO,2,10.5,5.0,-0.4762,147.619,-0.0,"05/05/25, 25/05/26",poucos picos (< 3) — inconclusivo,2026-10-04
+390,Colágeno - Colagentek Protein - Bodybalance,VITAFOR,SEM_SUBGRUPO,1,5.0,56.5,-11.3,1230.0,-0.0,31/03/25,poucos picos (< 3) — inconclusivo,2026-10-04
+394,Ômega 3 - Omegafor Memory,VITAFOR,SEM_SUBGRUPO,1,5.0,-41.0,8.2,-720.0,-0.0,29/06/26,poucos picos (< 3) — inconclusivo,2026-10-04
+396,"Boraprim - Borragem, Prímula e Gergelim",VITAFOR,SEM_SUBGRUPO,1,5.0,62.0,-12.4,1340.0,,13/10/25,poucos picos (< 3) — inconclusivo,2026-10-04
+397,Vitamina D - Vita D3,VITAFOR,SEM_SUBGRUPO,10,54.0,-209.0,3.8704,-287.037,0.0,"20/10/25, 03/11/25, 27/04/26, 04/05/26, 15/06/26, 17/08/26",forte — a maior parte do ganho veio de produtos do mesmo subgrupo,2026-10-04
+399,Vitamina D - Vita D3 + C + Zinco,VITAFOR,SEM_SUBGRUPO,3,17.5,219.5,-12.5429,1354.2857,0.0,"03/03/25, 24/03/25, 25/08/25",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+4,Whey Protein Isolado,DUX,SEM_SUBGRUPO,1,5.0,89.0,-17.8,1880.0,0.0,10/03/25,poucos picos (< 3) — inconclusivo,2026-10-04
+40,Whey,ESSENTIAL,SEM_SUBGRUPO,1,6.0,50.5,-8.4167,941.6667,,23/03/26,poucos picos (< 3) — inconclusivo,2026-10-04
+401,Simfort fibras,VITAFOR,SEM_SUBGRUPO,4,24.0,130.0,-5.4167,641.6667,-0.0,"17/02/25, 21/04/25, 02/06/25, 18/05/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+402,Probiótico - Simfort Plus,VITAFOR,SEM_SUBGRUPO,2,11.5,191.5,-16.6522,1765.2174,-0.0,"28/07/25, 26/01/26",poucos picos (< 3) — inconclusivo,2026-10-04
+406,Glutamina - Glutamax,VITAFOR,SEM_SUBGRUPO,1,6.0,27.0,-4.5,550.0,-0.0,28/07/25,poucos picos (< 3) — inconclusivo,2026-10-04
+407,Beta Alanina,VITAFOR,SEM_SUBGRUPO,1,7.0,116.5,-16.6429,1764.2857,0.0,27/07/26,poucos picos (< 3) — inconclusivo,2026-10-04
+412,Própolis Líquido - Gotas,VITAFOR,SEM_SUBGRUPO,2,10.5,104.0,-9.9048,1090.4762,-0.0,"13/01/25, 30/06/25",poucos picos (< 3) — inconclusivo,2026-10-04
+419,"Boraprim - Borragem, Prímula e Gergelim",VITAFOR,SEM_SUBGRUPO,1,5.0,-65.5,13.1,-1210.0,0.0,23/06/25,poucos picos (< 3) — inconclusivo,2026-10-04
+421,Glutamina - Glutamax,VITAFOR,SEM_SUBGRUPO,2,14.0,10.0,-0.7143,171.4286,-0.0,"13/07/26, 20/07/26",poucos picos (< 3) — inconclusivo,2026-10-04
+424,Multivitaminico - Imunomult- 1000mg,VITAFOR,SEM_SUBGRUPO,1,5.0,-56.0,11.2,-1020.0,,20/04/26,poucos picos (< 3) — inconclusivo,2026-10-04
+433,Cúrcuma Plus,VITAFOR,SEM_SUBGRUPO,8,55.0,134.0,-2.4364,343.6364,-0.0,"19/05/25, 02/06/25, 23/06/25, 10/11/25, 11/05/26, 08/06/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+434,Creatina - Creafort (Creapure),VITAFOR,SEM_SUBGRUPO,6,40.0,468.0,-11.7,1270.0,3.013,"13/01/25, 01/09/25, 29/09/25, 26/01/26, 14/09/26, 28/09/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+439,Colágeno - Colagentek Protein - Bodybalance,VITAFOR,SEM_SUBGRUPO,3,17.5,161.5,-9.2286,1022.8571,0.0,"01/09/25, 10/11/25, 02/03/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+448,Coenzima Q10 (200mg p/ porção),VITAFOR,SEM_SUBGRUPO,2,13.0,172.5,-13.2692,1426.9231,12.4768,"15/09/25, 28/09/26",poucos picos (< 3) — inconclusivo,2026-10-04
+450,Coenzima Q10  (200mg p/ porção),VITAFOR,SEM_SUBGRUPO,1,5.0,58.5,-11.7,1270.0,0.0,20/01/25,poucos picos (< 3) — inconclusivo,2026-10-04
+453,Whey Tech 100%,ATLHETICA NUTRITION,SEM_SUBGRUPO,1,7.0,-10.5,1.5,-50.0,0.0,16/03/26,poucos picos (< 3) — inconclusivo,2026-10-04
+455,Morning Shot - Imunidade,SUBLYME,SEM_SUBGRUPO,1,5.0,-16.5,3.3,-230.0,-0.0,18/05/26,poucos picos (< 3) — inconclusivo,2026-10-04
+457,SuperCoffee,CAFFEINE ARMY,SEM_SUBGRUPO,2,12.0,56.0,-4.6667,566.6667,0.0,"23/02/26, 25/05/26",poucos picos (< 3) — inconclusivo,2026-10-04
+486,Creatina Monohidratada,DUX,SEM_SUBGRUPO,16,228.5,1284.5,-5.6214,662.1444,-0.0,"23/03/26, 06/04/26, 20/07/26, 27/07/26, 03/08/26, 10/08/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+520,Proteína Isolada e Hidrolisada - Body Protein,EQUALIV,SEM_SUBGRUPO,6,34.0,408.5,-12.0147,1301.4706,,"10/02/25, 17/02/25, 24/02/25, 31/03/25, 14/04/25, 05/05/25",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+521,Proteína Isolada e Hidrolisada - Body Protein,EQUALIV,SEM_SUBGRUPO,3,18.0,115.0,-6.3889,738.8889,-0.0,"26/05/25, 01/09/25, 15/09/25",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+523,Proteína Isolada e Hidrolisada - Body Protein Red,EQUALIV,SEM_SUBGRUPO,1,5.0,-41.5,8.3,-730.0,0.0,25/05/26,poucos picos (< 3) — inconclusivo,2026-10-04
+528,Achocolatado - Choco Family - Refil,VITAFOR,SEM_SUBGRUPO,2,13.0,54.0,-4.1538,515.3846,,"19/05/25, 17/11/25",poucos picos (< 3) — inconclusivo,2026-10-04
+534,Coenzima Q10 + Ômega 3 + Vitamina E,ESSENTIAL,SEM_SUBGRUPO,6,33.0,198.0,-6.0,700.0,0.0,"05/05/25, 26/05/25, 15/09/25, 06/10/25, 19/01/26, 09/02/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+54,Ômega 3 EPA DHA,PURAVIDA,SEM_SUBGRUPO,13,98.0,427.0,-4.3571,535.7143,-0.0,"08/12/25, 13/04/26, 27/04/26, 04/05/26, 11/05/26, 28/09/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+558,Palatinose,DUX,SEM_SUBGRUPO,1,5.5,54.5,-9.9091,1090.9091,0.0,31/03/25,poucos picos (< 3) — inconclusivo,2026-10-04
+613,Multivitaminico  - Imunomult- 1000mg,VITAFOR,SEM_SUBGRUPO,1,5.0,40.5,-8.1,910.0,0.0,17/03/25,poucos picos (< 3) — inconclusivo,2026-10-04
+619,Bio Zinco,PURAVIDA,SEM_SUBGRUPO,1,5.0,-72.5,14.5,-1350.0,0.0,28/04/25,poucos picos (< 3) — inconclusivo,2026-10-04
+623,Coenzima Q10,PURAVIDA,SEM_SUBGRUPO,1,8.0,107.5,-13.4375,1443.75,0.0,03/03/25,poucos picos (< 3) — inconclusivo,2026-10-04
+634,Magnésio - Inositol Relief 3.0,TRUE SOURCE,SEM_SUBGRUPO,7,37.5,356.5,-9.5067,1050.6667,5.9584,"13/04/26, 27/04/26, 20/07/26, 27/07/26, 03/08/26, 24/08/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+635,Ômega 3 - 1360mg,NUTRIFY,SEM_SUBGRUPO,2,19.0,180.5,-9.5,1050.0,0.0,"08/09/25, 30/03/26",poucos picos (< 3) — inconclusivo,2026-10-04
+659,Colágeno - Collagen Protein Hidrolisado,PURAVIDA,SEM_SUBGRUPO,2,11.5,142.0,-12.3478,1334.7826,0.0,"03/03/25, 18/08/25",poucos picos (< 3) — inconclusivo,2026-10-04
+662,Própolis Verde - Premium 10mg,PURAVIDA,SEM_SUBGRUPO,3,16.5,121.0,-7.3333,833.3333,-0.0,"24/02/25, 03/03/25, 09/02/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+68,Omegafor Plus,VITAFOR,SEM_SUBGRUPO,15,137.0,869.5,-6.3467,734.6715,0.7683,"27/04/26, 25/05/26, 13/07/26, 27/07/26, 03/08/26, 28/09/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+681,Coenzima Q10,OCEAN DROP,SEM_SUBGRUPO,2,11.5,112.0,-9.7391,1073.913,0.0,"19/05/25, 10/11/25",poucos picos (< 3) — inconclusivo,2026-10-04
+685,Creatina Monohidratada,OCEAN DROP,SEM_SUBGRUPO,15,174.5,759.5,-4.3524,535.2436,-0.0,"13/04/26, 20/04/26, 27/04/26, 25/05/26, 06/07/26, 13/07/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+687,Ômega 3 DHA,OCEAN DROP,SEM_SUBGRUPO,1,6.5,119.5,-18.3846,1938.4615,,19/05/25,poucos picos (< 3) — inconclusivo,2026-10-04
+69,Omegafor Plus,VITAFOR,SEM_SUBGRUPO,2,15.0,-17.0,1.1333,-13.3333,-0.0,"23/02/26, 01/06/26",poucos picos (< 3) — inconclusivo,2026-10-04
+690,Vitamina B12,OCEAN DROP,SEM_SUBGRUPO,1,7.0,131.0,-18.7143,1971.4286,-0.0,02/03/26,poucos picos (< 3) — inconclusivo,2026-10-04
+691,Cúrcuma 500mg,OCEAN DROP,SEM_SUBGRUPO,1,5.5,-48.0,8.7273,-772.7273,,27/10/25,poucos picos (< 3) — inconclusivo,2026-10-04
+692,Magnésio Plus 900mg,OCEAN DROP,SEM_SUBGRUPO,4,25.0,-24.0,0.96,4.0,-0.0,"15/09/25, 17/11/25, 06/04/26, 25/05/26",forte — a maior parte do ganho veio de produtos do mesmo subgrupo,2026-10-04
+704,Psyllium,OCEAN DROP,SEM_SUBGRUPO,3,17.0,205.0,-12.0588,1305.8824,-0.0,"05/05/25, 28/07/25, 02/03/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+706,Vitamina D3 + K2,OCEAN DROP,SEM_SUBGRUPO,2,13.0,122.5,-9.4231,1042.3077,-0.0,"02/03/26, 16/03/26",poucos picos (< 3) — inconclusivo,2026-10-04
+71,Creatina Monohidratada - Creatine,VITAFOR,SEM_SUBGRUPO,10,68.0,786.5,-11.5662,1256.6176,1.6532,"06/10/25, 17/11/25, 09/03/26, 11/05/26, 03/08/26, 28/09/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+711,Trio Magnésio 720mg,OCEAN DROP,SEM_SUBGRUPO,6,36.0,103.0,-2.8611,386.1111,-0.0,"19/05/25, 18/08/25, 02/02/26, 09/03/26, 11/05/26, 18/05/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+72,Ômega 3 EPA DHA,VITAFOR,SEM_SUBGRUPO,3,17.5,35.5,-2.0286,302.8571,-0.0,"09/03/26, 06/04/26, 13/04/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+754,Barra Chocolate 70%,ZEROMILK,SEM_SUBGRUPO,1,5.5,-49.0,8.9091,-790.9091,,03/11/25,poucos picos (< 3) — inconclusivo,2026-10-04
+756,Gel Nitrato,DOBRO,SEM_SUBGRUPO,2,11.5,-35.0,3.0435,-204.3478,,"09/02/26, 27/04/26",poucos picos (< 3) — inconclusivo,2026-10-04
+77,Ômega 3 EPA DHA,VITAFOR,SEM_SUBGRUPO,4,31.0,168.0,-5.4194,641.9355,-0.0,"04/08/25, 11/08/25, 13/10/25, 30/03/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+811,Cromo Picolinato - 250mg,LAUTON,SEM_SUBGRUPO,1,5.0,44.0,-8.8,980.0,-0.0,15/09/25,poucos picos (< 3) — inconclusivo,2026-10-04
+83,Creatina,ADAPTOGEN,SEM_SUBGRUPO,1,5.5,33.5,-6.0909,709.0909,0.0,26/05/25,poucos picos (< 3) — inconclusivo,2026-10-04
+861,Fresh Whey,DUX,SEM_SUBGRUPO,8,46.0,421.0,-9.1522,1015.2174,-0.0,"24/02/25, 07/04/25, 05/05/25, 18/08/25, 01/09/25, 03/11/25",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+900,Barrinha de Proteína,DUX,SEM_SUBGRUPO,7,53.5,-273.0,5.1028,-410.2804,-0.0,"07/04/25, 21/04/25, 17/11/25, 15/12/25, 27/04/26, 29/06/26",forte — a maior parte do ganho veio de produtos do mesmo subgrupo,2026-10-04
+901,Barrinha de Proteína,DUX,SEM_SUBGRUPO,3,31.0,-152.5,4.9194,-391.9355,,"21/04/25, 17/11/25, 18/05/26",forte — a maior parte do ganho veio de produtos do mesmo subgrupo,2026-10-04
+907,Vitamina B12,VITAFOR,SEM_SUBGRUPO,2,12.5,20.0,-1.6,260.0,-0.0,"24/02/25, 09/03/26",poucos picos (< 3) — inconclusivo,2026-10-04
+915,Magnésio - Bio Trimag,PURAVIDA,SEM_SUBGRUPO,4,28.5,160.0,-5.614,661.4035,0.0,"03/03/25, 31/03/25, 28/04/25, 04/08/25",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+917,Bio Cálcio  60 caps PURAVIDA,PURAVIDA,SEM_SUBGRUPO,1,6.0,57.0,-9.5,1050.0,,31/03/25,poucos picos (< 3) — inconclusivo,2026-10-04
+925,Ômega 3 Super DHA - BIG N,PURAVIDA,SEM_SUBGRUPO,6,36.5,477.0,-13.0685,1406.8493,0.0,"27/01/25, 10/03/25, 19/05/25, 04/08/25, 08/09/25, 20/10/25",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+932,Suplemento Alimentar - Alpha Mater,PURAVIDA,SEM_SUBGRUPO,1,5.5,-43.0,7.8182,-681.8182,,25/05/26,poucos picos (< 3) — inconclusivo,2026-10-04
+935,Whey Protein Concentrado,DUX,SEM_SUBGRUPO,3,20.5,133.0,-6.4878,748.7805,1.2303,"12/01/26, 01/06/26, 28/09/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+936,Whey Protein Concentrado,DUX,SEM_SUBGRUPO,14,100.5,1063.0,-10.5771,1157.7114,0.2555,"02/02/26, 02/03/26, 06/04/26, 04/05/26, 10/08/26, 28/09/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+937,Whey Protein Concentrado Cappuccino 900g DUX,DUX,SEM_SUBGRUPO,1,5.0,-3.5,0.7,30.0,0.0,11/08/25,poucos picos (< 3) — inconclusivo,2026-10-04
+938,Whey Protein Concentrado,DUX,SEM_SUBGRUPO,4,30.0,201.5,-6.7167,771.6667,0.0,"24/02/25, 30/03/26, 06/04/26, 10/08/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+939,Whey Protein Concentrado,DUX,SEM_SUBGRUPO,4,29.0,361.5,-12.4655,1346.5517,0.0,"31/03/25, 08/09/25, 30/03/26, 03/08/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+940,Whey Protein Concentrado,DUX,SEM_SUBGRUPO,14,101.5,783.5,-7.7192,871.9212,-0.0,"27/04/26, 15/06/26, 13/07/26, 27/07/26, 03/08/26, 24/08/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+941,Whey Protein Isolado,DUX,SEM_SUBGRUPO,5,31.0,450.0,-14.5161,1551.6129,0.0,"10/02/25, 03/03/25, 10/03/25, 30/03/26, 11/05/26",subgrupo cresceu junto (efeito de atração/tráfego),2026-10-04
+943,Whey Protein Isolado,DUX,SEM_SUBGRUPO,3,15.5,-103.0,6.6452,-564.5161,0.0,"25/08/25, 30/03/26, 15/06/26",forte — a maior parte do ganho veio de produtos do mesmo subgrupo,2026-10-04
+987,Magnésio - Inositol Relief 3.0,TRUE SOURCE,SEM_SUBGRUPO,2,11.5,-60.5,5.2609,-426.087,0.0,"18/05/26, 25/05/26",poucos picos (< 3) — inconclusivo,2026-10-04
+988,Gel Nitrato,DOBRO,SEM_SUBGRUPO,1,6.0,36.5,-6.0833,708.3333,,27/04/26,poucos picos (< 3) — inconclusivo,2026-10-04

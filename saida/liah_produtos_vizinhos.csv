@@ -1,0 +1,2316 @@
+id_produto,produto,vizinho_id,vizinho,distancia,mesmo_subgrupo,mesma_marca,data_base
+1001,Whey 3W,1220,Immuno Whey,1.4542,True,False,2026-10-04
+1001,Whey 3W,1157,Refil Whey Concentrado - W100,1.85,True,False,2026-10-04
+1001,Whey 3W,1274,Suplemento Alimentar - Alpha Inflaminus,1.933,True,False,2026-10-04
+1001,Whey 3W,1289,Refil Whey Concentrado - W100,1.9409,True,False,2026-10-04
+1001,Whey 3W,365,Probióticos em Pó - Simfort,1.9568,True,False,2026-10-04
+1010,Ômega Golden,1450,Omegafor Family - Ômega 3,1.1673,True,False,2026-10-04
+1010,Ômega Golden,459,SuperCoffee,2.1491,True,False,2026-10-04
+1010,Ômega Golden,330,Termogênico - Lipix6,2.3873,True,False,2026-10-04
+1010,Ômega Golden,419,"Boraprim - Borragem, Prímula e Gergelim",2.4431,True,False,2026-10-04
+1010,Ômega Golden,983,BT Nitrato,2.4908,True,False,2026-10-04
+1011,Ômega Core,1107,Melatonina Duo Harmony,1.397,True,True,2026-10-04
+1011,Ômega Core,1049,Colágeno - Collagen Essential Protein,1.8201,True,True,2026-10-04
+1011,Ômega Core,333,Aminoácidos - Aminnu EAAs,1.8801,True,False,2026-10-04
+1011,Ômega Core,107,Tasty Whey 3W Gourmet,1.9536,True,False,2026-10-04
+1011,Ômega Core,1670,Tasty Whey 3W Gourmet,2.0546,True,False,2026-10-04
+102,Tasty Whey 3W Gourmet,1105,Aminoácidos - Aminolift,1.6,True,False,2026-10-04
+102,Tasty Whey 3W Gourmet,481,BT Nitrato 400,1.7652,True,False,2026-10-04
+102,Tasty Whey 3W Gourmet,696,Prebiótico,2.1434,True,False,2026-10-04
+102,Tasty Whey 3W Gourmet,1227,Body Protein Vegano,2.2261,True,False,2026-10-04
+102,Tasty Whey 3W Gourmet,688,Glutamina,2.2475,True,False,2026-10-04
+1020,Pasta de Amendoim,1110,Pré-treino - Energyzer & focus,2.14,True,False,2026-10-04
+1020,Pasta de Amendoim,406,Glutamina - Glutamax,2.6245,True,False,2026-10-04
+1020,Pasta de Amendoim,422,Glutamina - Glutamax Refil,2.661,True,False,2026-10-04
+1020,Pasta de Amendoim,1056,Suplemento Alimentar - Pura Fiber,2.7222,True,False,2026-10-04
+1020,Pasta de Amendoim,1328,Fibras Prébioticas - Prebiotic,2.7643,True,False,2026-10-04
+1026,Colágeno - Collagen Pro - Body Suport,37,Whey Isolado e Hidrolisado - H.I Whey,1.6331,True,False,2026-10-04
+1026,Colágeno - Collagen Pro - Body Suport,381,Aminoácido - Aminovita,1.8036,True,False,2026-10-04
+1026,Colágeno - Collagen Pro - Body Suport,109,Tasty Whey 3W Gourmet,1.8736,True,False,2026-10-04
+1026,Colágeno - Collagen Pro - Body Suport,140,Refil Whey 100% Pure,1.9379,True,False,2026-10-04
+1026,Colágeno - Collagen Pro - Body Suport,1137,Melatonina - Ydrosolv,2.0724,True,False,2026-10-04
+1035,Suplemento - Hyaluronic Hair,1132,Ferro - Ydrosolv,1.337,True,False,2026-10-04
+1035,Suplemento - Hyaluronic Hair,447,Colágeno - Colagentek Beauty,1.8332,True,True,2026-10-04
+1035,Suplemento - Hyaluronic Hair,219,Suplemento para Imunidade - Immune Up 100%,1.8477,True,False,2026-10-04
+1035,Suplemento - Hyaluronic Hair,1131,Vitamina B12,2.1633,True,False,2026-10-04
+1035,Suplemento - Hyaluronic Hair,1072,Pasta de Amendoim Granulado,2.2497,True,False,2026-10-04
+1037,Barrinha de Proteína - Protein Crisp Bar,454,Whey Tech 100%,2.0391,True,False,2026-10-04
+1037,Barrinha de Proteína - Protein Crisp Bar,715,Suplemento Alimentar - Slim Body 400mg,2.9385,True,False,2026-10-04
+1037,Barrinha de Proteína - Protein Crisp Bar,689,Pré-Treino,3.0088,True,False,2026-10-04
+1037,Barrinha de Proteína - Protein Crisp Bar,714,Matchá - Chá Verde em Pó,3.0195,True,False,2026-10-04
+1037,Barrinha de Proteína - Protein Crisp Bar,1249,BodyBalance - Muscle Synergy,3.1174,True,False,2026-10-04
+1044,Própolis Trio,705,Melatonina,1.7351,True,False,2026-10-04
+1044,Própolis Trio,989,Gel Nitrato com L-Citrulinilarginina,1.7752,True,False,2026-10-04
+1044,Própolis Trio,957,Laranja Moro,1.9149,True,False,2026-10-04
+1044,Própolis Trio,1408,Coenzima Q10 200mg,1.9189,True,False,2026-10-04
+1044,Própolis Trio,1120,Própolis Alcoólico,2.0786,True,False,2026-10-04
+1045,True Cúrcuma,220,Próbiotico - Purabiotics,1.3818,True,False,2026-10-04
+1045,True Cúrcuma,139,Refil Whey 100% Pure,1.5906,True,False,2026-10-04
+1045,True Cúrcuma,386,L-Carnitina 530mg,1.6004,True,False,2026-10-04
+1045,True Cúrcuma,1498,Ômega 3,1.6955,True,True,2026-10-04
+1045,True Cúrcuma,70,Omegafor Vision,1.7108,True,False,2026-10-04
+1048,Colágeno - Collagen Essential Protein,948,Tasty Whey 3W Gourmet,1.4316,True,False,2026-10-04
+1048,Colágeno - Collagen Essential Protein,1485,Refil Whey Concentrado - W100,1.5668,True,False,2026-10-04
+1048,Colágeno - Collagen Essential Protein,109,Tasty Whey 3W Gourmet,1.8047,True,False,2026-10-04
+1048,Colágeno - Collagen Essential Protein,365,Probióticos em Pó - Simfort,1.8732,True,False,2026-10-04
+1048,Colágeno - Collagen Essential Protein,1220,Immuno Whey,1.8979,True,True,2026-10-04
+1049,Colágeno - Collagen Essential Protein,107,Tasty Whey 3W Gourmet,0.7308,True,False,2026-10-04
+1049,Colágeno - Collagen Essential Protein,948,Tasty Whey 3W Gourmet,1.6665,True,False,2026-10-04
+1049,Colágeno - Collagen Essential Protein,1011,Ômega Core,1.8201,True,True,2026-10-04
+1049,Colágeno - Collagen Essential Protein,109,Tasty Whey 3W Gourmet,2.0186,True,False,2026-10-04
+1049,Colágeno - Collagen Essential Protein,1660,Ômega 3  - 1360mg,2.0819,True,False,2026-10-04
+1050,Colágeno - Collagen Essential Protein,1227,Body Protein Vegano,2.0108,True,False,2026-10-04
+1050,Colágeno - Collagen Essential Protein,1290,Refil Whey Concentrado - W100,2.1301,True,False,2026-10-04
+1050,Colágeno - Collagen Essential Protein,1097,Creatina 100%,2.1607,True,False,2026-10-04
+1050,Colágeno - Collagen Essential Protein,647,Glutamina em Pó,2.2443,True,False,2026-10-04
+1050,Colágeno - Collagen Essential Protein,404,Isofort Plant (Life Vegan),2.2525,True,False,2026-10-04
+1051,Colágeno - Collagen Essential Protein,332,Whey Fort 3W,2.69,True,False,2026-10-04
+1051,Colágeno - Collagen Essential Protein,1242,Vitamina D3,3.075,True,True,2026-10-04
+1051,Colágeno - Collagen Essential Protein,1103,Coffee - Brainstorm,3.9057,True,True,2026-10-04
+1051,Colágeno - Collagen Essential Protein,1249,BodyBalance - Muscle Synergy,3.9557,True,True,2026-10-04
+1051,Colágeno - Collagen Essential Protein,112,Gold Whey Concentrado Refil,3.9684,True,False,2026-10-04
+1052,Colágeno - Collagen Essential Protein,1252,Super Ômega 3,0.9303,True,True,2026-10-04
+1052,Colágeno - Collagen Essential Protein,1124,Proteína Isolada e Hidrolisada - Body Protein,1.5318,True,False,2026-10-04
+1052,Colágeno - Collagen Essential Protein,83,Creatina,1.5559,True,False,2026-10-04
+1052,Colágeno - Collagen Essential Protein,1251,Colágeno -  Collagen Gut,1.7191,True,True,2026-10-04
+1052,Colágeno - Collagen Essential Protein,862,Fresh Whey,1.7471,True,False,2026-10-04
+1056,Suplemento Alimentar - Pura Fiber,406,Glutamina - Glutamax,2.2268,True,False,2026-10-04
+1056,Suplemento Alimentar - Pura Fiber,659,Colágeno - Collagen Protein Hidrolisado,2.4856,True,True,2026-10-04
+1056,Suplemento Alimentar - Pura Fiber,391,Beta Alanina,2.5318,True,False,2026-10-04
+1056,Suplemento Alimentar - Pura Fiber,1328,Fibras Prébioticas - Prebiotic,2.5356,True,False,2026-10-04
+1056,Suplemento Alimentar - Pura Fiber,1110,Pré-treino - Energyzer & focus,2.6078,True,False,2026-10-04
+1060,Beef Protein,422,Glutamina - Glutamax Refil,2.1766,True,False,2026-10-04
+1060,Beef Protein,1659,Magnésio Inositol,2.4823,True,False,2026-10-04
+1060,Beef Protein,1660,Ômega 3  - 1360mg,2.5652,True,False,2026-10-04
+1060,Beef Protein,1110,Pré-treino - Energyzer & focus,2.5679,True,False,2026-10-04
+1060,Beef Protein,1020,Pasta de Amendoim,2.7871,True,False,2026-10-04
+1063,Nitro 400,699,Feno Grego + Boro 500mg,2.045,True,False,2026-10-04
+1063,Nitro 400,41,Whey,2.3562,True,False,2026-10-04
+1063,Nitro 400,1248,Pré-Treino - Beta Action,2.8301,True,False,2026-10-04
+1063,Nitro 400,1590,Refil 100% Whey Protein - Flavour,2.9696,True,False,2026-10-04
+1063,Nitro 400,342,Whey Fort 3W,3.0765,True,False,2026-10-04
+1065,Bio Vitamina B12 em gotas,549,Achocolatado - Chocoki,1.8302,True,False,2026-10-04
+1065,Bio Vitamina B12 em gotas,1106,Melatonina Duo,1.985,True,False,2026-10-04
+1065,Bio Vitamina B12 em gotas,592,Vitamina D3 + K2 Gotas,1.9852,True,True,2026-10-04
+1065,Bio Vitamina B12 em gotas,801,Psyllium,2.0505,True,False,2026-10-04
+1065,Bio Vitamina B12 em gotas,427,Isofort Plant (Life Vegan),2.2332,True,False,2026-10-04
+1067,Melatonina,1386,Refil Whey 100% Pure,1.4183,True,False,2026-10-04
+1067,Melatonina,783,Creatina,1.873,True,False,2026-10-04
+1067,Melatonina,405,L-Taurina - 1.000mg,2.0134,True,False,2026-10-04
+1067,Melatonina,70,Omegafor Vision,2.1043,True,False,2026-10-04
+1067,Melatonina,1347,Complexo B - Bio Vit.B+,2.1101,True,True,2026-10-04
+1069,Bio Ferro,360,Probiótico - Simfort Plus,1.9422,True,False,2026-10-04
+1069,Bio Ferro,905,Proteína - Isocrisp Plant Pouch,2.1253,True,False,2026-10-04
+1069,Bio Ferro,1449,Simfort Femme,2.2162,True,False,2026-10-04
+1069,Bio Ferro,54,Ômega 3 EPA DHA,2.3427,True,True,2026-10-04
+1069,Bio Ferro,30,Super Ômega 3,2.4704,True,False,2026-10-04
+107,Tasty Whey 3W Gourmet,1049,Colágeno - Collagen Essential Protein,0.7308,True,False,2026-10-04
+107,Tasty Whey 3W Gourmet,1459,Coenzima Q10+ 200mg,1.7548,True,False,2026-10-04
+107,Tasty Whey 3W Gourmet,948,Tasty Whey 3W Gourmet,1.9032,True,True,2026-10-04
+107,Tasty Whey 3W Gourmet,1011,Ômega Core,1.9536,True,False,2026-10-04
+107,Tasty Whey 3W Gourmet,109,Tasty Whey 3W Gourmet,1.9886,True,True,2026-10-04
+1072,Pasta de Amendoim Granulado,1120,Própolis Alcoólico,1.588,True,False,2026-10-04
+1072,Pasta de Amendoim Granulado,1118,Própolis Verde 70,1.7408,True,False,2026-10-04
+1072,Pasta de Amendoim Granulado,705,Melatonina,1.9076,True,False,2026-10-04
+1072,Pasta de Amendoim Granulado,957,Laranja Moro,2.2477,True,False,2026-10-04
+1072,Pasta de Amendoim Granulado,1035,Suplemento - Hyaluronic Hair,2.2497,True,False,2026-10-04
+1073,Pasta de Amendoim Integral,528,Achocolatado - Choco Family - Refil,2.4033,True,False,2026-10-04
+1073,Pasta de Amendoim Integral,1119,Própolis Verde - Alcoólico,2.7426,True,False,2026-10-04
+1073,Pasta de Amendoim Integral,1117,Própolis Verde - Propomax,2.9955,True,False,2026-10-04
+1073,Pasta de Amendoim Integral,811,Cromo Picolinato - 250mg,3.0621,True,False,2026-10-04
+1073,Pasta de Amendoim Integral,1141,Granola Australia - Low Carb,3.1011,True,False,2026-10-04
+109,Tasty Whey 3W Gourmet,948,Tasty Whey 3W Gourmet,1.39,True,True,2026-10-04
+109,Tasty Whey 3W Gourmet,1452,Colágeno - Colagentek Protein - Bodybalance,1.436,True,False,2026-10-04
+109,Tasty Whey 3W Gourmet,1274,Suplemento Alimentar - Alpha Inflaminus,1.4816,True,False,2026-10-04
+109,Tasty Whey 3W Gourmet,427,Isofort Plant (Life Vegan),1.5171,True,False,2026-10-04
+109,Tasty Whey 3W Gourmet,447,Colágeno - Colagentek Beauty,1.7493,True,False,2026-10-04
+1091,Cafeína,663,Vitamina C - Bio Vit C+,1.6101,True,False,2026-10-04
+1091,Cafeína,1330,Vitamina B12,1.6188,True,False,2026-10-04
+1091,Cafeína,1239,Suplemento de Magnésio - Blue Calm,1.7938,True,False,2026-10-04
+1091,Cafeína,917,Bio Cálcio  60 caps PURAVIDA,1.8012,True,False,2026-10-04
+1091,Cafeína,536,Creatina Monohidratada,1.9563,True,False,2026-10-04
+1092,Creatina 100%,704,Psyllium,1.362,True,False,2026-10-04
+1092,Creatina 100%,697,Ferro Quelato + Vitamina C,1.5017,True,False,2026-10-04
+1092,Creatina 100%,368,Probiótico - Simcaps,1.6597,True,False,2026-10-04
+1092,Creatina 100%,374,Palatinose,1.8293,True,False,2026-10-04
+1092,Creatina 100%,908,Vitamina D3 + K2,1.8981,True,False,2026-10-04
+1093,Colágeno - Collagen Renew Hidrolisado,999,Creatina Monohidratada,1.4521,True,False,2026-10-04
+1093,Colágeno - Collagen Renew Hidrolisado,681,Coenzima Q10,1.6415,True,False,2026-10-04
+1093,Colágeno - Collagen Renew Hidrolisado,422,Glutamina - Glutamax Refil,1.7193,True,False,2026-10-04
+1093,Colágeno - Collagen Renew Hidrolisado,1214,Ômega 3 - EPA DHA - 1000mg,1.8263,True,False,2026-10-04
+1093,Colágeno - Collagen Renew Hidrolisado,533,Aminoácido - Tryptophan,1.8266,True,True,2026-10-04
+1095,Colágeno - Collagen Renew Hidrolisado,385,Arginofor -  L-Arginina,2.041,True,False,2026-10-04
+1095,Colágeno - Collagen Renew Hidrolisado,1660,Ômega 3  - 1360mg,2.2342,True,True,2026-10-04
+1095,Colágeno - Collagen Renew Hidrolisado,1049,Colágeno - Collagen Essential Protein,2.2951,True,False,2026-10-04
+1095,Colágeno - Collagen Renew Hidrolisado,1632,Creatina - Gummy,2.3962,True,False,2026-10-04
+1095,Colágeno - Collagen Renew Hidrolisado,107,Tasty Whey 3W Gourmet,2.4117,True,False,2026-10-04
+1096,Colágeno - Collagen Renew Hidrolisado,1250,NAC + Glycine + Taurine,1.373,True,False,2026-10-04
+1096,Colágeno - Collagen Renew Hidrolisado,782,Morning Shot - Imunidade,1.5031,True,False,2026-10-04
+1096,Colágeno - Collagen Renew Hidrolisado,449,Coenzima Q10 (200mg p/ porção),1.5321,True,False,2026-10-04
+1096,Colágeno - Collagen Renew Hidrolisado,952,Feno Grego,1.5861,True,False,2026-10-04
+1096,Colágeno - Collagen Renew Hidrolisado,211,Colágeno Hidrolisado - Collagen Pro 18g,1.7148,True,True,2026-10-04
+1097,Creatina 100%,83,Creatina,0.9926,True,False,2026-10-04
+1097,Creatina 100%,647,Glutamina em Pó,1.756,True,False,2026-10-04
+1097,Creatina 100%,1252,Super Ômega 3,1.8208,True,False,2026-10-04
+1097,Creatina 100%,1052,Colágeno - Collagen Essential Protein,1.9485,True,False,2026-10-04
+1097,Creatina 100%,1227,Body Protein Vegano,1.9502,True,False,2026-10-04
+1099,Whey - Immuno Golden,1333,Whey Protein Isolado - Tasty Iso,1.8188,True,False,2026-10-04
+1099,Whey - Immuno Golden,1109,Glutamina,1.856,True,True,2026-10-04
+1099,Whey - Immuno Golden,1124,Proteína Isolada e Hidrolisada - Body Protein,1.9628,True,False,2026-10-04
+1099,Whey - Immuno Golden,538,Ultracoffee - Vegano,2.0701,True,False,2026-10-04
+1099,Whey - Immuno Golden,950,Fresh Whey,2.3513,True,False,2026-10-04
+1100,Colágeno - Collagen Bones,342,Whey Fort 3W,1.3127,True,False,2026-10-04
+1100,Colágeno - Collagen Bones,1560,Pré-Treino,1.5772,True,False,2026-10-04
+1100,Colágeno - Collagen Bones,1237,Vitamina B9 - Ácido Fólico,1.7621,True,False,2026-10-04
+1100,Colágeno - Collagen Bones,1333,Whey Protein Isolado - Tasty Iso,1.8159,True,False,2026-10-04
+1100,Colágeno - Collagen Bones,1475,Suplemento de Magnésio - Blue Calm,1.9217,True,False,2026-10-04
+1103,Coffee - Brainstorm,598,Glutamina em Pó,1.7204,True,False,2026-10-04
+1103,Coffee - Brainstorm,480,BT Nitrato 400,2.0513,True,False,2026-10-04
+1103,Coffee - Brainstorm,613,Multivitaminico  - Imunomult- 1000mg,2.1713,True,False,2026-10-04
+1103,Coffee - Brainstorm,592,Vitamina D3 + K2 Gotas,2.4491,True,False,2026-10-04
+1103,Coffee - Brainstorm,587,Whey Tech 100%,2.5111,True,False,2026-10-04
+1105,Aminoácidos - Aminolift,1227,Body Protein Vegano,1.4233,True,False,2026-10-04
+1105,Aminoácidos - Aminolift,481,BT Nitrato 400,1.5527,True,False,2026-10-04
+1105,Aminoácidos - Aminolift,102,Tasty Whey 3W Gourmet,1.6,True,False,2026-10-04
+1105,Aminoácidos - Aminolift,698,Shot Matinal,1.6098,True,False,2026-10-04
+1105,Aminoácidos - Aminolift,390,Colágeno - Colagentek Protein - Bodybalance,1.7122,True,False,2026-10-04
+1106,Melatonina Duo,549,Achocolatado - Chocoki,1.388,True,True,2026-10-04
+1106,Melatonina Duo,427,Isofort Plant (Life Vegan),1.5004,True,False,2026-10-04
+1106,Melatonina Duo,374,Palatinose,1.6626,True,False,2026-10-04
+1106,Melatonina Duo,1214,Ômega 3 - EPA DHA - 1000mg,1.6688,True,False,2026-10-04
+1106,Melatonina Duo,368,Probiótico - Simcaps,1.7878,True,False,2026-10-04
+1107,Melatonina Duo Harmony,1011,Ômega Core,1.397,True,True,2026-10-04
+1107,Melatonina Duo Harmony,681,Coenzima Q10,1.5271,True,False,2026-10-04
+1107,Melatonina Duo Harmony,206,Colágeno - Collagen Renew Hidrolisado,1.6054,True,False,2026-10-04
+1107,Melatonina Duo Harmony,333,Aminoácidos - Aminnu EAAs,1.7294,True,False,2026-10-04
+1107,Melatonina Duo Harmony,1670,Tasty Whey 3W Gourmet,1.7585,True,False,2026-10-04
+1108,Suplemento Alimentar - L-teanina - Happy Theanine,1711,Simfort Ultra,1.432,True,False,2026-10-04
+1108,Suplemento Alimentar - L-teanina - Happy Theanine,1326,Própolis - Green Própolis,1.659,True,False,2026-10-04
+1108,Suplemento Alimentar - L-teanina - Happy Theanine,206,Colágeno - Collagen Renew Hidrolisado,1.7135,True,False,2026-10-04
+1108,Suplemento Alimentar - L-teanina - Happy Theanine,1158,Refil Whey Concentrado - W100,1.7677,True,False,2026-10-04
+1108,Suplemento Alimentar - L-teanina - Happy Theanine,905,Proteína - Isocrisp Plant Pouch,1.9027,True,False,2026-10-04
+1109,Glutamina,1124,Proteína Isolada e Hidrolisada - Body Protein,1.3858,True,False,2026-10-04
+1109,Glutamina,950,Fresh Whey,1.4876,True,False,2026-10-04
+1109,Glutamina,337,#Whey Fort 3W,1.6501,True,False,2026-10-04
+1109,Glutamina,696,Prebiótico,1.716,True,False,2026-10-04
+1109,Glutamina,538,Ultracoffee - Vegano,1.7812,True,False,2026-10-04
+111,Gold Whey Concentrado Refil,50,Whey Protein Isolado,4.2704,True,False,2026-10-04
+111,Gold Whey Concentrado Refil,453,Whey Tech 100%,4.3225,True,False,2026-10-04
+111,Gold Whey Concentrado Refil,1111,Suplemento Alimentar - True Nac,4.4203,True,False,2026-10-04
+111,Gold Whey Concentrado Refil,170,100% Whey Pure,4.4913,True,False,2026-10-04
+111,Gold Whey Concentrado Refil,1219,Beef Protein,4.6319,True,False,2026-10-04
+1110,Pré-treino - Energyzer & focus,533,Aminoácido - Tryptophan,1.7624,True,False,2026-10-04
+1110,Pré-treino - Energyzer & focus,385,Arginofor -  L-Arginina,1.9009,True,False,2026-10-04
+1110,Pré-treino - Energyzer & focus,999,Creatina Monohidratada,2.0594,True,False,2026-10-04
+1110,Pré-treino - Energyzer & focus,422,Glutamina - Glutamax Refil,2.0852,True,False,2026-10-04
+1110,Pré-treino - Energyzer & focus,1093,Colágeno - Collagen Renew Hidrolisado,2.1325,True,False,2026-10-04
+1111,Suplemento Alimentar - True Nac,334,Whey Fort 3W,2.3041,True,False,2026-10-04
+1111,Suplemento Alimentar - True Nac,794,Vitamina D3 - 2000 Ui,2.5655,True,False,2026-10-04
+1111,Suplemento Alimentar - True Nac,371,Probiótico - Simcaps,2.7047,True,False,2026-10-04
+1111,Suplemento Alimentar - True Nac,113,Gold Whey Concentrado Refil,2.7287,True,False,2026-10-04
+1111,Suplemento Alimentar - True Nac,1708,Refil Whey Protein - 3W,2.8277,True,False,2026-10-04
+1112,Whey Isolado - Isofort Ultra Imuno,333,Aminoácidos - Aminnu EAAs,2.0506,True,False,2026-10-04
+1112,Whey Isolado - Isofort Ultra Imuno,219,Suplemento para Imunidade - Immune Up 100%,2.1431,True,False,2026-10-04
+1112,Whey Isolado - Isofort Ultra Imuno,84,Whey hidrolisado e isolado,2.1455,True,False,2026-10-04
+1112,Whey Isolado - Isofort Ultra Imuno,1670,Tasty Whey 3W Gourmet,2.4851,True,False,2026-10-04
+1112,Whey Isolado - Isofort Ultra Imuno,957,Laranja Moro,2.5079,True,False,2026-10-04
+1114,Fresh Vegan,457,SuperCoffee,1.45,True,False,2026-10-04
+1114,Fresh Vegan,1107,Melatonina Duo Harmony,1.796,True,False,2026-10-04
+1114,Fresh Vegan,1093,Colágeno - Collagen Renew Hidrolisado,1.8687,True,False,2026-10-04
+1114,Fresh Vegan,861,Fresh Whey,1.8987,True,True,2026-10-04
+1114,Fresh Vegan,1329,Colágeno Tipo II - Artro Aid,2.0251,True,False,2026-10-04
+1116,Fresh Vegan,38,Super Ômega 3,2.0745,True,False,2026-10-04
+1116,Fresh Vegan,662,Própolis Verde - Premium 10mg,2.308,True,False,2026-10-04
+1116,Fresh Vegan,948,Tasty Whey 3W Gourmet,2.3534,True,False,2026-10-04
+1116,Fresh Vegan,1137,Melatonina - Ydrosolv,2.5202,True,False,2026-10-04
+1116,Fresh Vegan,522,Proteína Isolada e Hidrolisada - Body Protein,2.5318,True,False,2026-10-04
+1117,Própolis Verde - Propomax,1214,Ômega 3 - EPA DHA - 1000mg,1.4284,True,False,2026-10-04
+1117,Própolis Verde - Propomax,707,Vitamina B12,2.0409,True,False,2026-10-04
+1117,Própolis Verde - Propomax,709,Resveratrol 500mg,2.0781,True,False,2026-10-04
+1117,Própolis Verde - Propomax,1106,Melatonina Duo,2.2848,True,False,2026-10-04
+1117,Própolis Verde - Propomax,397,Vitamina D - Vita D3,2.342,True,False,2026-10-04
+1118,Própolis Verde 70,616,Vitamina - Good Mood,1.6394,True,False,2026-10-04
+1118,Própolis Verde 70,1072,Pasta de Amendoim Granulado,1.7408,True,False,2026-10-04
+1118,Própolis Verde 70,629,Vitamina B12,2.0726,True,False,2026-10-04
+1118,Própolis Verde 70,447,Colágeno - Colagentek Beauty,2.1405,True,False,2026-10-04
+1118,Própolis Verde 70,1228,Creatina Monohidratada,2.1549,True,False,2026-10-04
+1119,Própolis Verde - Alcoólico,1093,Colágeno - Collagen Renew Hidrolisado,2.0447,True,False,2026-10-04
+1119,Própolis Verde - Alcoólico,1146,Granola,2.0743,True,False,2026-10-04
+1119,Própolis Verde - Alcoólico,533,Aminoácido - Tryptophan,2.1488,True,False,2026-10-04
+1119,Própolis Verde - Alcoólico,999,Creatina Monohidratada,2.2674,True,False,2026-10-04
+1119,Própolis Verde - Alcoólico,422,Glutamina - Glutamax Refil,2.3059,True,False,2026-10-04
+112,Gold Whey Concentrado Refil,800,Sleep,2.0904,True,False,2026-10-04
+112,Gold Whey Concentrado Refil,991,Magnésio Inositol,2.1966,True,False,2026-10-04
+112,Gold Whey Concentrado Refil,937,Whey Protein Concentrado Cappuccino 900g DUX,2.3577,True,False,2026-10-04
+112,Gold Whey Concentrado Refil,480,BT Nitrato 400,2.5782,True,False,2026-10-04
+112,Gold Whey Concentrado Refil,598,Glutamina em Pó,2.7005,True,False,2026-10-04
+1120,Própolis Alcoólico,1072,Pasta de Amendoim Granulado,1.588,True,False,2026-10-04
+1120,Própolis Alcoólico,957,Laranja Moro,1.8341,True,False,2026-10-04
+1120,Própolis Alcoólico,1044,Própolis Trio,2.0786,True,False,2026-10-04
+1120,Própolis Alcoólico,1131,Vitamina B12,2.3629,True,False,2026-10-04
+1120,Própolis Alcoólico,994,NAC Acetilcisteína -  600mg,2.5679,True,False,2026-10-04
+1124,Proteína Isolada e Hidrolisada - Body Protein,1109,Glutamina,1.3858,True,False,2026-10-04
+1124,Proteína Isolada e Hidrolisada - Body Protein,139,Refil Whey 100% Pure,1.4454,True,False,2026-10-04
+1124,Proteína Isolada e Hidrolisada - Body Protein,144,100% Whey Protein - Flavour,1.5025,True,False,2026-10-04
+1124,Proteína Isolada e Hidrolisada - Body Protein,1052,Colágeno - Collagen Essential Protein,1.5318,True,False,2026-10-04
+1124,Proteína Isolada e Hidrolisada - Body Protein,1252,Super Ômega 3,1.6056,True,False,2026-10-04
+1127,Creatina - Creapure,691,Cúrcuma 500mg,2.0963,True,False,2026-10-04
+1127,Creatina - Creapure,83,Creatina,2.226,True,False,2026-10-04
+1127,Creatina - Creapure,1097,Creatina 100%,2.5357,True,False,2026-10-04
+1127,Creatina - Creapure,1326,Própolis - Green Própolis,2.5449,True,False,2026-10-04
+1127,Creatina - Creapure,1227,Body Protein Vegano,2.5798,True,False,2026-10-04
+1128,Sleep,652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,1.7762,True,False,2026-10-04
+1128,Sleep,330,Termogênico - Lipix6,2.053,True,False,2026-10-04
+1128,Sleep,73,Whey Protein Isolado - Isofort,2.3929,True,False,2026-10-04
+1128,Sleep,1484,Creatina Monohidratada,2.4209,True,False,2026-10-04
+1128,Sleep,520,Proteína Isolada e Hidrolisada - Body Protein,2.4467,True,False,2026-10-04
+1129,Coenzima Q10,366,Coenzima Q10 - 100mg,2.9054,True,False,2026-10-04
+1129,Coenzima Q10,1572,Termogênico - Termo Plus,3.35,True,False,2026-10-04
+1129,Coenzima Q10,1199,Whey Protein - Isofort Beauty,3.6107,True,False,2026-10-04
+1129,Coenzima Q10,994,NAC Acetilcisteína -  600mg,3.859,True,False,2026-10-04
+1129,Coenzima Q10,86,Whey hidrolisado e isolado,3.8953,True,False,2026-10-04
+113,Gold Whey Concentrado Refil,1708,Refil Whey Protein - 3W,2.2755,True,False,2026-10-04
+113,Gold Whey Concentrado Refil,1410,Ferro Quelado 34mg,2.6166,True,False,2026-10-04
+113,Gold Whey Concentrado Refil,1111,Suplemento Alimentar - True Nac,2.7287,True,False,2026-10-04
+113,Gold Whey Concentrado Refil,334,Whey Fort 3W,2.8964,True,False,2026-10-04
+113,Gold Whey Concentrado Refil,1103,Coffee - Brainstorm,2.9333,True,False,2026-10-04
+1131,Vitamina B12,531,Multivitamínico - Vitalift,2.043,True,False,2026-10-04
+1131,Vitamina B12,1408,Coenzima Q10 200mg,2.1248,True,False,2026-10-04
+1131,Vitamina B12,1035,Suplemento - Hyaluronic Hair,2.1633,True,False,2026-10-04
+1131,Vitamina B12,705,Melatonina,2.1662,True,False,2026-10-04
+1131,Vitamina B12,1044,Própolis Trio,2.2166,True,False,2026-10-04
+1132,Ferro - Ydrosolv,1035,Suplemento - Hyaluronic Hair,1.337,True,False,2026-10-04
+1132,Ferro - Ydrosolv,681,Coenzima Q10,1.6111,True,False,2026-10-04
+1132,Ferro - Ydrosolv,447,Colágeno - Colagentek Beauty,1.6557,True,False,2026-10-04
+1132,Ferro - Ydrosolv,691,Cúrcuma 500mg,2.0972,True,False,2026-10-04
+1132,Ferro - Ydrosolv,219,Suplemento para Imunidade - Immune Up 100%,2.1003,True,False,2026-10-04
+1137,Melatonina - Ydrosolv,379,Aminoácido - Aminovita,1.8985,True,False,2026-10-04
+1137,Melatonina - Ydrosolv,1026,Colágeno - Collagen Pro - Body Suport,2.0724,True,False,2026-10-04
+1137,Melatonina - Ydrosolv,1327,Glutamina,2.0783,True,False,2026-10-04
+1137,Melatonina - Ydrosolv,663,Vitamina C - Bio Vit C+,2.1632,True,False,2026-10-04
+1137,Melatonina - Ydrosolv,37,Whey Isolado e Hidrolisado - H.I Whey,2.2021,True,False,2026-10-04
+1141,Granola Australia - Low Carb,206,Colágeno - Collagen Renew Hidrolisado,1.6264,True,False,2026-10-04
+1141,Granola Australia - Low Carb,1326,Própolis - Green Própolis,2.6746,True,False,2026-10-04
+1141,Granola Australia - Low Carb,1593,Laranja Moro - Moroskinny,2.6916,True,False,2026-10-04
+1141,Granola Australia - Low Carb,1108,Suplemento Alimentar - L-teanina - Happy Theanine,2.7162,True,False,2026-10-04
+1141,Granola Australia - Low Carb,1107,Melatonina Duo Harmony,2.7178,True,False,2026-10-04
+1143,Granola - Zero Açúcar,756,Gel Nitrato,2.1573,True,False,2026-10-04
+1143,Granola - Zero Açúcar,806,Óleo de Prímula - 500mg,2.5357,True,False,2026-10-04
+1143,Granola - Zero Açúcar,694,Complexo B 500mg,2.5389,True,False,2026-10-04
+1143,Granola - Zero Açúcar,1067,Melatonina,2.5515,True,False,2026-10-04
+1143,Granola - Zero Açúcar,1347,Complexo B - Bio Vit.B+,2.5751,True,False,2026-10-04
+1146,Granola,1119,Própolis Verde - Alcoólico,2.0743,True,False,2026-10-04
+1146,Granola,533,Aminoácido - Tryptophan,2.1567,True,False,2026-10-04
+1146,Granola,1093,Colágeno - Collagen Renew Hidrolisado,2.2958,True,False,2026-10-04
+1146,Granola,999,Creatina Monohidratada,2.3732,True,False,2026-10-04
+1146,Granola,1095,Colágeno - Collagen Renew Hidrolisado,2.4466,True,False,2026-10-04
+115,Gold Whey Concentrado Refil,386,L-Carnitina 530mg,1.6471,True,False,2026-10-04
+115,Gold Whey Concentrado Refil,1045,True Cúrcuma,1.8816,True,False,2026-10-04
+115,Gold Whey Concentrado Refil,35,Whey,2.1833,True,False,2026-10-04
+115,Gold Whey Concentrado Refil,538,Ultracoffee - Vegano,2.2384,True,False,2026-10-04
+115,Gold Whey Concentrado Refil,1333,Whey Protein Isolado - Tasty Iso,2.3117,True,True,2026-10-04
+1157,Refil Whey Concentrado - W100,1289,Refil Whey Concentrado - W100,1.1684,True,True,2026-10-04
+1157,Refil Whey Concentrado - W100,1408,Coenzima Q10 200mg,1.5429,True,False,2026-10-04
+1157,Refil Whey Concentrado - W100,1220,Immuno Whey,1.6942,True,False,2026-10-04
+1157,Refil Whey Concentrado - W100,390,Colágeno - Colagentek Protein - Bodybalance,1.8381,True,False,2026-10-04
+1157,Refil Whey Concentrado - W100,1001,Whey 3W,1.85,True,False,2026-10-04
+1158,Refil Whey Concentrado - W100,356,Suplemento Alimentar - GUARDIAN®,1.6283,True,False,2026-10-04
+1158,Refil Whey Concentrado - W100,1108,Suplemento Alimentar - L-teanina - Happy Theanine,1.7677,True,False,2026-10-04
+1158,Refil Whey Concentrado - W100,60,Creatina Premium - Creapure,2.0649,True,False,2026-10-04
+1158,Refil Whey Concentrado - W100,1107,Melatonina Duo Harmony,2.2006,True,False,2026-10-04
+1158,Refil Whey Concentrado - W100,206,Colágeno - Collagen Renew Hidrolisado,2.2182,True,False,2026-10-04
+1159,Refil Whey Concentrado Havanna - W100,983,BT Nitrato,1.7043,True,False,2026-10-04
+1159,Refil Whey Concentrado Havanna - W100,330,Termogênico - Lipix6,1.7391,True,False,2026-10-04
+1159,Refil Whey Concentrado Havanna - W100,902,Termogênico - Termo Plus,1.7874,True,False,2026-10-04
+1159,Refil Whey Concentrado Havanna - W100,455,Morning Shot - Imunidade,1.8739,True,False,2026-10-04
+1159,Refil Whey Concentrado Havanna - W100,932,Suplemento Alimentar - Alpha Mater,1.9715,True,False,2026-10-04
+1199,Whey Protein - Isofort Beauty,369,Coenzima Q10 - 200mg,3.3882,True,False,2026-10-04
+1199,Whey Protein - Isofort Beauty,1673,Refil Whey Protein Concentrado,3.4399,True,True,2026-10-04
+1199,Whey Protein - Isofort Beauty,1129,Coenzima Q10,3.6107,True,False,2026-10-04
+1199,Whey Protein - Isofort Beauty,336,Bom Ciclo,3.6398,True,False,2026-10-04
+1199,Whey Protein - Isofort Beauty,89,Whey hidrolisado e isolado Creme Broule 837g TRUE SOURCE,3.6943,True,False,2026-10-04
+1200,Whey Protein - Isofort Beauty,76,Ômega - Mega DHA,1.7497,True,True,2026-10-04
+1200,Whey Protein - Isofort Beauty,711,Trio Magnésio 720mg,1.8363,True,False,2026-10-04
+1200,Whey Protein - Isofort Beauty,424,Multivitaminico - Imunomult- 1000mg,1.8601,True,True,2026-10-04
+1200,Whey Protein - Isofort Beauty,448,Coenzima Q10 (200mg p/ porção),1.8972,True,True,2026-10-04
+1200,Whey Protein - Isofort Beauty,373,Resveratrol Plus - 165mg,1.9204,True,True,2026-10-04
+1201,Whey Protein - Isofort Beauty,1289,Refil Whey Concentrado - W100,1.4847,True,False,2026-10-04
+1201,Whey Protein - Isofort Beauty,1251,Colágeno -  Collagen Gut,1.7479,True,False,2026-10-04
+1201,Whey Protein - Isofort Beauty,331,Aminoácidos - Aminnu EAAs,1.8076,True,False,2026-10-04
+1201,Whey Protein - Isofort Beauty,1408,Coenzima Q10 200mg,1.8302,True,False,2026-10-04
+1201,Whey Protein - Isofort Beauty,388,Colágeno - Colagentek II,2.0038,True,True,2026-10-04
+1204,Vitamina D3,614,Vitamina B12,1.5896,True,True,2026-10-04
+1204,Vitamina D3,416,Cúrcuma Plus,2.0809,True,False,2026-10-04
+1204,Vitamina D3,592,Vitamina D3 + K2 Gotas,2.2207,True,False,2026-10-04
+1204,Vitamina D3,691,Cúrcuma 500mg,2.222,True,False,2026-10-04
+1204,Vitamina D3,807,Biotina Plus,2.2774,True,False,2026-10-04
+1205,Magnésio Inositol,44,Creatina Monohidratada (Creapure),1.0579,True,True,2026-10-04
+1205,Magnésio Inositol,363,"Vitaminas A, E, D e K2- RESTAURE® - Gotas",1.6111,True,False,2026-10-04
+1205,Magnésio Inositol,937,Whey Protein Concentrado Cappuccino 900g DUX,1.6519,True,False,2026-10-04
+1205,Magnésio Inositol,991,Magnésio Inositol,1.7954,True,False,2026-10-04
+1205,Magnésio Inositol,210,Colágeno Hidrolisado - Collagen Pro 18g,1.9121,True,True,2026-10-04
+1211,"Suplemento Alimentar - Cabelo, Unha e Pele - Beauty +",371,Probiótico - Simcaps,2.5086,True,False,2026-10-04
+1211,"Suplemento Alimentar - Cabelo, Unha e Pele - Beauty +",445,Colágeno - Colagentek,3.2011,True,False,2026-10-04
+1211,"Suplemento Alimentar - Cabelo, Unha e Pele - Beauty +",334,Whey Fort 3W,3.3505,True,False,2026-10-04
+1211,"Suplemento Alimentar - Cabelo, Unha e Pele - Beauty +",1930,Expresso Whey - Sachê,3.3637,True,False,2026-10-04
+1211,"Suplemento Alimentar - Cabelo, Unha e Pele - Beauty +",210,Colágeno Hidrolisado - Collagen Pro 18g,3.5516,True,False,2026-10-04
+1212,Ômega 3 - Ultra Caps 1000mg,681,Coenzima Q10,1.439,True,False,2026-10-04
+1212,Ômega 3 - Ultra Caps 1000mg,402,Probiótico - Simfort Plus,1.6385,True,False,2026-10-04
+1212,Ômega 3 - Ultra Caps 1000mg,1274,Suplemento Alimentar - Alpha Inflaminus,1.6883,True,False,2026-10-04
+1212,Ômega 3 - Ultra Caps 1000mg,939,Whey Protein Concentrado,1.7697,True,False,2026-10-04
+1212,Ômega 3 - Ultra Caps 1000mg,427,Isofort Plant (Life Vegan),1.8079,True,False,2026-10-04
+1213,Ômega 3 - EPA DHA - 1000mg,1035,Suplemento - Hyaluronic Hair,2.7948,True,False,2026-10-04
+1213,Ômega 3 - EPA DHA - 1000mg,681,Coenzima Q10,2.9423,True,False,2026-10-04
+1213,Ômega 3 - EPA DHA - 1000mg,402,Probiótico - Simfort Plus,2.9488,True,False,2026-10-04
+1213,Ômega 3 - EPA DHA - 1000mg,376,Ômega 3 EPA DHA,2.9616,True,False,2026-10-04
+1213,Ômega 3 - EPA DHA - 1000mg,1132,Ferro - Ydrosolv,2.9806,True,False,2026-10-04
+1214,Ômega 3 - EPA DHA - 1000mg,709,Resveratrol 500mg,1.2333,True,False,2026-10-04
+1214,Ômega 3 - EPA DHA - 1000mg,1117,Própolis Verde - Propomax,1.4284,True,False,2026-10-04
+1214,Ômega 3 - EPA DHA - 1000mg,1106,Melatonina Duo,1.6688,True,False,2026-10-04
+1214,Ômega 3 - EPA DHA - 1000mg,707,Vitamina B12,1.7337,True,False,2026-10-04
+1214,Ômega 3 - EPA DHA - 1000mg,394,Ômega 3 - Omegafor Memory,1.8253,True,False,2026-10-04
+1215,Ômega 3 - EPA DHA - 1000mg,214,Colágeno - Collagen Gut,1.6281,True,False,2026-10-04
+1215,Ômega 3 - EPA DHA - 1000mg,914,Vitamina D3 Synergy,1.9146,True,False,2026-10-04
+1215,Ômega 3 - EPA DHA - 1000mg,652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,2.0289,True,False,2026-10-04
+1215,Ômega 3 - EPA DHA - 1000mg,1484,Creatina Monohidratada,2.078,True,False,2026-10-04
+1215,Ômega 3 - EPA DHA - 1000mg,410,Enzimas Enzyfor,2.1898,True,False,2026-10-04
+1219,Beef Protein,1415,Fresh Whey,1.8868,True,False,2026-10-04
+1219,Beef Protein,715,Suplemento Alimentar - Slim Body 400mg,2.1302,True,False,2026-10-04
+1219,Beef Protein,1470,Whey Isolado - Iso Triple Zero,2.2015,True,False,2026-10-04
+1219,Beef Protein,170,100% Whey Pure,2.2622,True,False,2026-10-04
+1219,Beef Protein,32,Super Ômega 3,2.2649,True,True,2026-10-04
+1220,Immuno Whey,1001,Whey 3W,1.4542,True,False,2026-10-04
+1220,Immuno Whey,1485,Refil Whey Concentrado - W100,1.632,True,False,2026-10-04
+1220,Immuno Whey,1157,Refil Whey Concentrado - W100,1.6942,True,False,2026-10-04
+1220,Immuno Whey,215,Colágeno Collagen Skin,1.858,True,True,2026-10-04
+1220,Immuno Whey,381,Aminoácido - Aminovita,1.8683,True,False,2026-10-04
+1227,Body Protein Vegano,1105,Aminoácidos - Aminolift,1.4233,True,False,2026-10-04
+1227,Body Protein Vegano,1290,Refil Whey Concentrado - W100,1.535,True,False,2026-10-04
+1227,Body Protein Vegano,331,Aminoácidos - Aminnu EAAs,1.6454,True,False,2026-10-04
+1227,Body Protein Vegano,698,Shot Matinal,1.7038,True,False,2026-10-04
+1227,Body Protein Vegano,531,Multivitamínico - Vitalift,1.8113,True,False,2026-10-04
+1228,Creatina Monohidratada,1452,Colágeno - Colagentek Protein - Bodybalance,1.5622,True,False,2026-10-04
+1228,Creatina Monohidratada,374,Palatinose,1.5638,True,False,2026-10-04
+1228,Creatina Monohidratada,616,Vitamina - Good Mood,1.6325,True,False,2026-10-04
+1228,Creatina Monohidratada,698,Shot Matinal,1.7614,True,False,2026-10-04
+1228,Creatina Monohidratada,109,Tasty Whey 3W Gourmet,1.8205,True,False,2026-10-04
+1237,Vitamina B9 - Ácido Fólico,1475,Suplemento de Magnésio - Blue Calm,1.2781,True,True,2026-10-04
+1237,Vitamina B9 - Ácido Fólico,410,Enzimas Enzyfor,1.6067,True,False,2026-10-04
+1237,Vitamina B9 - Ácido Fólico,1560,Pré-Treino,1.7608,True,False,2026-10-04
+1237,Vitamina B9 - Ácido Fólico,1100,Colágeno - Collagen Bones,1.7621,True,False,2026-10-04
+1237,Vitamina B9 - Ácido Fólico,714,Matchá - Chá Verde em Pó,1.9563,True,False,2026-10-04
+1238,Suplemento de Magnésio - Blue Calm,633,Creatina Monohidratada -  Crealift (Creapure),1.9507,True,False,2026-10-04
+1238,Suplemento de Magnésio - Blue Calm,141,Creatina Monohidratada,2.1102,True,False,2026-10-04
+1238,Suplemento de Magnésio - Blue Calm,712,Suplemento Alimentar - Green Shot,2.3713,True,False,2026-10-04
+1238,Suplemento de Magnésio - Blue Calm,589,Whey Tech 100%,2.4329,True,False,2026-10-04
+1238,Suplemento de Magnésio - Blue Calm,399,Vitamina D - Vita D3 + C + Zinco,2.4787,True,False,2026-10-04
+1239,Suplemento de Magnésio - Blue Calm,917,Bio Cálcio  60 caps PURAVIDA,1.4772,True,True,2026-10-04
+1239,Suplemento de Magnésio - Blue Calm,215,Colágeno Collagen Skin,1.5751,True,False,2026-10-04
+1239,Suplemento de Magnésio - Blue Calm,75,Ômega -  Mega DHA,1.6506,True,False,2026-10-04
+1239,Suplemento de Magnésio - Blue Calm,381,Aminoácido - Aminovita,1.7169,True,False,2026-10-04
+1239,Suplemento de Magnésio - Blue Calm,1485,Refil Whey Concentrado - W100,1.7547,True,False,2026-10-04
+1240,Palatinose,906,Whey - Isocrisp Pouch,3.1152,True,False,2026-10-04
+1240,Palatinose,86,Whey hidrolisado e isolado,3.8089,True,False,2026-10-04
+1240,Palatinose,1528,Prebiótico - Fiber Liv,3.839,True,False,2026-10-04
+1240,Palatinose,1129,Coenzima Q10,3.9652,True,False,2026-10-04
+1240,Palatinose,800,Sleep,4.0207,True,False,2026-10-04
+1242,Vitamina D3,1051,Colágeno - Collagen Essential Protein,3.075,True,True,2026-10-04
+1242,Vitamina D3,332,Whey Fort 3W,3.5565,True,False,2026-10-04
+1242,Vitamina D3,369,Coenzima Q10 - 200mg,3.5998,True,False,2026-10-04
+1242,Vitamina D3,992,Melatonina Fast,3.849,True,False,2026-10-04
+1242,Vitamina D3,1910,Whey Protein Isolado - Sachê,3.883,True,False,2026-10-04
+1245,Zinco Quelato,1936,W100 Whey Concentrado Havanna - Sachê,2.3217,True,False,2026-10-04
+1245,Zinco Quelato,400,Vitamina D - Vita D3 + C + Zinco,2.4049,True,False,2026-10-04
+1245,Zinco Quelato,1498,Ômega 3,2.6253,True,False,2026-10-04
+1245,Zinco Quelato,388,Colágeno - Colagentek II,2.7277,True,False,2026-10-04
+1245,Zinco Quelato,1289,Refil Whey Concentrado - W100,2.7624,True,False,2026-10-04
+1247,Omegafor Family - Ômega 3,1239,Suplemento de Magnésio - Blue Calm,1.9234,True,False,2026-10-04
+1247,Omegafor Family - Ômega 3,1415,Fresh Whey,1.9535,True,False,2026-10-04
+1247,Omegafor Family - Ômega 3,1091,Cafeína,2.1066,True,False,2026-10-04
+1247,Omegafor Family - Ômega 3,412,Própolis Líquido - Gotas,2.1764,True,True,2026-10-04
+1247,Omegafor Family - Ômega 3,917,Bio Cálcio  60 caps PURAVIDA,2.2009,True,False,2026-10-04
+1248,Pré-Treino - Beta Action,599,Creatina,2.0593,True,False,2026-10-04
+1248,Pré-Treino - Beta Action,341,Whey Fort 3W,2.1168,True,False,2026-10-04
+1248,Pré-Treino - Beta Action,342,Whey Fort 3W,2.125,True,False,2026-10-04
+1248,Pré-Treino - Beta Action,1386,Refil Whey 100% Pure,2.1723,True,False,2026-10-04
+1248,Pré-Treino - Beta Action,35,Whey,2.1827,True,True,2026-10-04
+1249,BodyBalance - Muscle Synergy,1100,Colágeno - Collagen Bones,1.9226,True,True,2026-10-04
+1249,BodyBalance - Muscle Synergy,1475,Suplemento de Magnésio - Blue Calm,2.2431,True,False,2026-10-04
+1249,BodyBalance - Muscle Synergy,1237,Vitamina B9 - Ácido Fólico,2.3282,True,False,2026-10-04
+1249,BodyBalance - Muscle Synergy,410,Enzimas Enzyfor,2.4194,True,False,2026-10-04
+1249,BodyBalance - Muscle Synergy,1251,Colágeno -  Collagen Gut,2.4733,True,True,2026-10-04
+1250,NAC + Glycine + Taurine,449,Coenzima Q10 (200mg p/ porção),1.3171,True,False,2026-10-04
+1250,NAC + Glycine + Taurine,1096,Colágeno - Collagen Renew Hidrolisado,1.373,True,False,2026-10-04
+1250,NAC + Glycine + Taurine,782,Morning Shot - Imunidade,1.3852,True,False,2026-10-04
+1250,NAC + Glycine + Taurine,58,Ômega 3 Super DHA,1.4125,True,False,2026-10-04
+1250,NAC + Glycine + Taurine,620,Magnésio Quelato - Bio Mag,1.6657,True,False,2026-10-04
+1251,Colágeno -  Collagen Gut,862,Fresh Whey,1.095,True,False,2026-10-04
+1251,Colágeno -  Collagen Gut,1052,Colágeno - Collagen Essential Protein,1.7191,True,True,2026-10-04
+1251,Colágeno -  Collagen Gut,1201,Whey Protein - Isofort Beauty,1.7479,True,False,2026-10-04
+1251,Colágeno -  Collagen Gut,390,Colágeno - Colagentek Protein - Bodybalance,1.8776,True,False,2026-10-04
+1251,Colágeno -  Collagen Gut,520,Proteína Isolada e Hidrolisada - Body Protein,1.8916,True,False,2026-10-04
+1252,Super Ômega 3,1052,Colágeno - Collagen Essential Protein,0.9303,True,True,2026-10-04
+1252,Super Ômega 3,1124,Proteína Isolada e Hidrolisada - Body Protein,1.6056,True,False,2026-10-04
+1252,Super Ômega 3,390,Colágeno - Colagentek Protein - Bodybalance,1.6425,True,False,2026-10-04
+1252,Super Ômega 3,75,Ômega -  Mega DHA,1.7515,True,False,2026-10-04
+1252,Super Ômega 3,942,Whey Protein Isolado,1.761,True,False,2026-10-04
+1265,Vitamina D3,647,Glutamina em Pó,2.1213,True,False,2026-10-04
+1265,Vitamina D3,75,Ômega -  Mega DHA,2.1393,True,False,2026-10-04
+1265,Vitamina D3,139,Refil Whey 100% Pure,2.1884,True,False,2026-10-04
+1265,Vitamina D3,705,Melatonina,2.3198,True,True,2026-10-04
+1265,Vitamina D3,1157,Refil Whey Concentrado - W100,2.3237,True,False,2026-10-04
+1274,Suplemento Alimentar - Alpha Inflaminus,109,Tasty Whey 3W Gourmet,1.4816,True,False,2026-10-04
+1274,Suplemento Alimentar - Alpha Inflaminus,1212,Ômega 3 - Ultra Caps 1000mg,1.6883,True,False,2026-10-04
+1274,Suplemento Alimentar - Alpha Inflaminus,658,Cúrcuma - Curcumagic,1.6886,True,True,2026-10-04
+1274,Suplemento Alimentar - Alpha Inflaminus,1452,Colágeno - Colagentek Protein - Bodybalance,1.7624,True,False,2026-10-04
+1274,Suplemento Alimentar - Alpha Inflaminus,948,Tasty Whey 3W Gourmet,1.8508,True,False,2026-10-04
+1289,Refil Whey Concentrado - W100,1157,Refil Whey Concentrado - W100,1.1684,True,True,2026-10-04
+1289,Refil Whey Concentrado - W100,1201,Whey Protein - Isofort Beauty,1.4847,True,False,2026-10-04
+1289,Refil Whey Concentrado - W100,1408,Coenzima Q10 200mg,1.4978,True,False,2026-10-04
+1289,Refil Whey Concentrado - W100,1001,Whey 3W,1.9409,True,False,2026-10-04
+1289,Refil Whey Concentrado - W100,531,Multivitamínico - Vitalift,2.019,True,False,2026-10-04
+1290,Refil Whey Concentrado - W100,1227,Body Protein Vegano,1.535,True,False,2026-10-04
+1290,Refil Whey Concentrado - W100,481,BT Nitrato 400,1.93,True,False,2026-10-04
+1290,Refil Whey Concentrado - W100,428,Isofort Plant (Life Vegan),1.9808,True,False,2026-10-04
+1290,Refil Whey Concentrado - W100,1050,Colágeno - Collagen Essential Protein,2.1301,True,False,2026-10-04
+1290,Refil Whey Concentrado - W100,983,BT Nitrato,2.285,True,False,2026-10-04
+1292,SuperCoffee,30,Super Ômega 3,1.8235,True,False,2026-10-04
+1292,SuperCoffee,1105,Aminoácidos - Aminolift,1.9115,True,False,2026-10-04
+1292,SuperCoffee,455,Morning Shot - Imunidade,1.9903,True,False,2026-10-04
+1292,SuperCoffee,902,Termogênico - Termo Plus,2.0023,True,False,2026-10-04
+1292,SuperCoffee,520,Proteína Isolada e Hidrolisada - Body Protein,2.036,True,False,2026-10-04
+1326,Própolis - Green Própolis,905,Proteína - Isocrisp Plant Pouch,1.402,True,False,2026-10-04
+1326,Própolis - Green Própolis,1711,Simfort Ultra,1.5161,True,False,2026-10-04
+1326,Própolis - Green Própolis,1108,Suplemento Alimentar - L-teanina - Happy Theanine,1.659,True,False,2026-10-04
+1326,Própolis - Green Própolis,361,Probióticos em Pó - Simfort,1.7445,True,False,2026-10-04
+1326,Própolis - Green Própolis,691,Cúrcuma 500mg,1.8802,True,False,2026-10-04
+1327,Glutamina,379,Aminoácido - Aminovita,2.0345,True,False,2026-10-04
+1327,Glutamina,1137,Melatonina - Ydrosolv,2.0783,True,False,2026-10-04
+1327,Glutamina,365,Probióticos em Pó - Simfort,2.1275,True,False,2026-10-04
+1327,Glutamina,536,Creatina Monohidratada,2.1336,True,False,2026-10-04
+1327,Glutamina,1415,Fresh Whey,2.2014,True,False,2026-10-04
+1328,Fibras Prébioticas - Prebiotic,416,Cúrcuma Plus,2.1604,True,False,2026-10-04
+1328,Fibras Prébioticas - Prebiotic,406,Glutamina - Glutamax,2.1646,True,False,2026-10-04
+1328,Fibras Prébioticas - Prebiotic,811,Cromo Picolinato - 250mg,2.4975,True,False,2026-10-04
+1328,Fibras Prébioticas - Prebiotic,1056,Suplemento Alimentar - Pura Fiber,2.5356,True,False,2026-10-04
+1328,Fibras Prébioticas - Prebiotic,1020,Pasta de Amendoim,2.7643,True,False,2026-10-04
+1329,Colágeno Tipo II - Artro Aid,999,Creatina Monohidratada,1.9653,True,False,2026-10-04
+1329,Colágeno Tipo II - Artro Aid,140,Refil Whey 100% Pure,2.0065,True,False,2026-10-04
+1329,Colágeno Tipo II - Artro Aid,1093,Colágeno - Collagen Renew Hidrolisado,2.0106,True,True,2026-10-04
+1329,Colágeno Tipo II - Artro Aid,1114,Fresh Vegan,2.0251,True,False,2026-10-04
+1329,Colágeno Tipo II - Artro Aid,214,Colágeno - Collagen Gut,2.0306,True,False,2026-10-04
+1330,Vitamina B12,1091,Cafeína,1.6188,True,False,2026-10-04
+1330,Vitamina B12,663,Vitamina C - Bio Vit C+,1.878,True,False,2026-10-04
+1330,Vitamina B12,134,Creatina Monohidratada - Hardcore,2.012,True,False,2026-10-04
+1330,Vitamina B12,391,Beta Alanina,2.0543,True,False,2026-10-04
+1330,Vitamina B12,395,Vitamina D - Vita D3,2.1148,True,False,2026-10-04
+1331,Vitamina D3 + K2,377,Aminoácido N-acetil L-cisteína (NAC),2.2311,True,False,2026-10-04
+1331,Vitamina D3 + K2,442,Colágeno - Colagentek,2.7138,True,False,2026-10-04
+1331,Vitamina D3 + K2,1245,Zinco Quelato,2.9048,True,False,2026-10-04
+1331,Vitamina D3 + K2,115,Gold Whey Concentrado Refil,3.1388,True,False,2026-10-04
+1331,Vitamina D3 + K2,1339,Complexo B,3.3181,True,False,2026-10-04
+1332,Whey Protein Isolado - Tasty Iso,522,Proteína Isolada e Hidrolisada - Body Protein,1.549,True,False,2026-10-04
+1332,Whey Protein Isolado - Tasty Iso,1048,Colágeno - Collagen Essential Protein,1.9586,True,False,2026-10-04
+1332,Whey Protein Isolado - Tasty Iso,1220,Immuno Whey,2.0063,True,False,2026-10-04
+1332,Whey Protein Isolado - Tasty Iso,1001,Whey 3W,2.0718,True,False,2026-10-04
+1332,Whey Protein Isolado - Tasty Iso,169,100% Whey Pure,2.0985,True,False,2026-10-04
+1333,Whey Protein Isolado - Tasty Iso,1100,Colágeno - Collagen Bones,1.8159,True,False,2026-10-04
+1333,Whey Protein Isolado - Tasty Iso,1099,Whey - Immuno Golden,1.8188,True,False,2026-10-04
+1333,Whey Protein Isolado - Tasty Iso,1451,Colágeno - Colagentek Protein - Bodybalance,1.8583,True,False,2026-10-04
+1333,Whey Protein Isolado - Tasty Iso,342,Whey Fort 3W,1.8692,True,False,2026-10-04
+1333,Whey Protein Isolado - Tasty Iso,341,Whey Fort 3W,1.9367,True,False,2026-10-04
+1339,Complexo B,442,Colágeno - Colagentek,1.7219,True,False,2026-10-04
+1339,Complexo B,1100,Colágeno - Collagen Bones,2.083,True,True,2026-10-04
+1339,Complexo B,1560,Pré-Treino,2.4129,True,False,2026-10-04
+1339,Complexo B,1237,Vitamina B9 - Ácido Fólico,2.6709,True,False,2026-10-04
+1339,Complexo B,694,Complexo B 500mg,2.6762,True,False,2026-10-04
+134,Creatina Monohidratada - Hardcore,395,Vitamina D - Vita D3,1.3891,True,False,2026-10-04
+134,Creatina Monohidratada - Hardcore,474,Glutamina,1.4208,True,False,2026-10-04
+134,Creatina Monohidratada - Hardcore,427,Isofort Plant (Life Vegan),1.4226,True,False,2026-10-04
+134,Creatina Monohidratada - Hardcore,558,Palatinose,1.4396,True,False,2026-10-04
+134,Creatina Monohidratada - Hardcore,450,Coenzima Q10  (200mg p/ porção),1.8052,True,False,2026-10-04
+1341,Fresh Whey,334,Whey Fort 3W,1.8205,True,False,2026-10-04
+1341,Fresh Whey,74,Whey Protein Isolado - Isofort,2.0684,True,False,2026-10-04
+1341,Fresh Whey,67,Whey Protein Isolado - Isofort,2.3581,True,False,2026-10-04
+1341,Fresh Whey,448,Coenzima Q10 (200mg p/ porção),2.3899,True,False,2026-10-04
+1341,Fresh Whey,936,Whey Protein Concentrado,2.4549,True,True,2026-10-04
+1342,Fresh Whey,210,Colágeno Hidrolisado - Collagen Pro 18g,1.6482,True,False,2026-10-04
+1342,Fresh Whey,800,Sleep,2.3219,True,False,2026-10-04
+1342,Fresh Whey,937,Whey Protein Concentrado Cappuccino 900g DUX,2.3506,True,True,2026-10-04
+1342,Fresh Whey,480,BT Nitrato 400,2.4213,True,False,2026-10-04
+1342,Fresh Whey,1105,Aminoácidos - Aminolift,2.5872,True,False,2026-10-04
+1347,Complexo B - Bio Vit.B+,533,Aminoácido - Tryptophan,1.7447,True,False,2026-10-04
+1347,Complexo B - Bio Vit.B+,806,Óleo de Prímula - 500mg,1.9519,True,False,2026-10-04
+1347,Complexo B - Bio Vit.B+,1067,Melatonina,2.1101,True,True,2026-10-04
+1347,Complexo B - Bio Vit.B+,756,Gel Nitrato,2.1986,True,False,2026-10-04
+1347,Complexo B - Bio Vit.B+,1386,Refil Whey 100% Pure,2.4107,True,False,2026-10-04
+138,Refil Whey 100% Pure,613,Multivitaminico  - Imunomult- 1000mg,2.2494,True,False,2026-10-04
+138,Refil Whey 100% Pure,74,Whey Protein Isolado - Isofort,2.3258,True,False,2026-10-04
+138,Refil Whey 100% Pure,67,Whey Protein Isolado - Isofort,2.6776,True,False,2026-10-04
+138,Refil Whey 100% Pure,1486,Whey Concentrado - W100,2.7538,True,False,2026-10-04
+138,Refil Whey 100% Pure,871,Creatina - Creafort (Creapure),2.7772,True,False,2026-10-04
+1383,SuperCoffee,1342,Fresh Whey,2.8352,True,False,2026-10-04
+1383,SuperCoffee,445,Colágeno - Colagentek,2.926,True,False,2026-10-04
+1383,SuperCoffee,210,Colágeno Hidrolisado - Collagen Pro 18g,3.1945,True,False,2026-10-04
+1383,SuperCoffee,800,Sleep,3.4248,True,False,2026-10-04
+1383,SuperCoffee,983,BT Nitrato,3.4558,True,False,2026-10-04
+1384,SuperCoffee Língua de gato - Kopenhagen,357,Suplemento Alimentar - GUARDIAN®,2.0269,True,False,2026-10-04
+1384,SuperCoffee Língua de gato - Kopenhagen,634,Magnésio - Inositol Relief 3.0,2.0328,True,False,2026-10-04
+1384,SuperCoffee Língua de gato - Kopenhagen,635,Ômega 3 - 1360mg,2.2356,True,False,2026-10-04
+1384,SuperCoffee Língua de gato - Kopenhagen,76,Ômega - Mega DHA,2.3529,True,False,2026-10-04
+1384,SuperCoffee Língua de gato - Kopenhagen,3,Whey Protein Concentrado,2.4585,True,False,2026-10-04
+1386,Refil Whey 100% Pure,1067,Melatonina,1.4183,True,False,2026-10-04
+1386,Refil Whey 100% Pure,783,Creatina,1.8802,True,True,2026-10-04
+1386,Refil Whey 100% Pure,599,Creatina,1.9383,True,False,2026-10-04
+1386,Refil Whey 100% Pure,70,Omegafor Vision,1.9486,True,False,2026-10-04
+1386,Refil Whey 100% Pure,337,#Whey Fort 3W,1.9583,True,False,2026-10-04
+139,Refil Whey 100% Pure,932,Suplemento Alimentar - Alpha Mater,1.1675,True,False,2026-10-04
+139,Refil Whey 100% Pure,1124,Proteína Isolada e Hidrolisada - Body Protein,1.4454,True,False,2026-10-04
+139,Refil Whey 100% Pure,220,Próbiotico - Purabiotics,1.4729,True,False,2026-10-04
+139,Refil Whey 100% Pure,481,BT Nitrato 400,1.5224,True,False,2026-10-04
+139,Refil Whey 100% Pure,1045,True Cúrcuma,1.5906,True,False,2026-10-04
+140,Refil Whey 100% Pure,447,Colágeno - Colagentek Beauty,1.6791,True,False,2026-10-04
+140,Refil Whey 100% Pure,443,Colágeno - Colagentek,1.7142,True,False,2026-10-04
+140,Refil Whey 100% Pure,1026,Colágeno - Collagen Pro - Body Suport,1.9379,True,False,2026-10-04
+140,Refil Whey 100% Pure,1329,Colágeno Tipo II - Artro Aid,2.0065,True,False,2026-10-04
+140,Refil Whey 100% Pure,109,Tasty Whey 3W Gourmet,2.033,True,False,2026-10-04
+1408,Coenzima Q10 200mg,1289,Refil Whey Concentrado - W100,1.4978,True,False,2026-10-04
+1408,Coenzima Q10 200mg,698,Shot Matinal,1.5265,True,False,2026-10-04
+1408,Coenzima Q10 200mg,1157,Refil Whey Concentrado - W100,1.5429,True,False,2026-10-04
+1408,Coenzima Q10 200mg,705,Melatonina,1.6001,True,False,2026-10-04
+1408,Coenzima Q10 200mg,219,Suplemento para Imunidade - Immune Up 100%,1.7188,True,False,2026-10-04
+141,Creatina Monohidratada,589,Whey Tech 100%,1.9476,True,True,2026-10-04
+141,Creatina Monohidratada,1238,Suplemento de Magnésio - Blue Calm,2.1102,True,False,2026-10-04
+141,Creatina Monohidratada,534,Coenzima Q10 + Ômega 3 + Vitamina E,2.276,True,False,2026-10-04
+141,Creatina Monohidratada,706,Vitamina D3 + K2,2.3209,True,False,2026-10-04
+141,Creatina Monohidratada,77,Ômega 3 EPA DHA,2.461,True,False,2026-10-04
+1410,Ferro Quelado 34mg,113,Gold Whey Concentrado Refil,2.6166,True,False,2026-10-04
+1410,Ferro Quelado 34mg,1111,Suplemento Alimentar - True Nac,3.2118,True,False,2026-10-04
+1410,Ferro Quelado 34mg,794,Vitamina D3 - 2000 Ui,3.3868,True,True,2026-10-04
+1410,Ferro Quelado 34mg,587,Whey Tech 100%,3.4719,True,False,2026-10-04
+1410,Ferro Quelado 34mg,371,Probiótico - Simcaps,3.5252,True,False,2026-10-04
+1415,Fresh Whey,365,Probióticos em Pó - Simfort,1.5943,True,False,2026-10-04
+1415,Fresh Whey,215,Colágeno Collagen Skin,1.6726,True,False,2026-10-04
+1415,Fresh Whey,381,Aminoácido - Aminovita,1.8132,True,False,2026-10-04
+1415,Fresh Whey,1219,Beef Protein,1.8868,True,False,2026-10-04
+1415,Fresh Whey,1239,Suplemento de Magnésio - Blue Calm,1.9459,True,False,2026-10-04
+144,100% Whey Protein - Flavour,1124,Proteína Isolada e Hidrolisada - Body Protein,1.5025,True,False,2026-10-04
+144,100% Whey Protein - Flavour,538,Ultracoffee - Vegano,1.7842,True,False,2026-10-04
+144,100% Whey Protein - Flavour,1109,Glutamina,1.8077,True,False,2026-10-04
+144,100% Whey Protein - Flavour,1239,Suplemento de Magnésio - Blue Calm,1.8482,True,False,2026-10-04
+144,100% Whey Protein - Flavour,337,#Whey Fort 3W,1.9667,True,False,2026-10-04
+1449,Simfort Femme,905,Proteína - Isocrisp Plant Pouch,1.7852,True,True,2026-10-04
+1449,Simfort Femme,1108,Suplemento Alimentar - L-teanina - Happy Theanine,1.983,True,False,2026-10-04
+1449,Simfort Femme,1711,Simfort Ultra,2.0868,True,True,2026-10-04
+1449,Simfort Femme,360,Probiótico - Simfort Plus,2.1832,True,True,2026-10-04
+1449,Simfort Femme,1639,Proteína Isolada e Hidrolisada - Body Protein,2.1882,True,False,2026-10-04
+145,100% Whey Protein - Flavour,428,Isofort Plant (Life Vegan),1.6454,True,False,2026-10-04
+145,100% Whey Protein - Flavour,139,Refil Whey 100% Pure,1.8391,True,False,2026-10-04
+145,100% Whey Protein - Flavour,1124,Proteína Isolada e Hidrolisada - Body Protein,1.8638,True,False,2026-10-04
+145,100% Whey Protein - Flavour,144,100% Whey Protein - Flavour,2.1649,True,True,2026-10-04
+145,100% Whey Protein - Flavour,538,Ultracoffee - Vegano,2.166,True,False,2026-10-04
+1450,Omegafor Family - Ômega 3,1010,Ômega Golden,1.1673,True,False,2026-10-04
+1450,Omegafor Family - Ômega 3,419,"Boraprim - Borragem, Prímula e Gergelim",2.4146,True,True,2026-10-04
+1450,Omegafor Family - Ômega 3,983,BT Nitrato,2.5043,True,False,2026-10-04
+1450,Omegafor Family - Ômega 3,459,SuperCoffee,2.6092,True,False,2026-10-04
+1450,Omegafor Family - Ômega 3,330,Termogênico - Lipix6,2.8818,True,True,2026-10-04
+1451,Colágeno - Colagentek Protein - Bodybalance,342,Whey Fort 3W,1.6101,True,True,2026-10-04
+1451,Colágeno - Colagentek Protein - Bodybalance,341,Whey Fort 3W,1.83,True,True,2026-10-04
+1451,Colágeno - Colagentek Protein - Bodybalance,952,Feno Grego,1.8582,True,False,2026-10-04
+1451,Colágeno - Colagentek Protein - Bodybalance,1333,Whey Protein Isolado - Tasty Iso,1.8583,True,False,2026-10-04
+1451,Colágeno - Colagentek Protein - Bodybalance,337,#Whey Fort 3W,1.9474,True,True,2026-10-04
+1452,Colágeno - Colagentek Protein - Bodybalance,109,Tasty Whey 3W Gourmet,1.436,True,False,2026-10-04
+1452,Colágeno - Colagentek Protein - Bodybalance,657,Colágeno - Collagen Tipo II 40mg,1.5288,True,False,2026-10-04
+1452,Colágeno - Colagentek Protein - Bodybalance,1228,Creatina Monohidratada,1.5622,True,False,2026-10-04
+1452,Colágeno - Colagentek Protein - Bodybalance,368,Probiótico - Simcaps,1.7416,True,True,2026-10-04
+1452,Colágeno - Colagentek Protein - Bodybalance,1274,Suplemento Alimentar - Alpha Inflaminus,1.7624,True,False,2026-10-04
+1456,Aminoácidos - Aminnu EAAs - Sem Xilitol,1332,Whey Protein Isolado - Tasty Iso,2.5965,True,False,2026-10-04
+1456,Aminoácidos - Aminnu EAAs - Sem Xilitol,376,Ômega 3 EPA DHA,2.6929,True,False,2026-10-04
+1456,Aminoácidos - Aminnu EAAs - Sem Xilitol,34,Whey,3.0255,True,False,2026-10-04
+1456,Aminoácidos - Aminnu EAAs - Sem Xilitol,522,Proteína Isolada e Hidrolisada - Body Protein,3.1258,True,False,2026-10-04
+1456,Aminoácidos - Aminnu EAAs - Sem Xilitol,463,SuperCoffee,3.1538,True,False,2026-10-04
+1459,Coenzima Q10+ 200mg,107,Tasty Whey 3W Gourmet,1.7548,True,False,2026-10-04
+1459,Coenzima Q10+ 200mg,1632,Creatina - Gummy,1.8494,True,False,2026-10-04
+1459,Coenzima Q10+ 200mg,58,Ômega 3 Super DHA,2.0712,True,True,2026-10-04
+1459,Coenzima Q10+ 200mg,1719,N-Acetil Cisteína (NAC),2.1642,True,True,2026-10-04
+1459,Coenzima Q10+ 200mg,1049,Colágeno - Collagen Essential Protein,2.1949,True,False,2026-10-04
+146,100% Whey Protein - Flavour,144,100% Whey Protein - Flavour,2.5506,True,True,2026-10-04
+146,100% Whey Protein - Flavour,1239,Suplemento de Magnésio - Blue Calm,2.6336,True,False,2026-10-04
+146,100% Whey Protein - Flavour,75,Ômega -  Mega DHA,2.6572,True,False,2026-10-04
+146,100% Whey Protein - Flavour,862,Fresh Whey,2.6777,True,False,2026-10-04
+146,100% Whey Protein - Flavour,404,Isofort Plant (Life Vegan),2.7719,True,False,2026-10-04
+1470,Whey Isolado - Iso Triple Zero,1219,Beef Protein,2.2015,True,False,2026-10-04
+1470,Whey Isolado - Iso Triple Zero,633,Creatina Monohidratada -  Crealift (Creapure),2.2476,True,False,2026-10-04
+1470,Whey Isolado - Iso Triple Zero,1786,Simfort Ultra,2.3286,True,False,2026-10-04
+1470,Whey Isolado - Iso Triple Zero,1590,Refil 100% Whey Protein - Flavour,2.3737,True,False,2026-10-04
+1470,Whey Isolado - Iso Triple Zero,712,Suplemento Alimentar - Green Shot,2.4733,True,False,2026-10-04
+1475,Suplemento de Magnésio - Blue Calm,1237,Vitamina B9 - Ácido Fólico,1.2781,True,True,2026-10-04
+1475,Suplemento de Magnésio - Blue Calm,410,Enzimas Enzyfor,1.6457,True,False,2026-10-04
+1475,Suplemento de Magnésio - Blue Calm,1100,Colágeno - Collagen Bones,1.9217,True,False,2026-10-04
+1475,Suplemento de Magnésio - Blue Calm,208,Colágeno Hidrolisado - Collagen Pro 18g,1.9285,True,False,2026-10-04
+1475,Suplemento de Magnésio - Blue Calm,341,Whey Fort 3W,1.94,True,False,2026-10-04
+1484,Creatina Monohidratada,652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,1.6022,True,True,2026-10-04
+1484,Creatina Monohidratada,214,Colágeno - Collagen Gut,1.9136,True,False,2026-10-04
+1484,Creatina Monohidratada,914,Vitamina D3 Synergy,2.0,True,True,2026-10-04
+1484,Creatina Monohidratada,341,Whey Fort 3W,2.01,True,False,2026-10-04
+1484,Creatina Monohidratada,1215,Ômega 3 - EPA DHA - 1000mg,2.078,True,False,2026-10-04
+1485,Refil Whey Concentrado - W100,1048,Colágeno - Collagen Essential Protein,1.5668,True,False,2026-10-04
+1485,Refil Whey Concentrado - W100,365,Probióticos em Pó - Simfort,1.6214,True,False,2026-10-04
+1485,Refil Whey Concentrado - W100,1220,Immuno Whey,1.632,True,False,2026-10-04
+1485,Refil Whey Concentrado - W100,1239,Suplemento de Magnésio - Blue Calm,1.7547,True,False,2026-10-04
+1485,Refil Whey Concentrado - W100,393,Colágeno - Colagentek,1.8813,True,False,2026-10-04
+1486,Whey Concentrado - W100,859,Fresh Whey,2.2375,True,False,2026-10-04
+1486,Whey Concentrado - W100,138,Refil Whey 100% Pure,2.7538,True,False,2026-10-04
+1486,Whey Concentrado - W100,67,Whey Protein Isolado - Isofort,2.9257,True,False,2026-10-04
+1486,Whey Concentrado - W100,860,Fresh Whey,2.9503,True,False,2026-10-04
+1486,Whey Concentrado - W100,908,Vitamina D3 + K2,2.9944,True,False,2026-10-04
+1491,Fresh Whey,60,Creatina Premium - Creapure,2.6255,True,False,2026-10-04
+1491,Fresh Whey,691,Cúrcuma 500mg,2.915,True,False,2026-10-04
+1491,Fresh Whey,447,Colágeno - Colagentek Beauty,2.9259,True,False,2026-10-04
+1491,Fresh Whey,385,Arginofor -  L-Arginina,2.957,True,False,2026-10-04
+1491,Fresh Whey,1673,Refil Whey Protein Concentrado,3.02,True,False,2026-10-04
+1495,Coq10 + Vitamina E,1810,SuperCoffee,1.8914,True,False,2026-10-04
+1495,Coq10 + Vitamina E,331,Aminoácidos - Aminnu EAAs,2.6443,True,False,2026-10-04
+1495,Coq10 + Vitamina E,487,Glutamina Isolates,2.7471,True,False,2026-10-04
+1495,Coq10 + Vitamina E,687,Ômega 3 DHA,2.9719,True,False,2026-10-04
+1495,Coq10 + Vitamina E,481,BT Nitrato 400,3.0099,True,False,2026-10-04
+1498,Ômega 3,1045,True Cúrcuma,1.6955,True,True,2026-10-04
+1498,Ômega 3,386,L-Carnitina 530mg,1.7981,True,False,2026-10-04
+1498,Ômega 3,39,Proteína Vegana - Immuno Veggie,2.0643,True,False,2026-10-04
+1498,Ômega 3,70,Omegafor Vision,2.1355,True,False,2026-10-04
+1498,Ômega 3,139,Refil Whey 100% Pure,2.3457,True,False,2026-10-04
+1499,Ômega 3,634,Magnésio - Inositol Relief 3.0,3.954,True,True,2026-10-04
+1499,Ômega 3,1673,Refil Whey Protein Concentrado,4.2994,True,False,2026-10-04
+1499,Ômega 3,357,Suplemento Alimentar - GUARDIAN®,4.3074,True,False,2026-10-04
+1499,Ômega 3,1491,Fresh Whey,4.6924,True,False,2026-10-04
+1499,Ômega 3,82,Creatina 100% Pure,4.8007,True,True,2026-10-04
+1528,Prebiótico - Fiber Liv,991,Magnésio Inositol,2.7553,True,False,2026-10-04
+1528,Prebiótico - Fiber Liv,1095,Colágeno - Collagen Renew Hidrolisado,2.7635,True,False,2026-10-04
+1528,Prebiótico - Fiber Liv,807,Biotina Plus,2.8773,True,True,2026-10-04
+1528,Prebiótico - Fiber Liv,614,Vitamina B12,2.9243,True,False,2026-10-04
+1528,Prebiótico - Fiber Liv,598,Glutamina em Pó,2.946,True,False,2026-10-04
+1560,Pré-Treino,1100,Colágeno - Collagen Bones,1.5772,True,False,2026-10-04
+1560,Pré-Treino,1237,Vitamina B9 - Ácido Fólico,1.7608,True,False,2026-10-04
+1560,Pré-Treino,410,Enzimas Enzyfor,1.93,True,False,2026-10-04
+1560,Pré-Treino,1475,Suplemento de Magnésio - Blue Calm,2.3547,True,False,2026-10-04
+1560,Pré-Treino,342,Whey Fort 3W,2.3547,True,False,2026-10-04
+1572,Termogênico - Termo Plus,994,NAC Acetilcisteína -  600mg,2.1722,True,False,2026-10-04
+1572,Termogênico - Termo Plus,84,Whey hidrolisado e isolado,2.3268,True,False,2026-10-04
+1572,Termogênico - Termo Plus,366,Coenzima Q10 - 100mg,2.7188,True,False,2026-10-04
+1572,Termogênico - Termo Plus,336,Bom Ciclo,2.9536,True,False,2026-10-04
+1572,Termogênico - Termo Plus,1112,Whey Isolado - Isofort Ultra Imuno,3.0119,True,True,2026-10-04
+1577,Barrinha - Body Protein,1120,Própolis Alcoólico,2.8795,True,False,2026-10-04
+1577,Barrinha - Body Protein,336,Bom Ciclo,2.9753,True,False,2026-10-04
+1577,Barrinha - Body Protein,1141,Granola Australia - Low Carb,3.0693,True,False,2026-10-04
+1577,Barrinha - Body Protein,1072,Pasta de Amendoim Granulado,3.1967,True,False,2026-10-04
+1577,Barrinha - Body Protein,1657,Magnésio - Mag 5 Complex,3.2716,True,False,2026-10-04
+1590,Refil 100% Whey Protein - Flavour,1786,Simfort Ultra,1.5193,True,False,2026-10-04
+1590,Refil 100% Whey Protein - Flavour,1775,Multivitaminino - Multi All,2.1111,True,False,2026-10-04
+1590,Refil 100% Whey Protein - Flavour,1250,NAC + Glycine + Taurine,2.1409,True,False,2026-10-04
+1590,Refil 100% Whey Protein - Flavour,58,Ômega 3 Super DHA,2.1992,True,False,2026-10-04
+1590,Refil 100% Whey Protein - Flavour,534,Coenzima Q10 + Ômega 3 + Vitamina E,2.2648,True,False,2026-10-04
+1593,Laranja Moro - Moroskinny,1705,Whey Protein Concentrado,2.183,True,False,2026-10-04
+1593,Laranja Moro - Moroskinny,1100,Colágeno - Collagen Bones,2.5957,True,False,2026-10-04
+1593,Laranja Moro - Moroskinny,1237,Vitamina B9 - Ácido Fólico,2.6629,True,False,2026-10-04
+1593,Laranja Moro - Moroskinny,1141,Granola Australia - Low Carb,2.6916,True,False,2026-10-04
+1593,Laranja Moro - Moroskinny,1475,Suplemento de Magnésio - Blue Calm,2.7355,True,False,2026-10-04
+1632,Creatina - Gummy,1459,Coenzima Q10+ 200mg,1.8494,True,False,2026-10-04
+1632,Creatina - Gummy,107,Tasty Whey 3W Gourmet,2.1308,True,False,2026-10-04
+1632,Creatina - Gummy,1049,Colágeno - Collagen Essential Protein,2.1981,True,False,2026-10-04
+1632,Creatina - Gummy,658,Cúrcuma - Curcumagic,2.3565,True,False,2026-10-04
+1632,Creatina - Gummy,1250,NAC + Glycine + Taurine,2.3908,True,False,2026-10-04
+1639,Proteína Isolada e Hidrolisada - Body Protein,211,Colágeno Hidrolisado - Collagen Pro 18g,1.297,True,False,2026-10-04
+1639,Proteína Isolada e Hidrolisada - Body Protein,3,Whey Protein Concentrado,1.4953,True,False,2026-10-04
+1639,Proteína Isolada e Hidrolisada - Body Protein,782,Morning Shot - Imunidade,1.7431,True,False,2026-10-04
+1639,Proteína Isolada e Hidrolisada - Body Protein,1705,Whey Protein Concentrado,1.7985,True,False,2026-10-04
+1639,Proteína Isolada e Hidrolisada - Body Protein,937,Whey Protein Concentrado Cappuccino 900g DUX,1.8925,True,False,2026-10-04
+1646,Salgadinho,1970,Snack Proteico,6.541,True,False,2026-10-04
+1646,Salgadinho,1968,Snack Proteico,6.6228,True,False,2026-10-04
+1646,Salgadinho,82,Creatina 100% Pure,7.9197,True,False,2026-10-04
+1646,Salgadinho,1853,NAC PRO,9.5855,True,False,2026-10-04
+1646,Salgadinho,1647,Salgadinho,9.6014,True,True,2026-10-04
+1647,Salgadinho,1930,Expresso Whey - Sachê,4.2156,True,False,2026-10-04
+1647,Salgadinho,371,Probiótico - Simcaps,4.5464,True,False,2026-10-04
+1647,Salgadinho,989,Gel Nitrato com L-Citrulinilarginina,4.7654,True,False,2026-10-04
+1647,Salgadinho,1936,W100 Whey Concentrado Havanna - Sachê,4.8083,True,False,2026-10-04
+1647,Salgadinho,1199,Whey Protein - Isofort Beauty,4.8784,True,False,2026-10-04
+1656,Maca Peruana,992,Melatonina Fast,2.417,True,False,2026-10-04
+1656,Maca Peruana,1339,Complexo B,2.9337,True,False,2026-10-04
+1656,Maca Peruana,694,Complexo B 500mg,2.9811,True,True,2026-10-04
+1656,Maca Peruana,210,Colágeno Hidrolisado - Collagen Pro 18g,2.9812,True,False,2026-10-04
+1656,Maca Peruana,1205,Magnésio Inositol,3.0204,True,False,2026-10-04
+1657,Magnésio - Mag 5 Complex,336,Bom Ciclo,3.0596,True,False,2026-10-04
+1657,Magnésio - Mag 5 Complex,416,Cúrcuma Plus,3.1305,True,False,2026-10-04
+1657,Magnésio - Mag 5 Complex,1781,Colágeno - Colagentek II,3.236,True,False,2026-10-04
+1657,Magnésio - Mag 5 Complex,1577,Barrinha - Body Protein,3.2716,True,False,2026-10-04
+1657,Magnésio - Mag 5 Complex,1725,Whey Protein Isolado,3.4254,True,False,2026-10-04
+1659,Magnésio Inositol,1705,Whey Protein Concentrado,2.231,True,False,2026-10-04
+1659,Magnésio Inositol,1060,Beef Protein,2.4823,True,False,2026-10-04
+1659,Magnésio Inositol,550,Suplemento de Magnésio - Blue Calm,2.7363,True,False,2026-10-04
+1659,Magnésio Inositol,1328,Fibras Prébioticas - Prebiotic,2.8603,True,True,2026-10-04
+1659,Magnésio Inositol,1781,Colágeno - Colagentek II,2.8953,True,False,2026-10-04
+166,Whey Fort 3W,376,Ômega 3 EPA DHA,2.3292,True,True,2026-10-04
+166,Whey Fort 3W,860,Fresh Whey,2.3837,True,False,2026-10-04
+166,Whey Fort 3W,613,Multivitaminico  - Imunomult- 1000mg,2.3858,True,True,2026-10-04
+166,Whey Fort 3W,519,Proteína Isolada e Hidrolisada - Body Protein,2.4346,True,False,2026-10-04
+166,Whey Fort 3W,1048,Colágeno - Collagen Essential Protein,2.4605,True,False,2026-10-04
+1660,Ômega 3  - 1360mg,211,Colágeno Hidrolisado - Collagen Pro 18g,1.689,True,True,2026-10-04
+1660,Ômega 3  - 1360mg,1093,Colágeno - Collagen Renew Hidrolisado,2.0693,True,True,2026-10-04
+1660,Ômega 3  - 1360mg,1049,Colágeno - Collagen Essential Protein,2.0819,True,False,2026-10-04
+1660,Ômega 3  - 1360mg,658,Cúrcuma - Curcumagic,2.1191,True,False,2026-10-04
+1660,Ômega 3  - 1360mg,209,Colágeno Hidrolisado - Collagen Pro 18g,2.1476,True,True,2026-10-04
+167,Whey Fort 3W,6,Whey Protein Isolado,2.2907,True,False,2026-10-04
+167,Whey Fort 3W,465,SuperCoffee,2.3943,True,False,2026-10-04
+167,Whey Fort 3W,375,Omegafor Plus,2.8321,True,True,2026-10-04
+167,Whey Fort 3W,534,Coenzima Q10 + Ômega 3 + Vitamina E,2.934,True,False,2026-10-04
+167,Whey Fort 3W,1292,SuperCoffee,2.9893,True,False,2026-10-04
+1670,Tasty Whey 3W Gourmet,333,Aminoácidos - Aminnu EAAs,1.0775,True,False,2026-10-04
+1670,Tasty Whey 3W Gourmet,1107,Melatonina Duo Harmony,1.7585,True,False,2026-10-04
+1670,Tasty Whey 3W Gourmet,991,Magnésio Inositol,1.8173,True,False,2026-10-04
+1670,Tasty Whey 3W Gourmet,658,Cúrcuma - Curcumagic,2.0316,True,False,2026-10-04
+1670,Tasty Whey 3W Gourmet,1011,Ômega Core,2.0546,True,False,2026-10-04
+1673,Refil Whey Protein Concentrado,85,Whey hidrolisado e isolado,2.7033,True,False,2026-10-04
+1673,Refil Whey Protein Concentrado,357,Suplemento Alimentar - GUARDIAN®,2.7587,True,False,2026-10-04
+1673,Refil Whey Protein Concentrado,89,Whey hidrolisado e isolado Creme Broule 837g TRUE SOURCE,2.98,True,False,2026-10-04
+1673,Refil Whey Protein Concentrado,79,Whey Protein Isolado - Isofort,2.993,True,True,2026-10-04
+1673,Refil Whey Protein Concentrado,531,Multivitamínico - Vitalift,3.0124,True,False,2026-10-04
+168,100% Whey Pure,32,Super Ômega 3,1.7497,True,False,2026-10-04
+168,100% Whey Pure,858,Fresh Whey,1.9481,True,False,2026-10-04
+168,100% Whey Pure,1219,Beef Protein,2.726,True,False,2026-10-04
+168,100% Whey Pure,1247,Omegafor Family - Ômega 3,2.8956,True,False,2026-10-04
+168,100% Whey Pure,1415,Fresh Whey,3.0348,True,False,2026-10-04
+1687,Creatina Monohidratada (Creapure),457,SuperCoffee,2.1329,True,False,2026-10-04
+1687,Creatina Monohidratada (Creapure),357,Suplemento Alimentar - GUARDIAN®,2.1532,True,False,2026-10-04
+1687,Creatina Monohidratada (Creapure),634,Magnésio - Inositol Relief 3.0,2.5593,True,False,2026-10-04
+1687,Creatina Monohidratada (Creapure),1384,SuperCoffee Língua de gato - Kopenhagen,2.5624,True,False,2026-10-04
+1687,Creatina Monohidratada (Creapure),211,Colágeno Hidrolisado - Collagen Pro 18g,2.5945,True,False,2026-10-04
+169,100% Whey Pure,1091,Cafeína,2.0539,True,False,2026-10-04
+169,100% Whey Pure,1332,Whey Protein Isolado - Tasty Iso,2.0985,True,False,2026-10-04
+169,100% Whey Pure,450,Coenzima Q10  (200mg p/ porção),2.2466,True,False,2026-10-04
+169,100% Whey Pure,134,Creatina Monohidratada - Hardcore,2.2748,True,True,2026-10-04
+169,100% Whey Pure,1415,Fresh Whey,2.3263,True,False,2026-10-04
+170,100% Whey Pure,1415,Fresh Whey,2.1552,True,False,2026-10-04
+170,100% Whey Pure,1219,Beef Protein,2.2622,True,False,2026-10-04
+170,100% Whey Pure,405,L-Taurina - 1.000mg,2.3197,True,False,2026-10-04
+170,100% Whey Pure,215,Colágeno Collagen Skin,2.4166,True,False,2026-10-04
+170,100% Whey Pure,1327,Glutamina,2.4755,True,False,2026-10-04
+1705,Whey Protein Concentrado,1639,Proteína Isolada e Hidrolisada - Body Protein,1.7985,True,False,2026-10-04
+1705,Whey Protein Concentrado,1593,Laranja Moro - Moroskinny,2.183,True,False,2026-10-04
+1705,Whey Protein Concentrado,1659,Magnésio Inositol,2.231,True,False,2026-10-04
+1705,Whey Protein Concentrado,211,Colágeno Hidrolisado - Collagen Pro 18g,2.3658,True,False,2026-10-04
+1705,Whey Protein Concentrado,1670,Tasty Whey 3W Gourmet,2.3899,True,False,2026-10-04
+1708,Refil Whey Protein - 3W,113,Gold Whey Concentrado Refil,2.2755,True,False,2026-10-04
+1708,Refil Whey Protein - 3W,800,Sleep,2.3681,True,False,2026-10-04
+1708,Refil Whey Protein - 3W,334,Whey Fort 3W,2.5214,True,False,2026-10-04
+1708,Refil Whey Protein - 3W,369,Coenzima Q10 - 200mg,2.5964,True,False,2026-10-04
+1708,Refil Whey Protein - 3W,937,Whey Protein Concentrado Cappuccino 900g DUX,2.6083,True,False,2026-10-04
+1711,Simfort Ultra,1108,Suplemento Alimentar - L-teanina - Happy Theanine,1.432,True,False,2026-10-04
+1711,Simfort Ultra,1326,Própolis - Green Própolis,1.5161,True,False,2026-10-04
+1711,Simfort Ultra,905,Proteína - Isocrisp Plant Pouch,1.5597,True,True,2026-10-04
+1711,Simfort Ultra,691,Cúrcuma 500mg,2.026,True,False,2026-10-04
+1711,Simfort Ultra,1449,Simfort Femme,2.0868,True,True,2026-10-04
+1719,N-Acetil Cisteína (NAC),638,Beta Alanina 100%,2.0298,True,False,2026-10-04
+1719,N-Acetil Cisteína (NAC),1459,Coenzima Q10+ 200mg,2.1642,True,True,2026-10-04
+1719,N-Acetil Cisteína (NAC),1228,Creatina Monohidratada,2.2758,True,False,2026-10-04
+1719,N-Acetil Cisteína (NAC),531,Multivitamínico - Vitalift,2.2815,True,False,2026-10-04
+1719,N-Acetil Cisteína (NAC),616,Vitamina - Good Mood,2.3371,True,False,2026-10-04
+1725,Whey Protein Isolado,1781,Colágeno - Colagentek II,1.8637,True,False,2026-10-04
+1725,Whey Protein Isolado,944,Whey Protein Isolado,2.9793,True,True,2026-10-04
+1725,Whey Protein Isolado,940,Whey Protein Concentrado,2.9961,True,True,2026-10-04
+1725,Whey Protein Isolado,357,Suplemento Alimentar - GUARDIAN®,3.1282,True,False,2026-10-04
+1725,Whey Protein Isolado,1670,Tasty Whey 3W Gourmet,3.1482,True,False,2026-10-04
+1760,True Cúrcuma com Ômega,726,Termogênico - Lipix6,1.6117,True,False,2026-10-04
+1760,True Cúrcuma com Ômega,385,Arginofor -  L-Arginina,2.2489,True,False,2026-10-04
+1760,True Cúrcuma com Ômega,1110,Pré-treino - Energyzer & focus,2.3901,True,True,2026-10-04
+1760,True Cúrcuma com Ômega,1096,Colágeno - Collagen Renew Hidrolisado,2.6653,True,False,2026-10-04
+1760,True Cúrcuma com Ômega,1095,Colágeno - Collagen Renew Hidrolisado,2.6664,True,False,2026-10-04
+1775,Multivitaminino - Multi All,1886,Ferro Plus,1.5604,True,False,2026-10-04
+1775,Multivitaminino - Multi All,348,Vitamina C3 - 1000mg,1.7886,True,False,2026-10-04
+1775,Multivitaminino - Multi All,1786,Simfort Ultra,1.9996,True,False,2026-10-04
+1775,Multivitaminino - Multi All,1590,Refil 100% Whey Protein - Flavour,2.1111,True,False,2026-10-04
+1775,Multivitaminino - Multi All,712,Suplemento Alimentar - Green Shot,2.2507,True,False,2026-10-04
+1781,Colágeno - Colagentek II,1725,Whey Protein Isolado,1.8637,True,False,2026-10-04
+1781,Colágeno - Colagentek II,991,Magnésio Inositol,2.2961,True,False,2026-10-04
+1781,Colágeno - Colagentek II,1639,Proteína Isolada e Hidrolisada - Body Protein,2.2983,True,False,2026-10-04
+1781,Colágeno - Colagentek II,944,Whey Protein Isolado,2.3049,True,False,2026-10-04
+1781,Colágeno - Colagentek II,1670,Tasty Whey 3W Gourmet,2.3762,True,False,2026-10-04
+1786,Simfort Ultra,1590,Refil 100% Whey Protein - Flavour,1.5193,True,False,2026-10-04
+1786,Simfort Ultra,1775,Multivitaminino - Multi All,1.9996,True,False,2026-10-04
+1786,Simfort Ultra,1470,Whey Isolado - Iso Triple Zero,2.3286,True,False,2026-10-04
+1786,Simfort Ultra,1248,Pré-Treino - Beta Action,2.8583,True,False,2026-10-04
+1786,Simfort Ultra,1067,Melatonina,2.979,True,False,2026-10-04
+1810,SuperCoffee,1495,Coq10 + Vitamina E,1.8914,True,False,2026-10-04
+1810,SuperCoffee,1108,Suplemento Alimentar - L-teanina - Happy Theanine,1.9798,True,False,2026-10-04
+1810,SuperCoffee,331,Aminoácidos - Aminnu EAAs,2.0591,True,False,2026-10-04
+1810,SuperCoffee,481,BT Nitrato 400,2.2668,True,False,2026-10-04
+1810,SuperCoffee,698,Shot Matinal,2.3597,True,False,2026-10-04
+1827,SuperCoffee,781,Morning Shot - Imunidade,2.2357,True,False,2026-10-04
+1827,SuperCoffee,617,Coenzima  Q10 - 100mg,2.3452,True,False,2026-10-04
+1827,SuperCoffee,456,SuperCoffee,2.383,True,True,2026-10-04
+1827,SuperCoffee,2,Whey Protein Concentrado,2.4243,True,False,2026-10-04
+1827,SuperCoffee,1660,Ômega 3  - 1360mg,2.6107,True,False,2026-10-04
+1853,NAC PRO,1939,Whey Protein Concentrado - Sachê,4.0785,True,False,2026-10-04
+1853,NAC PRO,1111,Suplemento Alimentar - True Nac,4.4636,True,False,2026-10-04
+1853,NAC PRO,634,Magnésio - Inositol Relief 3.0,4.5261,True,False,2026-10-04
+1853,NAC PRO,1673,Refil Whey Protein Concentrado,5.1459,True,False,2026-10-04
+1853,NAC PRO,546,Ômega 3 Pulse,5.2756,True,False,2026-10-04
+1872,Whey Protein Isolado,1874,Livestrong,1.6839,True,False,2026-10-04
+1872,Whey Protein Isolado,87,Whey hidrolisado e isolado,1.95,True,False,2026-10-04
+1872,Whey Protein Isolado,1250,NAC + Glycine + Taurine,1.9808,True,False,2026-10-04
+1872,Whey Protein Isolado,209,Colágeno Hidrolisado - Collagen Pro 18g,2.1069,True,False,2026-10-04
+1872,Whey Protein Isolado,424,Multivitaminico - Imunomult- 1000mg,2.2175,True,False,2026-10-04
+1874,Livestrong,1872,Whey Protein Isolado,1.6839,True,False,2026-10-04
+1874,Livestrong,633,Creatina Monohidratada -  Crealift (Creapure),2.4677,True,True,2026-10-04
+1874,Livestrong,87,Whey hidrolisado e isolado,2.5789,True,False,2026-10-04
+1874,Livestrong,444,Colágeno - Colagentek,2.647,True,False,2026-10-04
+1874,Livestrong,1250,NAC + Glycine + Taurine,2.8066,True,True,2026-10-04
+1886,Ferro Plus,1941,Whey 3W -  Sachê,1.5365,True,False,2026-10-04
+1886,Ferro Plus,348,Vitamina C3 - 1000mg,1.5602,True,True,2026-10-04
+1886,Ferro Plus,1775,Multivitaminino - Multi All,1.5604,True,False,2026-10-04
+1886,Ferro Plus,1942,Whey 3W -  Sachê,1.9105,True,False,2026-10-04
+1886,Ferro Plus,988,Gel Nitrato,1.9262,True,False,2026-10-04
+1897,Eletrólitos,1920,FreshWhey - Sachê,2.8861,True,False,2026-10-04
+1897,Eletrólitos,1941,Whey 3W -  Sachê,2.9501,True,False,2026-10-04
+1897,Eletrólitos,1942,Whey 3W -  Sachê,3.0466,True,False,2026-10-04
+1897,Eletrólitos,837,Tablete de Doce,3.0479,True,False,2026-10-04
+1897,Eletrólitos,756,Gel Nitrato,3.3073,True,False,2026-10-04
+1898,Eletrólitos,1966,NAC,1.5331,True,False,2026-10-04
+1898,Eletrólitos,629,Vitamina B12,2.0408,True,False,2026-10-04
+1898,Eletrólitos,39,Proteína Vegana - Immuno Veggie,2.2095,True,False,2026-10-04
+1898,Eletrólitos,1911,Whey Protein Isolado - Sachê,2.307,True,False,2026-10-04
+1898,Eletrólitos,79,Whey Protein Isolado - Isofort,2.3275,True,False,2026-10-04
+1908,Whey Protein Concentrado - Sachê,1928,Cacao Whey - Sachê,1.2524,True,False,2026-10-04
+1908,Whey Protein Concentrado - Sachê,1916,Whey Protein Isolado - Sachê,2.1261,True,True,2026-10-04
+1908,Whey Protein Concentrado - Sachê,1911,Whey Protein Isolado - Sachê,2.2712,True,True,2026-10-04
+1908,Whey Protein Concentrado - Sachê,1941,Whey 3W -  Sachê,2.4095,True,False,2026-10-04
+1908,Whey Protein Concentrado - Sachê,1886,Ferro Plus,2.4691,True,False,2026-10-04
+1910,Whey Protein Isolado - Sachê,901,Barrinha de Proteína,2.9098,True,True,2026-10-04
+1910,Whey Protein Isolado - Sachê,794,Vitamina D3 - 2000 Ui,3.2861,True,False,2026-10-04
+1910,Whey Protein Isolado - Sachê,1920,FreshWhey - Sachê,3.4038,True,True,2026-10-04
+1910,Whey Protein Isolado - Sachê,690,Vitamina B12,3.7281,True,False,2026-10-04
+1910,Whey Protein Isolado - Sachê,1242,Vitamina D3,3.883,True,False,2026-10-04
+1911,Whey Protein Isolado - Sachê,1916,Whey Protein Isolado - Sachê,0.938,True,True,2026-10-04
+1911,Whey Protein Isolado - Sachê,1928,Cacao Whey - Sachê,1.8586,True,False,2026-10-04
+1911,Whey Protein Isolado - Sachê,1936,W100 Whey Concentrado Havanna - Sachê,1.8875,True,False,2026-10-04
+1911,Whey Protein Isolado - Sachê,629,Vitamina B12,2.0771,True,False,2026-10-04
+1911,Whey Protein Isolado - Sachê,1966,NAC,2.244,True,False,2026-10-04
+1913,Whey Protein Isolado - Sachê,1920,FreshWhey - Sachê,3.3905,True,True,2026-10-04
+1913,Whey Protein Isolado - Sachê,901,Barrinha de Proteína,4.0335,True,True,2026-10-04
+1913,Whey Protein Isolado - Sachê,1910,Whey Protein Isolado - Sachê,4.0726,True,True,2026-10-04
+1913,Whey Protein Isolado - Sachê,1242,Vitamina D3,4.8397,True,False,2026-10-04
+1913,Whey Protein Isolado - Sachê,1656,Maca Peruana,5.045,True,False,2026-10-04
+1916,Whey Protein Isolado - Sachê,1911,Whey Protein Isolado - Sachê,0.938,True,True,2026-10-04
+1916,Whey Protein Isolado - Sachê,1928,Cacao Whey - Sachê,1.6327,True,False,2026-10-04
+1916,Whey Protein Isolado - Sachê,1936,W100 Whey Concentrado Havanna - Sachê,2.1008,True,False,2026-10-04
+1916,Whey Protein Isolado - Sachê,1908,Whey Protein Concentrado - Sachê,2.1261,True,True,2026-10-04
+1916,Whey Protein Isolado - Sachê,629,Vitamina B12,2.3042,True,False,2026-10-04
+1917,Whey Protein Isolado - Sachê,1942,Whey 3W -  Sachê,1.8122,True,False,2026-10-04
+1917,Whey Protein Isolado - Sachê,1941,Whey 3W -  Sachê,2.6695,True,False,2026-10-04
+1917,Whey Protein Isolado - Sachê,1886,Ferro Plus,2.6749,True,False,2026-10-04
+1917,Whey Protein Isolado - Sachê,988,Gel Nitrato,2.7292,True,False,2026-10-04
+1917,Whey Protein Isolado - Sachê,1498,Ômega 3,2.9197,True,False,2026-10-04
+1920,FreshWhey - Sachê,1936,W100 Whey Concentrado Havanna - Sachê,2.5494,True,False,2026-10-04
+1920,FreshWhey - Sachê,1897,Eletrólitos,2.8861,True,False,2026-10-04
+1920,FreshWhey - Sachê,1942,Whey 3W -  Sachê,2.9703,True,False,2026-10-04
+1920,FreshWhey - Sachê,1916,Whey Protein Isolado - Sachê,3.0852,True,True,2026-10-04
+1920,FreshWhey - Sachê,1911,Whey Protein Isolado - Sachê,3.1781,True,True,2026-10-04
+1928,Cacao Whey - Sachê,1908,Whey Protein Concentrado - Sachê,1.2524,True,False,2026-10-04
+1928,Cacao Whey - Sachê,1916,Whey Protein Isolado - Sachê,1.6327,True,False,2026-10-04
+1928,Cacao Whey - Sachê,1911,Whey Protein Isolado - Sachê,1.8586,True,False,2026-10-04
+1928,Cacao Whey - Sachê,629,Vitamina B12,2.4007,True,False,2026-10-04
+1928,Cacao Whey - Sachê,1886,Ferro Plus,2.5023,True,False,2026-10-04
+1930,Expresso Whey - Sachê,371,Probiótico - Simcaps,2.8493,True,False,2026-10-04
+1930,Expresso Whey - Sachê,753,Chocolate 70% Cacau,3.0801,True,False,2026-10-04
+1930,Expresso Whey - Sachê,1211,"Suplemento Alimentar - Cabelo, Unha e Pele - Beauty +",3.3637,True,False,2026-10-04
+1930,Expresso Whey - Sachê,1111,Suplemento Alimentar - True Nac,3.4781,True,False,2026-10-04
+1930,Expresso Whey - Sachê,794,Vitamina D3 - 2000 Ui,3.6336,True,False,2026-10-04
+1936,W100 Whey Concentrado Havanna - Sachê,1911,Whey Protein Isolado - Sachê,1.8875,True,False,2026-10-04
+1936,W100 Whey Concentrado Havanna - Sachê,1916,Whey Protein Isolado - Sachê,2.1008,True,False,2026-10-04
+1936,W100 Whey Concentrado Havanna - Sachê,1245,Zinco Quelato,2.3217,True,False,2026-10-04
+1936,W100 Whey Concentrado Havanna - Sachê,1942,Whey 3W -  Sachê,2.5458,True,False,2026-10-04
+1936,W100 Whey Concentrado Havanna - Sachê,1920,FreshWhey - Sachê,2.5494,True,False,2026-10-04
+1939,Whey Protein Concentrado - Sachê,1941,Whey 3W -  Sachê,3.7671,True,False,2026-10-04
+1939,Whey Protein Concentrado - Sachê,988,Gel Nitrato,3.8579,True,False,2026-10-04
+1939,Whey Protein Concentrado - Sachê,835,Tablete de Doce,3.888,True,False,2026-10-04
+1939,Whey Protein Concentrado - Sachê,1942,Whey 3W -  Sachê,3.9681,True,False,2026-10-04
+1939,Whey Protein Concentrado - Sachê,1886,Ferro Plus,3.9683,True,False,2026-10-04
+1941,Whey 3W -  Sachê,1942,Whey 3W -  Sachê,1.277,True,True,2026-10-04
+1941,Whey 3W -  Sachê,1886,Ferro Plus,1.5365,True,False,2026-10-04
+1941,Whey 3W -  Sachê,988,Gel Nitrato,1.6326,True,False,2026-10-04
+1941,Whey 3W -  Sachê,1908,Whey Protein Concentrado - Sachê,2.4095,True,False,2026-10-04
+1941,Whey 3W -  Sachê,348,Vitamina C3 - 1000mg,2.651,True,False,2026-10-04
+1942,Whey 3W -  Sachê,1941,Whey 3W -  Sachê,1.277,True,True,2026-10-04
+1942,Whey 3W -  Sachê,1917,Whey Protein Isolado - Sachê,1.8122,True,False,2026-10-04
+1942,Whey 3W -  Sachê,1886,Ferro Plus,1.9105,True,False,2026-10-04
+1942,Whey 3W -  Sachê,988,Gel Nitrato,2.1742,True,False,2026-10-04
+1942,Whey 3W -  Sachê,1911,Whey Protein Isolado - Sachê,2.2581,True,False,2026-10-04
+1966,NAC,1898,Eletrólitos,1.5331,True,False,2026-10-04
+1966,NAC,1911,Whey Protein Isolado - Sachê,2.244,True,False,2026-10-04
+1966,NAC,629,Vitamina B12,2.3729,True,False,2026-10-04
+1966,NAC,1498,Ômega 3,2.4388,True,False,2026-10-04
+1966,NAC,1886,Ferro Plus,2.5515,True,False,2026-10-04
+1968,Snack Proteico,1970,Snack Proteico,0.6975,True,True,2026-10-04
+1968,Snack Proteico,1969,Snack Proteico,4.9826,True,True,2026-10-04
+1968,Snack Proteico,82,Creatina 100% Pure,5.1145,True,False,2026-10-04
+1968,Snack Proteico,1499,Ômega 3,5.6204,True,False,2026-10-04
+1968,Snack Proteico,1646,Salgadinho,6.6228,True,False,2026-10-04
+1969,Snack Proteico,1673,Refil Whey Protein Concentrado,4.4266,True,False,2026-10-04
+1969,Snack Proteico,1908,Whey Protein Concentrado - Sachê,4.6704,True,False,2026-10-04
+1969,Snack Proteico,1120,Própolis Alcoólico,4.8863,True,False,2026-10-04
+1969,Snack Proteico,1970,Snack Proteico,4.9611,True,True,2026-10-04
+1969,Snack Proteico,1928,Cacao Whey - Sachê,4.9662,True,False,2026-10-04
+1970,Snack Proteico,1968,Snack Proteico,0.6975,True,True,2026-10-04
+1970,Snack Proteico,82,Creatina 100% Pure,4.8778,True,False,2026-10-04
+1970,Snack Proteico,1969,Snack Proteico,4.9611,True,True,2026-10-04
+1970,Snack Proteico,1499,Ômega 3,5.6149,True,False,2026-10-04
+1970,Snack Proteico,1646,Salgadinho,6.541,True,False,2026-10-04
+2,Whey Protein Concentrado,434,Creatina - Creafort (Creapure),1.5655,True,False,2026-10-04
+2,Whey Protein Concentrado,76,Ômega - Mega DHA,1.6517,True,False,2026-10-04
+2,Whey Protein Concentrado,938,Whey Protein Concentrado,1.7157,True,True,2026-10-04
+2,Whey Protein Concentrado,72,Ômega 3 EPA DHA,1.7361,True,False,2026-10-04
+2,Whey Protein Concentrado,209,Colágeno Hidrolisado - Collagen Pro 18g,1.869,True,False,2026-10-04
+206,Colágeno - Collagen Renew Hidrolisado,1107,Melatonina Duo Harmony,1.6054,True,False,2026-10-04
+206,Colágeno - Collagen Renew Hidrolisado,1141,Granola Australia - Low Carb,1.6264,True,False,2026-10-04
+206,Colágeno - Collagen Renew Hidrolisado,1108,Suplemento Alimentar - L-teanina - Happy Theanine,1.7135,True,False,2026-10-04
+206,Colágeno - Collagen Renew Hidrolisado,1326,Própolis - Green Própolis,1.9013,True,True,2026-10-04
+206,Colágeno - Collagen Renew Hidrolisado,698,Shot Matinal,2.1054,True,False,2026-10-04
+207,Colágeno - Collagen Renew Hidrolisado,406,Glutamina - Glutamax,2.5178,True,False,2026-10-04
+207,Colágeno - Collagen Renew Hidrolisado,378,Melatonina em Gotas,2.7189,True,False,2026-10-04
+207,Colágeno - Collagen Renew Hidrolisado,38,Super Ômega 3,2.8528,True,False,2026-10-04
+207,Colágeno - Collagen Renew Hidrolisado,615,Magnésio,2.8841,True,True,2026-10-04
+207,Colágeno - Collagen Renew Hidrolisado,935,Whey Protein Concentrado,2.9312,True,False,2026-10-04
+208,Colágeno Hidrolisado - Collagen Pro 18g,31,Super Ômega 3,1.5135,True,False,2026-10-04
+208,Colágeno Hidrolisado - Collagen Pro 18g,211,Colágeno Hidrolisado - Collagen Pro 18g,1.7226,True,True,2026-10-04
+208,Colágeno Hidrolisado - Collagen Pro 18g,410,Enzimas Enzyfor,1.836,True,False,2026-10-04
+208,Colágeno Hidrolisado - Collagen Pro 18g,781,Morning Shot - Imunidade,1.8676,True,False,2026-10-04
+208,Colágeno Hidrolisado - Collagen Pro 18g,1475,Suplemento de Magnésio - Blue Calm,1.9285,True,False,2026-10-04
+209,Colágeno Hidrolisado - Collagen Pro 18g,76,Ômega - Mega DHA,1.367,True,False,2026-10-04
+209,Colágeno Hidrolisado - Collagen Pro 18g,394,Ômega 3 - Omegafor Memory,1.7155,True,False,2026-10-04
+209,Colágeno Hidrolisado - Collagen Pro 18g,1250,NAC + Glycine + Taurine,1.7957,True,False,2026-10-04
+209,Colágeno Hidrolisado - Collagen Pro 18g,424,Multivitaminico - Imunomult- 1000mg,1.8123,True,False,2026-10-04
+209,Colágeno Hidrolisado - Collagen Pro 18g,2,Whey Protein Concentrado,1.869,True,False,2026-10-04
+210,Colágeno Hidrolisado - Collagen Pro 18g,1342,Fresh Whey,1.6482,True,False,2026-10-04
+210,Colágeno Hidrolisado - Collagen Pro 18g,1205,Magnésio Inositol,1.9121,True,True,2026-10-04
+210,Colágeno Hidrolisado - Collagen Pro 18g,937,Whey Protein Concentrado Cappuccino 900g DUX,1.9591,True,False,2026-10-04
+210,Colágeno Hidrolisado - Collagen Pro 18g,44,Creatina Monohidratada (Creapure),1.9637,True,True,2026-10-04
+210,Colágeno Hidrolisado - Collagen Pro 18g,480,BT Nitrato 400,2.056,True,False,2026-10-04
+211,Colágeno Hidrolisado - Collagen Pro 18g,1639,Proteína Isolada e Hidrolisada - Body Protein,1.297,True,False,2026-10-04
+211,Colágeno Hidrolisado - Collagen Pro 18g,439,Colágeno - Colagentek Protein - Bodybalance,1.3254,True,False,2026-10-04
+211,Colágeno Hidrolisado - Collagen Pro 18g,1660,Ômega 3  - 1360mg,1.689,True,True,2026-10-04
+211,Colágeno Hidrolisado - Collagen Pro 18g,3,Whey Protein Concentrado,1.7072,True,False,2026-10-04
+211,Colágeno Hidrolisado - Collagen Pro 18g,1096,Colágeno - Collagen Renew Hidrolisado,1.7148,True,True,2026-10-04
+214,Colágeno - Collagen Gut,652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,1.3944,True,False,2026-10-04
+214,Colágeno - Collagen Gut,1215,Ômega 3 - EPA DHA - 1000mg,1.6281,True,False,2026-10-04
+214,Colágeno - Collagen Gut,1484,Creatina Monohidratada,1.9136,True,False,2026-10-04
+214,Colágeno - Collagen Gut,410,Enzimas Enzyfor,1.9405,True,False,2026-10-04
+214,Colágeno - Collagen Gut,520,Proteína Isolada e Hidrolisada - Body Protein,1.9662,True,False,2026-10-04
+215,Colágeno Collagen Skin,1239,Suplemento de Magnésio - Blue Calm,1.5751,True,False,2026-10-04
+215,Colágeno Collagen Skin,1415,Fresh Whey,1.6726,True,False,2026-10-04
+215,Colágeno Collagen Skin,1220,Immuno Whey,1.858,True,True,2026-10-04
+215,Colágeno Collagen Skin,381,Aminoácido - Aminovita,1.9266,True,False,2026-10-04
+215,Colágeno Collagen Skin,365,Probióticos em Pó - Simfort,1.9918,True,False,2026-10-04
+219,Suplemento para Imunidade - Immune Up 100%,447,Colágeno - Colagentek Beauty,1.6428,True,False,2026-10-04
+219,Suplemento para Imunidade - Immune Up 100%,1408,Coenzima Q10 200mg,1.7188,True,False,2026-10-04
+219,Suplemento para Imunidade - Immune Up 100%,531,Multivitamínico - Vitalift,1.843,True,False,2026-10-04
+219,Suplemento para Imunidade - Immune Up 100%,1035,Suplemento - Hyaluronic Hair,1.8477,True,False,2026-10-04
+219,Suplemento para Imunidade - Immune Up 100%,1107,Melatonina Duo Harmony,1.9569,True,False,2026-10-04
+220,Próbiotico - Purabiotics,1045,True Cúrcuma,1.3818,True,False,2026-10-04
+220,Próbiotico - Purabiotics,139,Refil Whey 100% Pure,1.4729,True,False,2026-10-04
+220,Próbiotico - Purabiotics,679,Cálcio de Algas 1000mg,1.5406,True,False,2026-10-04
+220,Próbiotico - Purabiotics,932,Suplemento Alimentar - Alpha Mater,1.7947,True,True,2026-10-04
+220,Próbiotico - Purabiotics,783,Creatina,1.8634,True,False,2026-10-04
+3,Whey Protein Concentrado,1639,Proteína Isolada e Hidrolisada - Body Protein,1.4953,True,False,2026-10-04
+3,Whey Protein Concentrado,635,Ômega 3 - 1360mg,1.5189,True,False,2026-10-04
+3,Whey Protein Concentrado,944,Whey Protein Isolado,1.6618,True,True,2026-10-04
+3,Whey Protein Concentrado,211,Colágeno Hidrolisado - Collagen Pro 18g,1.7072,True,False,2026-10-04
+3,Whey Protein Concentrado,76,Ômega - Mega DHA,1.771,True,False,2026-10-04
+30,Super Ômega 3,1292,SuperCoffee,1.8235,True,False,2026-10-04
+30,Super Ômega 3,905,Proteína - Isocrisp Plant Pouch,2.1821,True,False,2026-10-04
+30,Super Ômega 3,455,Morning Shot - Imunidade,2.2552,True,False,2026-10-04
+30,Super Ômega 3,439,Colágeno - Colagentek Protein - Bodybalance,2.3074,True,False,2026-10-04
+30,Super Ômega 3,449,Coenzima Q10 (200mg p/ porção),2.414,True,False,2026-10-04
+31,Super Ômega 3,208,Colágeno Hidrolisado - Collagen Pro 18g,1.5135,True,False,2026-10-04
+31,Super Ômega 3,938,Whey Protein Concentrado,2.0311,True,False,2026-10-04
+31,Super Ômega 3,456,SuperCoffee,2.0557,True,False,2026-10-04
+31,Super Ômega 3,214,Colágeno - Collagen Gut,2.0954,True,True,2026-10-04
+31,Super Ômega 3,781,Morning Shot - Imunidade,2.1014,True,False,2026-10-04
+32,Super Ômega 3,168,100% Whey Pure,1.7497,True,False,2026-10-04
+32,Super Ômega 3,858,Fresh Whey,2.0554,True,False,2026-10-04
+32,Super Ômega 3,1219,Beef Protein,2.2649,True,True,2026-10-04
+32,Super Ômega 3,1247,Omegafor Family - Ômega 3,3.0527,True,False,2026-10-04
+32,Super Ômega 3,1415,Fresh Whey,3.0603,True,False,2026-10-04
+33,Whey,858,Fresh Whey,1.9805,True,False,2026-10-04
+33,Whey,926,Ômega 3 Super DHA BIG,2.1792,True,False,2026-10-04
+33,Whey,945,Whey Isolado - Iso Triple Zero,2.3726,True,False,2026-10-04
+33,Whey,4,Whey Protein Isolado,2.4823,True,False,2026-10-04
+33,Whey,40,Whey,2.606,True,True,2026-10-04
+330,Termogênico - Lipix6,652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,1.5652,True,False,2026-10-04
+330,Termogênico - Lipix6,455,Morning Shot - Imunidade,1.6567,True,False,2026-10-04
+330,Termogênico - Lipix6,902,Termogênico - Termo Plus,1.6806,True,True,2026-10-04
+330,Termogênico - Lipix6,459,SuperCoffee,1.7211,True,False,2026-10-04
+330,Termogênico - Lipix6,1159,Refil Whey Concentrado Havanna - W100,1.7391,True,False,2026-10-04
+331,Aminoácidos - Aminnu EAAs,1227,Body Protein Vegano,1.6454,True,False,2026-10-04
+331,Aminoácidos - Aminnu EAAs,1201,Whey Protein - Isofort Beauty,1.8076,True,False,2026-10-04
+331,Aminoácidos - Aminnu EAAs,1105,Aminoácidos - Aminolift,1.8441,True,False,2026-10-04
+331,Aminoácidos - Aminnu EAAs,1108,Suplemento Alimentar - L-teanina - Happy Theanine,1.9976,True,False,2026-10-04
+331,Aminoácidos - Aminnu EAAs,698,Shot Matinal,2.0231,True,False,2026-10-04
+332,Whey Fort 3W,454,Whey Tech 100%,2.6788,True,False,2026-10-04
+332,Whey Fort 3W,1051,Colágeno - Collagen Essential Protein,2.69,True,False,2026-10-04
+332,Whey Fort 3W,549,Achocolatado - Chocoki,2.8003,True,False,2026-10-04
+332,Whey Fort 3W,633,Creatina Monohidratada -  Crealift (Creapure),2.8038,True,False,2026-10-04
+332,Whey Fort 3W,862,Fresh Whey,2.8337,True,False,2026-10-04
+333,Aminoácidos - Aminnu EAAs,1670,Tasty Whey 3W Gourmet,1.0775,True,False,2026-10-04
+333,Aminoácidos - Aminnu EAAs,1107,Melatonina Duo Harmony,1.7294,True,False,2026-10-04
+333,Aminoácidos - Aminnu EAAs,658,Cúrcuma - Curcumagic,1.7896,True,False,2026-10-04
+333,Aminoácidos - Aminnu EAAs,1011,Ômega Core,1.8801,True,False,2026-10-04
+333,Aminoácidos - Aminnu EAAs,1112,Whey Isolado - Isofort Ultra Imuno,2.0506,True,False,2026-10-04
+334,Whey Fort 3W,1341,Fresh Whey,1.8205,True,False,2026-10-04
+334,Whey Fort 3W,1111,Suplemento Alimentar - True Nac,2.3041,True,False,2026-10-04
+334,Whey Fort 3W,67,Whey Protein Isolado - Isofort,2.366,True,True,2026-10-04
+334,Whey Fort 3W,1708,Refil Whey Protein - 3W,2.5214,True,False,2026-10-04
+334,Whey Fort 3W,448,Coenzima Q10 (200mg p/ porção),2.7559,True,True,2026-10-04
+336,Bom Ciclo,994,NAC Acetilcisteína -  600mg,1.6052,True,False,2026-10-04
+336,Bom Ciclo,680,Cranberry - She She Comfort,2.4818,True,False,2026-10-04
+336,Bom Ciclo,1120,Própolis Alcoólico,2.5792,True,False,2026-10-04
+336,Bom Ciclo,1044,Própolis Trio,2.675,True,False,2026-10-04
+336,Bom Ciclo,957,Laranja Moro,2.6903,True,False,2026-10-04
+337,#Whey Fort 3W,1109,Glutamina,1.6501,True,False,2026-10-04
+337,#Whey Fort 3W,950,Fresh Whey,1.7738,True,False,2026-10-04
+337,#Whey Fort 3W,139,Refil Whey 100% Pure,1.8767,True,False,2026-10-04
+337,#Whey Fort 3W,220,Próbiotico - Purabiotics,1.88,True,False,2026-10-04
+337,#Whey Fort 3W,1124,Proteína Isolada e Hidrolisada - Body Protein,1.8937,True,False,2026-10-04
+34,Whey,35,Whey,2.2028,True,True,2026-10-04
+34,Whey,215,Colágeno Collagen Skin,2.2419,True,True,2026-10-04
+34,Whey,1001,Whey 3W,2.3841,True,False,2026-10-04
+34,Whey,1415,Fresh Whey,2.4673,True,False,2026-10-04
+34,Whey,169,100% Whey Pure,2.5753,True,False,2026-10-04
+341,Whey Fort 3W,342,Whey Fort 3W,1.3476,True,True,2026-10-04
+341,Whey Fort 3W,520,Proteína Isolada e Hidrolisada - Body Protein,1.4701,True,False,2026-10-04
+341,Whey Fort 3W,368,Probiótico - Simcaps,1.6997,True,True,2026-10-04
+341,Whey Fort 3W,652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,1.7647,True,False,2026-10-04
+341,Whey Fort 3W,1452,Colágeno - Colagentek Protein - Bodybalance,1.8114,True,True,2026-10-04
+342,Whey Fort 3W,1100,Colágeno - Collagen Bones,1.3127,True,False,2026-10-04
+342,Whey Fort 3W,341,Whey Fort 3W,1.3476,True,True,2026-10-04
+342,Whey Fort 3W,1451,Colágeno - Colagentek Protein - Bodybalance,1.6101,True,True,2026-10-04
+342,Whey Fort 3W,1333,Whey Protein Isolado - Tasty Iso,1.8692,True,False,2026-10-04
+342,Whey Fort 3W,1248,Pré-Treino - Beta Action,2.125,True,False,2026-10-04
+348,Vitamina C3 - 1000mg,1886,Ferro Plus,1.5602,True,True,2026-10-04
+348,Vitamina C3 - 1000mg,1775,Multivitaminino - Multi All,1.7886,True,False,2026-10-04
+348,Vitamina C3 - 1000mg,1250,NAC + Glycine + Taurine,1.8071,True,False,2026-10-04
+348,Vitamina C3 - 1000mg,58,Ômega 3 Super DHA,2.0046,True,False,2026-10-04
+348,Vitamina C3 - 1000mg,620,Magnésio Quelato - Bio Mag,2.2403,True,False,2026-10-04
+35,Whey,1248,Pré-Treino - Beta Action,2.1827,True,True,2026-10-04
+35,Whey,115,Gold Whey Concentrado Refil,2.1833,True,False,2026-10-04
+35,Whey,34,Whey,2.2028,True,True,2026-10-04
+35,Whey,386,L-Carnitina 530mg,2.217,True,False,2026-10-04
+35,Whey,945,Whey Isolado - Iso Triple Zero,2.2986,True,False,2026-10-04
+352,Pré-Treino - V Fort Ultra,926,Ômega 3 Super DHA BIG,2.2362,True,False,2026-10-04
+352,Pré-Treino - V Fort Ultra,1415,Fresh Whey,2.273,True,False,2026-10-04
+352,Pré-Treino - V Fort Ultra,995,Colágeno Tipo II,2.3361,True,False,2026-10-04
+352,Pré-Treino - V Fort Ultra,365,Probióticos em Pó - Simfort,2.4073,True,True,2026-10-04
+352,Pré-Treino - V Fort Ultra,1247,Omegafor Family - Ômega 3,2.4732,True,True,2026-10-04
+356,Suplemento Alimentar - GUARDIAN®,1158,Refil Whey Concentrado - W100,1.6283,True,False,2026-10-04
+356,Suplemento Alimentar - GUARDIAN®,944,Whey Protein Isolado,1.9085,True,False,2026-10-04
+356,Suplemento Alimentar - GUARDIAN®,60,Creatina Premium - Creapure,2.0191,True,False,2026-10-04
+356,Suplemento Alimentar - GUARDIAN®,943,Whey Protein Isolado,2.1667,True,False,2026-10-04
+356,Suplemento Alimentar - GUARDIAN®,1108,Suplemento Alimentar - L-teanina - Happy Theanine,2.2157,True,False,2026-10-04
+357,Suplemento Alimentar - GUARDIAN®,634,Magnésio - Inositol Relief 3.0,1.6869,True,False,2026-10-04
+357,Suplemento Alimentar - GUARDIAN®,1384,SuperCoffee Língua de gato - Kopenhagen,2.0269,True,False,2026-10-04
+357,Suplemento Alimentar - GUARDIAN®,1687,Creatina Monohidratada (Creapure),2.1532,True,False,2026-10-04
+357,Suplemento Alimentar - GUARDIAN®,333,Aminoácidos - Aminnu EAAs,2.4878,True,True,2026-10-04
+357,Suplemento Alimentar - GUARDIAN®,1781,Colágeno - Colagentek II,2.7239,True,False,2026-10-04
+358,Suplemento Alimentar - GUARDIAN®,983,BT Nitrato,2.2926,True,False,2026-10-04
+358,Suplemento Alimentar - GUARDIAN®,1289,Refil Whey Concentrado - W100,2.4779,True,False,2026-10-04
+358,Suplemento Alimentar - GUARDIAN®,139,Refil Whey 100% Pure,2.5063,True,False,2026-10-04
+358,Suplemento Alimentar - GUARDIAN®,1124,Proteína Isolada e Hidrolisada - Body Protein,2.5153,True,False,2026-10-04
+358,Suplemento Alimentar - GUARDIAN®,145,100% Whey Protein - Flavour,2.5282,True,False,2026-10-04
+360,Probiótico - Simfort Plus,1205,Magnésio Inositol,1.9378,True,False,2026-10-04
+360,Probiótico - Simfort Plus,1069,Bio Ferro,1.9422,True,False,2026-10-04
+360,Probiótico - Simfort Plus,44,Creatina Monohidratada (Creapure),1.97,True,False,2026-10-04
+360,Probiótico - Simfort Plus,937,Whey Protein Concentrado Cappuccino 900g DUX,2.0573,True,False,2026-10-04
+360,Probiótico - Simfort Plus,363,"Vitaminas A, E, D e K2- RESTAURE® - Gotas",2.0782,True,False,2026-10-04
+361,Probióticos em Pó - Simfort,651,Colágeno - Collagen Protein Hidrolisado,1.7056,True,False,2026-10-04
+361,Probióticos em Pó - Simfort,1326,Própolis - Green Própolis,1.7445,True,False,2026-10-04
+361,Probióticos em Pó - Simfort,905,Proteína - Isocrisp Plant Pouch,1.9367,True,True,2026-10-04
+361,Probióticos em Pó - Simfort,902,Termogênico - Termo Plus,1.9476,True,True,2026-10-04
+361,Probióticos em Pó - Simfort,1108,Suplemento Alimentar - L-teanina - Happy Theanine,1.9801,True,False,2026-10-04
+363,"Vitaminas A, E, D e K2- RESTAURE® - Gotas",44,Creatina Monohidratada (Creapure),1.3244,True,False,2026-10-04
+363,"Vitaminas A, E, D e K2- RESTAURE® - Gotas",1205,Magnésio Inositol,1.6111,True,False,2026-10-04
+363,"Vitaminas A, E, D e K2- RESTAURE® - Gotas",396,"Boraprim - Borragem, Prímula e Gergelim",1.758,True,False,2026-10-04
+363,"Vitaminas A, E, D e K2- RESTAURE® - Gotas",360,Probiótico - Simfort Plus,2.0782,True,False,2026-10-04
+363,"Vitaminas A, E, D e K2- RESTAURE® - Gotas",1200,Whey Protein - Isofort Beauty,2.0782,True,False,2026-10-04
+365,Probióticos em Pó - Simfort,663,Vitamina C - Bio Vit C+,1.4039,True,False,2026-10-04
+365,Probióticos em Pó - Simfort,393,Colágeno - Colagentek,1.5321,True,True,2026-10-04
+365,Probióticos em Pó - Simfort,1415,Fresh Whey,1.5943,True,False,2026-10-04
+365,Probióticos em Pó - Simfort,1485,Refil Whey Concentrado - W100,1.6214,True,False,2026-10-04
+365,Probióticos em Pó - Simfort,379,Aminoácido - Aminovita,1.7472,True,True,2026-10-04
+366,Coenzima Q10 - 100mg,1572,Termogênico - Termo Plus,2.7188,True,False,2026-10-04
+366,Coenzima Q10 - 100mg,1129,Coenzima Q10,2.9054,True,False,2026-10-04
+366,Coenzima Q10 - 100mg,994,NAC Acetilcisteína -  600mg,3.3563,True,False,2026-10-04
+366,Coenzima Q10 - 100mg,1725,Whey Protein Isolado,3.7071,True,False,2026-10-04
+366,Coenzima Q10 - 100mg,336,Bom Ciclo,3.7651,True,True,2026-10-04
+368,Probiótico - Simcaps,451,Coenzima Q10 - (100mg p/ porção),1.2098,True,True,2026-10-04
+368,Probiótico - Simcaps,374,Palatinose,1.3347,True,True,2026-10-04
+368,Probiótico - Simcaps,393,Colágeno - Colagentek,1.4872,True,True,2026-10-04
+368,Probiótico - Simcaps,697,Ferro Quelato + Vitamina C,1.5115,True,False,2026-10-04
+368,Probiótico - Simcaps,707,Vitamina B12,1.5707,True,False,2026-10-04
+369,Coenzima Q10 - 200mg,1205,Magnésio Inositol,1.9894,True,False,2026-10-04
+369,Coenzima Q10 - 200mg,363,"Vitaminas A, E, D e K2- RESTAURE® - Gotas",2.3117,True,True,2026-10-04
+369,Coenzima Q10 - 200mg,424,Multivitaminico - Imunomult- 1000mg,2.5598,True,False,2026-10-04
+369,Coenzima Q10 - 200mg,44,Creatina Monohidratada (Creapure),2.5773,True,False,2026-10-04
+369,Coenzima Q10 - 200mg,1708,Refil Whey Protein - 3W,2.5964,True,False,2026-10-04
+37,Whey Isolado e Hidrolisado - H.I Whey,559,Pré-Treino - V Fort Ultra,1.4316,True,False,2026-10-04
+37,Whey Isolado e Hidrolisado - H.I Whey,379,Aminoácido - Aminovita,1.5585,True,False,2026-10-04
+37,Whey Isolado e Hidrolisado - H.I Whey,1026,Colágeno - Collagen Pro - Body Suport,1.6331,True,False,2026-10-04
+37,Whey Isolado e Hidrolisado - H.I Whey,633,Creatina Monohidratada -  Crealift (Creapure),1.8284,True,True,2026-10-04
+37,Whey Isolado e Hidrolisado - H.I Whey,1274,Suplemento Alimentar - Alpha Inflaminus,2.0341,True,False,2026-10-04
+371,Probiótico - Simcaps,807,Biotina Plus,2.4376,True,False,2026-10-04
+371,Probiótico - Simcaps,1211,"Suplemento Alimentar - Cabelo, Unha e Pele - Beauty +",2.5086,True,False,2026-10-04
+371,Probiótico - Simcaps,445,Colágeno - Colagentek,2.5722,True,True,2026-10-04
+371,Probiótico - Simcaps,1111,Suplemento Alimentar - True Nac,2.7047,True,False,2026-10-04
+371,Probiótico - Simcaps,800,Sleep,2.8095,True,False,2026-10-04
+373,Resveratrol Plus - 165mg,424,Multivitaminico - Imunomult- 1000mg,1.5243,True,True,2026-10-04
+373,Resveratrol Plus - 165mg,394,Ômega 3 - Omegafor Memory,1.661,True,True,2026-10-04
+373,Resveratrol Plus - 165mg,941,Whey Protein Isolado,1.7396,True,False,2026-10-04
+373,Resveratrol Plus - 165mg,69,Omegafor Plus,1.8021,True,True,2026-10-04
+373,Resveratrol Plus - 165mg,908,Vitamina D3 + K2,1.9195,True,True,2026-10-04
+374,Palatinose,801,Psyllium,1.3055,True,False,2026-10-04
+374,Palatinose,698,Shot Matinal,1.3065,True,False,2026-10-04
+374,Palatinose,368,Probiótico - Simcaps,1.3347,True,True,2026-10-04
+374,Palatinose,455,Morning Shot - Imunidade,1.3549,True,False,2026-10-04
+374,Palatinose,1228,Creatina Monohidratada,1.5638,True,False,2026-10-04
+375,Omegafor Plus,390,Colágeno - Colagentek Protein - Bodybalance,1.9335,True,True,2026-10-04
+375,Omegafor Plus,465,SuperCoffee,2.3724,True,False,2026-10-04
+375,Omegafor Plus,6,Whey Protein Isolado,2.3945,True,False,2026-10-04
+375,Omegafor Plus,704,Psyllium,2.4468,True,False,2026-10-04
+375,Omegafor Plus,69,Omegafor Plus,2.5053,True,True,2026-10-04
+376,Ômega 3 EPA DHA,860,Fresh Whey,2.2437,True,False,2026-10-04
+376,Ômega 3 EPA DHA,166,Whey Fort 3W,2.3292,True,True,2026-10-04
+376,Ômega 3 EPA DHA,74,Whey Protein Isolado - Isofort,2.4185,True,True,2026-10-04
+376,Ômega 3 EPA DHA,1332,Whey Protein Isolado - Tasty Iso,2.6151,True,False,2026-10-04
+376,Ômega 3 EPA DHA,1456,Aminoácidos - Aminnu EAAs - Sem Xilitol,2.6929,True,False,2026-10-04
+377,Aminoácido N-acetil L-cisteína (NAC),1331,Vitamina D3 + K2,2.2311,True,False,2026-10-04
+377,Aminoácido N-acetil L-cisteína (NAC),442,Colágeno - Colagentek,2.6721,True,True,2026-10-04
+377,Aminoácido N-acetil L-cisteína (NAC),400,Vitamina D - Vita D3 + C + Zinco,2.8895,True,True,2026-10-04
+377,Aminoácido N-acetil L-cisteína (NAC),419,"Boraprim - Borragem, Prímula e Gergelim",2.9208,True,True,2026-10-04
+377,Aminoácido N-acetil L-cisteína (NAC),1010,Ômega Golden,3.2211,True,False,2026-10-04
+378,Melatonina em Gotas,615,Magnésio,1.9505,True,False,2026-10-04
+378,Melatonina em Gotas,38,Super Ômega 3,2.2202,True,False,2026-10-04
+378,Melatonina em Gotas,662,Própolis Verde - Premium 10mg,2.3317,True,False,2026-10-04
+378,Melatonina em Gotas,207,Colágeno - Collagen Renew Hidrolisado,2.7189,True,False,2026-10-04
+378,Melatonina em Gotas,1116,Fresh Vegan,2.7225,True,False,2026-10-04
+379,Aminoácido - Aminovita,37,Whey Isolado e Hidrolisado - H.I Whey,1.5585,True,False,2026-10-04
+379,Aminoácido - Aminovita,693,Vitamina C + Zinco - Gomas,1.6851,True,False,2026-10-04
+379,Aminoácido - Aminovita,559,Pré-Treino - V Fort Ultra,1.7464,True,True,2026-10-04
+379,Aminoácido - Aminovita,365,Probióticos em Pó - Simfort,1.7472,True,True,2026-10-04
+379,Aminoácido - Aminovita,1137,Melatonina - Ydrosolv,1.8985,True,False,2026-10-04
+38,Super Ômega 3,615,Magnésio,1.9617,True,False,2026-10-04
+38,Super Ômega 3,1116,Fresh Vegan,2.0745,True,False,2026-10-04
+38,Super Ômega 3,378,Melatonina em Gotas,2.2202,True,False,2026-10-04
+38,Super Ômega 3,662,Própolis Verde - Premium 10mg,2.2568,True,False,2026-10-04
+38,Super Ômega 3,948,Tasty Whey 3W Gourmet,2.5339,True,False,2026-10-04
+381,Aminoácido - Aminovita,917,Bio Cálcio  60 caps PURAVIDA,1.6995,True,False,2026-10-04
+381,Aminoácido - Aminovita,1239,Suplemento de Magnésio - Blue Calm,1.7169,True,False,2026-10-04
+381,Aminoácido - Aminovita,926,Ômega 3 Super DHA BIG,1.7607,True,False,2026-10-04
+381,Aminoácido - Aminovita,365,Probióticos em Pó - Simfort,1.775,True,True,2026-10-04
+381,Aminoácido - Aminovita,1026,Colágeno - Collagen Pro - Body Suport,1.8036,True,False,2026-10-04
+382,Magnésio Plus - 350mg,692,Magnésio Plus 900mg,2.7162,True,False,2026-10-04
+382,Magnésio Plus - 350mg,1215,Ômega 3 - EPA DHA - 1000mg,3.3136,True,False,2026-10-04
+382,Magnésio Plus - 350mg,214,Colágeno - Collagen Gut,3.6744,True,False,2026-10-04
+382,Magnésio Plus - 350mg,410,Enzimas Enzyfor,3.6956,True,True,2026-10-04
+382,Magnésio Plus - 350mg,1329,Colágeno Tipo II - Artro Aid,3.7644,True,False,2026-10-04
+385,Arginofor -  L-Arginina,1110,Pré-treino - Energyzer & focus,1.9009,True,False,2026-10-04
+385,Arginofor -  L-Arginina,1107,Melatonina Duo Harmony,2.0246,True,False,2026-10-04
+385,Arginofor -  L-Arginina,1095,Colágeno - Collagen Renew Hidrolisado,2.041,True,False,2026-10-04
+385,Arginofor -  L-Arginina,333,Aminoácidos - Aminnu EAAs,2.1115,True,False,2026-10-04
+385,Arginofor -  L-Arginina,1093,Colágeno - Collagen Renew Hidrolisado,2.1884,True,False,2026-10-04
+386,L-Carnitina 530mg,1045,True Cúrcuma,1.6004,True,False,2026-10-04
+386,L-Carnitina 530mg,70,Omegafor Vision,1.602,True,True,2026-10-04
+386,L-Carnitina 530mg,115,Gold Whey Concentrado Refil,1.6471,True,False,2026-10-04
+386,L-Carnitina 530mg,1498,Ômega 3,1.7981,True,False,2026-10-04
+386,L-Carnitina 530mg,783,Creatina,1.8734,True,False,2026-10-04
+388,Colágeno - Colagentek II,698,Shot Matinal,1.8261,True,False,2026-10-04
+388,Colágeno - Colagentek II,651,Colágeno - Collagen Protein Hidrolisado,1.8726,True,False,2026-10-04
+388,Colágeno - Colagentek II,396,"Boraprim - Borragem, Prímula e Gergelim",1.9245,True,True,2026-10-04
+388,Colágeno - Colagentek II,390,Colágeno - Colagentek Protein - Bodybalance,1.9259,True,True,2026-10-04
+388,Colágeno - Colagentek II,1201,Whey Protein - Isofort Beauty,2.0038,True,True,2026-10-04
+39,Proteína Vegana - Immuno Veggie,1498,Ômega 3,2.0643,True,False,2026-10-04
+39,Proteína Vegana - Immuno Veggie,79,Whey Protein Isolado - Isofort,2.1394,True,False,2026-10-04
+39,Proteína Vegana - Immuno Veggie,1451,Colágeno - Colagentek Protein - Bodybalance,2.1682,True,False,2026-10-04
+39,Proteína Vegana - Immuno Veggie,481,BT Nitrato 400,2.1954,True,False,2026-10-04
+39,Proteína Vegana - Immuno Veggie,1898,Eletrólitos,2.2095,True,False,2026-10-04
+390,Colágeno - Colagentek Protein - Bodybalance,1252,Super Ômega 3,1.6425,True,False,2026-10-04
+390,Colágeno - Colagentek Protein - Bodybalance,942,Whey Protein Isolado,1.6467,True,False,2026-10-04
+390,Colágeno - Colagentek Protein - Bodybalance,368,Probiótico - Simcaps,1.6645,True,True,2026-10-04
+390,Colágeno - Colagentek Protein - Bodybalance,1105,Aminoácidos - Aminolift,1.7122,True,False,2026-10-04
+390,Colágeno - Colagentek Protein - Bodybalance,520,Proteína Isolada e Hidrolisada - Body Protein,1.7727,True,False,2026-10-04
+391,Beta Alanina,689,Pré-Treino,1.941,True,False,2026-10-04
+391,Beta Alanina,1330,Vitamina B12,2.0543,True,False,2026-10-04
+391,Beta Alanina,427,Isofort Plant (Life Vegan),2.1037,True,True,2026-10-04
+391,Beta Alanina,134,Creatina Monohidratada - Hardcore,2.2567,True,False,2026-10-04
+391,Beta Alanina,662,Própolis Verde - Premium 10mg,2.2813,True,False,2026-10-04
+393,Colágeno - Colagentek,368,Probiótico - Simcaps,1.4872,True,True,2026-10-04
+393,Colágeno - Colagentek,365,Probióticos em Pó - Simfort,1.5321,True,True,2026-10-04
+393,Colágeno - Colagentek,712,Suplemento Alimentar - Green Shot,1.6561,True,False,2026-10-04
+393,Colágeno - Colagentek,689,Pré-Treino,1.6972,True,False,2026-10-04
+393,Colágeno - Colagentek,707,Vitamina B12,1.7283,True,False,2026-10-04
+394,Ômega 3 - Omegafor Memory,424,Multivitaminico - Imunomult- 1000mg,1.4482,True,True,2026-10-04
+394,Ômega 3 - Omegafor Memory,373,Resveratrol Plus - 165mg,1.661,True,True,2026-10-04
+394,Ômega 3 - Omegafor Memory,76,Ômega - Mega DHA,1.7048,True,True,2026-10-04
+394,Ômega 3 - Omegafor Memory,209,Colágeno Hidrolisado - Collagen Pro 18g,1.7155,True,False,2026-10-04
+394,Ômega 3 - Omegafor Memory,657,Colágeno - Collagen Tipo II 40mg,1.775,True,False,2026-10-04
+395,Vitamina D - Vita D3,558,Palatinose,0.99,True,False,2026-10-04
+395,Vitamina D - Vita D3,134,Creatina Monohidratada - Hardcore,1.3891,True,False,2026-10-04
+395,Vitamina D - Vita D3,474,Glutamina,1.5531,True,False,2026-10-04
+395,Vitamina D - Vita D3,704,Psyllium,1.7973,True,False,2026-10-04
+395,Vitamina D - Vita D3,663,Vitamina C - Bio Vit C+,1.8906,True,False,2026-10-04
+396,"Boraprim - Borragem, Prímula e Gergelim",711,Trio Magnésio 720mg,1.5366,True,False,2026-10-04
+396,"Boraprim - Borragem, Prímula e Gergelim",638,Beta Alanina 100%,1.7029,True,False,2026-10-04
+396,"Boraprim - Borragem, Prímula e Gergelim",363,"Vitaminas A, E, D e K2- RESTAURE® - Gotas",1.758,True,False,2026-10-04
+396,"Boraprim - Borragem, Prímula e Gergelim",421,Glutamina - Glutamax,1.896,True,True,2026-10-04
+396,"Boraprim - Borragem, Prímula e Gergelim",388,Colágeno - Colagentek II,1.9245,True,True,2026-10-04
+397,Vitamina D - Vita D3,69,Omegafor Plus,1.6633,True,True,2026-10-04
+397,Vitamina D - Vita D3,685,Creatina Monohidratada,1.7174,True,False,2026-10-04
+397,Vitamina D - Vita D3,704,Psyllium,1.7868,True,False,2026-10-04
+397,Vitamina D - Vita D3,908,Vitamina D3 + K2,1.8062,True,True,2026-10-04
+397,Vitamina D - Vita D3,697,Ferro Quelato + Vitamina C,1.8222,True,False,2026-10-04
+399,Vitamina D - Vita D3 + C + Zinco,451,Coenzima Q10 - (100mg p/ porção),1.7581,True,True,2026-10-04
+399,Vitamina D - Vita D3 + C + Zinco,995,Colágeno Tipo II,1.8531,True,False,2026-10-04
+399,Vitamina D - Vita D3 + C + Zinco,407,Beta Alanina,1.9186,True,True,2026-10-04
+399,Vitamina D - Vita D3 + C + Zinco,589,Whey Tech 100%,1.9286,True,False,2026-10-04
+399,Vitamina D - Vita D3 + C + Zinco,71,Creatina Monohidratada - Creatine,1.9324,True,True,2026-10-04
+4,Whey Protein Isolado,40,Whey,1.8256,True,False,2026-10-04
+4,Whey Protein Isolado,926,Ômega 3 Super DHA BIG,2.0532,True,False,2026-10-04
+4,Whey Protein Isolado,1415,Fresh Whey,2.3011,True,True,2026-10-04
+4,Whey Protein Isolado,1485,Refil Whey Concentrado - W100,2.3337,True,False,2026-10-04
+4,Whey Protein Isolado,169,100% Whey Pure,2.3648,True,False,2026-10-04
+40,Whey,4,Whey Protein Isolado,1.8256,True,False,2026-10-04
+40,Whey,365,Probióticos em Pó - Simfort,1.854,True,False,2026-10-04
+40,Whey,1485,Refil Whey Concentrado - W100,1.9311,True,False,2026-10-04
+40,Whey,926,Ômega 3 Super DHA BIG,1.9783,True,False,2026-10-04
+40,Whey,381,Aminoácido - Aminovita,2.0573,True,False,2026-10-04
+400,Vitamina D - Vita D3 + C + Zinco,694,Complexo B 500mg,1.8329,True,False,2026-10-04
+400,Vitamina D - Vita D3 + C + Zinco,419,"Boraprim - Borragem, Prímula e Gergelim",1.8686,True,True,2026-10-04
+400,Vitamina D - Vita D3 + C + Zinco,1045,True Cúrcuma,2.1596,True,False,2026-10-04
+400,Vitamina D - Vita D3 + C + Zinco,330,Termogênico - Lipix6,2.1644,True,True,2026-10-04
+400,Vitamina D - Vita D3 + C + Zinco,932,Suplemento Alimentar - Alpha Mater,2.165,True,False,2026-10-04
+401,Simfort fibras,907,Vitamina B12,1.257,True,True,2026-10-04
+401,Simfort fibras,412,Própolis Líquido - Gotas,1.2995,True,True,2026-10-04
+401,Simfort fibras,704,Psyllium,1.3986,True,False,2026-10-04
+401,Simfort fibras,697,Ferro Quelato + Vitamina C,1.4907,True,False,2026-10-04
+401,Simfort fibras,407,Beta Alanina,1.6422,True,True,2026-10-04
+402,Probiótico - Simfort Plus,68,Omegafor Plus,1.1513,True,True,2026-10-04
+402,Probiótico - Simfort Plus,939,Whey Protein Concentrado,1.3256,True,False,2026-10-04
+402,Probiótico - Simfort Plus,936,Whey Protein Concentrado,1.5905,True,False,2026-10-04
+402,Probiótico - Simfort Plus,1212,Ômega 3 - Ultra Caps 1000mg,1.6385,True,False,2026-10-04
+402,Probiótico - Simfort Plus,434,Creatina - Creafort (Creapure),1.8116,True,True,2026-10-04
+404,Isofort Plant (Life Vegan),647,Glutamina em Pó,1.4496,True,False,2026-10-04
+404,Isofort Plant (Life Vegan),447,Colágeno - Colagentek Beauty,1.5395,True,True,2026-10-04
+404,Isofort Plant (Life Vegan),440,Colágeno - Colagentek,1.7346,True,True,2026-10-04
+404,Isofort Plant (Life Vegan),1239,Suplemento de Magnésio - Blue Calm,1.7616,True,False,2026-10-04
+404,Isofort Plant (Life Vegan),1227,Body Protein Vegano,1.8355,True,False,2026-10-04
+405,L-Taurina - 1.000mg,783,Creatina,1.736,True,False,2026-10-04
+405,L-Taurina - 1.000mg,337,#Whey Fort 3W,1.9104,True,True,2026-10-04
+405,L-Taurina - 1.000mg,70,Omegafor Vision,1.9179,True,True,2026-10-04
+405,L-Taurina - 1.000mg,1067,Melatonina,2.0134,True,False,2026-10-04
+405,L-Taurina - 1.000mg,1239,Suplemento de Magnésio - Blue Calm,2.07,True,False,2026-10-04
+406,Glutamina - Glutamax,811,Cromo Picolinato - 250mg,1.9598,True,False,2026-10-04
+406,Glutamina - Glutamax,422,Glutamina - Glutamax Refil,2.0987,True,True,2026-10-04
+406,Glutamina - Glutamax,1328,Fibras Prébioticas - Prebiotic,2.1646,True,False,2026-10-04
+406,Glutamina - Glutamax,1056,Suplemento Alimentar - Pura Fiber,2.2268,True,False,2026-10-04
+406,Glutamina - Glutamax,1093,Colágeno - Collagen Renew Hidrolisado,2.2767,True,False,2026-10-04
+407,Beta Alanina,697,Ferro Quelato + Vitamina C,1.188,True,False,2026-10-04
+407,Beta Alanina,657,Colágeno - Collagen Tipo II 40mg,1.189,True,False,2026-10-04
+407,Beta Alanina,433,Cúrcuma Plus,1.2941,True,True,2026-10-04
+407,Beta Alanina,451,Coenzima Q10 - (100mg p/ porção),1.3141,True,True,2026-10-04
+407,Beta Alanina,704,Psyllium,1.3445,True,False,2026-10-04
+409,Melatonina - Sleepfor,617,Coenzima  Q10 - 100mg,1.7956,True,False,2026-10-04
+409,Melatonina - Sleepfor,657,Colágeno - Collagen Tipo II 40mg,1.8706,True,False,2026-10-04
+409,Melatonina - Sleepfor,434,Creatina - Creafort (Creapure),2.1635,True,True,2026-10-04
+409,Melatonina - Sleepfor,402,Probiótico - Simfort Plus,2.2077,True,True,2026-10-04
+409,Melatonina - Sleepfor,1093,Colágeno - Collagen Renew Hidrolisado,2.2154,True,False,2026-10-04
+41,Whey,1063,Nitro 400,2.3562,True,False,2026-10-04
+41,Whey,73,Whey Protein Isolado - Isofort,2.6434,True,False,2026-10-04
+41,Whey,1128,Sleep,2.9313,True,False,2026-10-04
+41,Whey,652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,2.9721,True,False,2026-10-04
+41,Whey,692,Magnésio Plus 900mg,3.0173,True,False,2026-10-04
+410,Enzimas Enzyfor,1237,Vitamina B9 - Ácido Fólico,1.6067,True,False,2026-10-04
+410,Enzimas Enzyfor,1475,Suplemento de Magnésio - Blue Calm,1.6457,True,False,2026-10-04
+410,Enzimas Enzyfor,208,Colágeno Hidrolisado - Collagen Pro 18g,1.836,True,False,2026-10-04
+410,Enzimas Enzyfor,1560,Pré-Treino,1.93,True,False,2026-10-04
+410,Enzimas Enzyfor,214,Colágeno - Collagen Gut,1.9405,True,False,2026-10-04
+412,Própolis Líquido - Gotas,907,Vitamina B12,1.2529,True,True,2026-10-04
+412,Própolis Líquido - Gotas,401,Simfort fibras,1.2995,True,True,2026-10-04
+412,Própolis Líquido - Gotas,917,Bio Cálcio  60 caps PURAVIDA,1.3956,True,False,2026-10-04
+412,Própolis Líquido - Gotas,697,Ferro Quelato + Vitamina C,1.8316,True,False,2026-10-04
+412,Própolis Líquido - Gotas,75,Ômega -  Mega DHA,1.8787,True,True,2026-10-04
+416,Cúrcuma Plus,1204,Vitamina D3,2.0809,True,False,2026-10-04
+416,Cúrcuma Plus,1328,Fibras Prébioticas - Prebiotic,2.1604,True,False,2026-10-04
+416,Cúrcuma Plus,811,Cromo Picolinato - 250mg,2.4797,True,False,2026-10-04
+416,Cúrcuma Plus,614,Vitamina B12,2.4881,True,False,2026-10-04
+416,Cúrcuma Plus,406,Glutamina - Glutamax,2.6758,True,True,2026-10-04
+419,"Boraprim - Borragem, Prímula e Gergelim",400,Vitamina D - Vita D3 + C + Zinco,1.8686,True,True,2026-10-04
+419,"Boraprim - Borragem, Prímula e Gergelim",330,Termogênico - Lipix6,2.0656,True,True,2026-10-04
+419,"Boraprim - Borragem, Prímula e Gergelim",459,SuperCoffee,2.3001,True,False,2026-10-04
+419,"Boraprim - Borragem, Prímula e Gergelim",442,Colágeno - Colagentek,2.3518,True,True,2026-10-04
+419,"Boraprim - Borragem, Prímula e Gergelim",1450,Omegafor Family - Ômega 3,2.4146,True,True,2026-10-04
+421,Glutamina - Glutamax,396,"Boraprim - Borragem, Prímula e Gergelim",1.896,True,True,2026-10-04
+421,Glutamina - Glutamax,373,Resveratrol Plus - 165mg,2.088,True,True,2026-10-04
+421,Glutamina - Glutamax,681,Coenzima Q10,2.114,True,False,2026-10-04
+421,Glutamina - Glutamax,944,Whey Protein Isolado,2.1191,True,False,2026-10-04
+421,Glutamina - Glutamax,402,Probiótico - Simfort Plus,2.1507,True,True,2026-10-04
+422,Glutamina - Glutamax Refil,1093,Colágeno - Collagen Renew Hidrolisado,1.7193,True,False,2026-10-04
+422,Glutamina - Glutamax Refil,861,Fresh Whey,1.952,True,False,2026-10-04
+422,Glutamina - Glutamax Refil,1110,Pré-treino - Energyzer & focus,2.0852,True,False,2026-10-04
+422,Glutamina - Glutamax Refil,781,Morning Shot - Imunidade,2.0902,True,False,2026-10-04
+422,Glutamina - Glutamax Refil,406,Glutamina - Glutamax,2.0987,True,True,2026-10-04
+423,Suplemento Alimentar  - Hepatofor,926,Ômega 3 Super DHA BIG,2.1523,True,False,2026-10-04
+423,Suplemento Alimentar  - Hepatofor,945,Whey Isolado - Iso Triple Zero,2.1712,True,False,2026-10-04
+423,Suplemento Alimentar  - Hepatofor,599,Creatina,2.4124,True,False,2026-10-04
+423,Suplemento Alimentar  - Hepatofor,386,L-Carnitina 530mg,2.5019,True,True,2026-10-04
+423,Suplemento Alimentar  - Hepatofor,35,Whey,2.507,True,False,2026-10-04
+424,Multivitaminico - Imunomult- 1000mg,394,Ômega 3 - Omegafor Memory,1.4482,True,True,2026-10-04
+424,Multivitaminico - Imunomult- 1000mg,373,Resveratrol Plus - 165mg,1.5243,True,True,2026-10-04
+424,Multivitaminico - Imunomult- 1000mg,209,Colágeno Hidrolisado - Collagen Pro 18g,1.8123,True,False,2026-10-04
+424,Multivitaminico - Imunomult- 1000mg,1200,Whey Protein - Isofort Beauty,1.8601,True,True,2026-10-04
+424,Multivitaminico - Imunomult- 1000mg,1214,Ômega 3 - EPA DHA - 1000mg,2.1049,True,False,2026-10-04
+426,Whey Protein Crisp - Isocrisp,914,Vitamina D3 Synergy,2.303,True,False,2026-10-04
+426,Whey Protein Crisp - Isocrisp,694,Complexo B 500mg,2.3893,True,False,2026-10-04
+426,Whey Protein Crisp - Isocrisp,698,Shot Matinal,2.4178,True,False,2026-10-04
+426,Whey Protein Crisp - Isocrisp,455,Morning Shot - Imunidade,2.5196,True,False,2026-10-04
+426,Whey Protein Crisp - Isocrisp,220,Próbiotico - Purabiotics,2.6378,True,False,2026-10-04
+427,Isofort Plant (Life Vegan),134,Creatina Monohidratada - Hardcore,1.4226,True,False,2026-10-04
+427,Isofort Plant (Life Vegan),1106,Melatonina Duo,1.5004,True,False,2026-10-04
+427,Isofort Plant (Life Vegan),109,Tasty Whey 3W Gourmet,1.5171,True,False,2026-10-04
+427,Isofort Plant (Life Vegan),447,Colágeno - Colagentek Beauty,1.5241,True,True,2026-10-04
+427,Isofort Plant (Life Vegan),549,Achocolatado - Chocoki,1.5783,True,False,2026-10-04
+428,Isofort Plant (Life Vegan),145,100% Whey Protein - Flavour,1.6454,True,False,2026-10-04
+428,Isofort Plant (Life Vegan),983,BT Nitrato,1.6988,True,False,2026-10-04
+428,Isofort Plant (Life Vegan),139,Refil Whey 100% Pure,1.7003,True,False,2026-10-04
+428,Isofort Plant (Life Vegan),481,BT Nitrato 400,1.7677,True,False,2026-10-04
+428,Isofort Plant (Life Vegan),696,Prebiótico,1.8962,True,False,2026-10-04
+433,Cúrcuma Plus,407,Beta Alanina,1.2941,True,True,2026-10-04
+433,Cúrcuma Plus,697,Ferro Quelato + Vitamina C,1.2957,True,False,2026-10-04
+433,Cúrcuma Plus,451,Coenzima Q10 - (100mg p/ porção),1.3388,True,True,2026-10-04
+433,Cúrcuma Plus,704,Psyllium,1.3898,True,False,2026-10-04
+433,Cúrcuma Plus,455,Morning Shot - Imunidade,1.6954,True,False,2026-10-04
+434,Creatina - Creafort (Creapure),2,Whey Protein Concentrado,1.5655,True,False,2026-10-04
+434,Creatina - Creafort (Creapure),939,Whey Protein Concentrado,1.6081,True,False,2026-10-04
+434,Creatina - Creafort (Creapure),68,Omegafor Plus,1.6094,True,True,2026-10-04
+434,Creatina - Creafort (Creapure),402,Probiótico - Simfort Plus,1.8116,True,True,2026-10-04
+434,Creatina - Creafort (Creapure),617,Coenzima  Q10 - 100mg,1.8957,True,False,2026-10-04
+439,Colágeno - Colagentek Protein - Bodybalance,211,Colágeno Hidrolisado - Collagen Pro 18g,1.3254,True,False,2026-10-04
+439,Colágeno - Colagentek Protein - Bodybalance,938,Whey Protein Concentrado,1.5621,True,False,2026-10-04
+439,Colágeno - Colagentek Protein - Bodybalance,523,Proteína Isolada e Hidrolisada - Body Protein Red,1.618,True,False,2026-10-04
+439,Colágeno - Colagentek Protein - Bodybalance,939,Whey Protein Concentrado,1.7782,True,False,2026-10-04
+439,Colágeno - Colagentek Protein - Bodybalance,3,Whey Protein Concentrado,1.7982,True,False,2026-10-04
+44,Creatina Monohidratada (Creapure),1205,Magnésio Inositol,1.0579,True,True,2026-10-04
+44,Creatina Monohidratada (Creapure),363,"Vitaminas A, E, D e K2- RESTAURE® - Gotas",1.3244,True,False,2026-10-04
+44,Creatina Monohidratada (Creapure),936,Whey Protein Concentrado,1.5031,True,False,2026-10-04
+44,Creatina Monohidratada (Creapure),937,Whey Protein Concentrado Cappuccino 900g DUX,1.5855,True,False,2026-10-04
+44,Creatina Monohidratada (Creapure),939,Whey Protein Concentrado,1.7546,True,False,2026-10-04
+440,Colágeno - Colagentek,404,Isofort Plant (Life Vegan),1.7346,True,True,2026-10-04
+440,Colágeno - Colagentek,647,Glutamina em Pó,2.3441,True,False,2026-10-04
+440,Colágeno - Colagentek,1227,Body Protein Vegano,2.3745,True,False,2026-10-04
+440,Colágeno - Colagentek,1290,Refil Whey Concentrado - W100,2.4293,True,False,2026-10-04
+440,Colágeno - Colagentek,1050,Colágeno - Collagen Essential Protein,2.4484,True,False,2026-10-04
+442,Colágeno - Colagentek,1339,Complexo B,1.7219,True,False,2026-10-04
+442,Colágeno - Colagentek,459,SuperCoffee,2.0101,True,False,2026-10-04
+442,Colágeno - Colagentek,694,Complexo B 500mg,2.261,True,False,2026-10-04
+442,Colágeno - Colagentek,400,Vitamina D - Vita D3 + C + Zinco,2.2647,True,True,2026-10-04
+442,Colágeno - Colagentek,330,Termogênico - Lipix6,2.331,True,True,2026-10-04
+443,Colágeno - Colagentek,140,Refil Whey 100% Pure,1.7142,True,False,2026-10-04
+443,Colágeno - Colagentek,536,Creatina Monohidratada,2.0325,True,False,2026-10-04
+443,Colágeno - Colagentek,1001,Whey 3W,2.1359,True,False,2026-10-04
+443,Colágeno - Colagentek,1289,Refil Whey Concentrado - W100,2.1983,True,False,2026-10-04
+443,Colágeno - Colagentek,1091,Cafeína,2.2067,True,False,2026-10-04
+444,Colágeno - Colagentek,714,Matchá - Chá Verde em Pó,2.022,True,False,2026-10-04
+444,Colágeno - Colagentek,633,Creatina Monohidratada -  Crealift (Creapure),2.4826,True,False,2026-10-04
+444,Colágeno - Colagentek,77,Ômega 3 EPA DHA,2.5334,True,True,2026-10-04
+444,Colágeno - Colagentek,617,Coenzima  Q10 - 100mg,2.587,True,False,2026-10-04
+444,Colágeno - Colagentek,1874,Livestrong,2.647,True,False,2026-10-04
+445,Colágeno - Colagentek,371,Probiótico - Simcaps,2.5722,True,True,2026-10-04
+445,Colágeno - Colagentek,210,Colágeno Hidrolisado - Collagen Pro 18g,2.864,True,False,2026-10-04
+445,Colágeno - Colagentek,1383,SuperCoffee,2.926,True,False,2026-10-04
+445,Colágeno - Colagentek,696,Prebiótico,2.9314,True,False,2026-10-04
+445,Colágeno - Colagentek,800,Sleep,3.0035,True,False,2026-10-04
+447,Colágeno - Colagentek Beauty,427,Isofort Plant (Life Vegan),1.5241,True,True,2026-10-04
+447,Colágeno - Colagentek Beauty,404,Isofort Plant (Life Vegan),1.5395,True,True,2026-10-04
+447,Colágeno - Colagentek Beauty,219,Suplemento para Imunidade - Immune Up 100%,1.6428,True,False,2026-10-04
+447,Colágeno - Colagentek Beauty,1132,Ferro - Ydrosolv,1.6557,True,False,2026-10-04
+447,Colágeno - Colagentek Beauty,140,Refil Whey 100% Pure,1.6791,True,False,2026-10-04
+448,Coenzima Q10 (200mg p/ porção),1200,Whey Protein - Isofort Beauty,1.8972,True,True,2026-10-04
+448,Coenzima Q10 (200mg p/ porção),711,Trio Magnésio 720mg,1.9102,True,False,2026-10-04
+448,Coenzima Q10 (200mg p/ porção),396,"Boraprim - Borragem, Prímula e Gergelim",2.0678,True,True,2026-10-04
+448,Coenzima Q10 (200mg p/ porção),465,SuperCoffee,2.084,True,False,2026-10-04
+448,Coenzima Q10 (200mg p/ porção),486,Creatina Monohidratada,2.2089,True,False,2026-10-04
+449,Coenzima Q10 (200mg p/ porção),58,Ômega 3 Super DHA,0.9637,True,False,2026-10-04
+449,Coenzima Q10 (200mg p/ porção),620,Magnésio Quelato - Bio Mag,1.0537,True,False,2026-10-04
+449,Coenzima Q10 (200mg p/ porção),782,Morning Shot - Imunidade,1.1252,True,False,2026-10-04
+449,Coenzima Q10 (200mg p/ porção),1250,NAC + Glycine + Taurine,1.3171,True,False,2026-10-04
+449,Coenzima Q10 (200mg p/ porção),1096,Colágeno - Collagen Renew Hidrolisado,1.5321,True,False,2026-10-04
+450,Coenzima Q10  (200mg p/ porção),519,Proteína Isolada e Hidrolisada - Body Protein,1.6594,True,False,2026-10-04
+450,Coenzima Q10  (200mg p/ porção),134,Creatina Monohidratada - Hardcore,1.8052,True,False,2026-10-04
+450,Coenzima Q10  (200mg p/ porção),860,Fresh Whey,1.8058,True,False,2026-10-04
+450,Coenzima Q10  (200mg p/ porção),69,Omegafor Plus,1.8822,True,True,2026-10-04
+450,Coenzima Q10  (200mg p/ porção),1212,Ômega 3 - Ultra Caps 1000mg,1.9985,True,False,2026-10-04
+451,Coenzima Q10 - (100mg p/ porção),368,Probiótico - Simcaps,1.2098,True,True,2026-10-04
+451,Coenzima Q10 - (100mg p/ porção),407,Beta Alanina,1.3141,True,True,2026-10-04
+451,Coenzima Q10 - (100mg p/ porção),433,Cúrcuma Plus,1.3388,True,True,2026-10-04
+451,Coenzima Q10 - (100mg p/ porção),697,Ferro Quelato + Vitamina C,1.4056,True,False,2026-10-04
+451,Coenzima Q10 - (100mg p/ porção),455,Morning Shot - Imunidade,1.6314,True,False,2026-10-04
+453,Whey Tech 100%,588,Whey Tech 100%,2.6847,True,True,2026-10-04
+453,Whey Tech 100%,1238,Suplemento de Magnésio - Blue Calm,2.8006,True,False,2026-10-04
+453,Whey Tech 100%,1470,Whey Isolado - Iso Triple Zero,3.3054,True,False,2026-10-04
+453,Whey Tech 100%,50,Whey Protein Isolado,3.3813,True,False,2026-10-04
+453,Whey Tech 100%,546,Ômega 3 Pulse,3.5034,True,False,2026-10-04
+454,Whey Tech 100%,689,Pré-Treino,1.9264,True,False,2026-10-04
+454,Whey Tech 100%,1037,Barrinha de Proteína - Protein Crisp Bar,2.0391,True,False,2026-10-04
+454,Whey Tech 100%,715,Suplemento Alimentar - Slim Body 400mg,2.2623,True,False,2026-10-04
+454,Whey Tech 100%,1026,Colágeno - Collagen Pro - Body Suport,2.3672,True,False,2026-10-04
+454,Whey Tech 100%,633,Creatina Monohidratada -  Crealift (Creapure),2.3966,True,False,2026-10-04
+455,Morning Shot - Imunidade,902,Termogênico - Termo Plus,1.251,True,False,2026-10-04
+455,Morning Shot - Imunidade,374,Palatinose,1.3549,True,False,2026-10-04
+455,Morning Shot - Imunidade,652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,1.3961,True,False,2026-10-04
+455,Morning Shot - Imunidade,520,Proteína Isolada e Hidrolisada - Body Protein,1.56,True,False,2026-10-04
+455,Morning Shot - Imunidade,451,Coenzima Q10 - (100mg p/ porção),1.6314,True,False,2026-10-04
+456,SuperCoffee,31,Super Ômega 3,2.0557,True,False,2026-10-04
+456,SuperCoffee,589,Whey Tech 100%,2.1062,True,False,2026-10-04
+456,SuperCoffee,2,Whey Protein Concentrado,2.2673,True,False,2026-10-04
+456,SuperCoffee,1827,SuperCoffee,2.383,True,True,2026-10-04
+456,SuperCoffee,781,Morning Shot - Imunidade,2.4033,True,False,2026-10-04
+457,SuperCoffee,1114,Fresh Vegan,1.45,True,False,2026-10-04
+457,SuperCoffee,861,Fresh Whey,1.6816,True,False,2026-10-04
+457,SuperCoffee,439,Colágeno - Colagentek Protein - Bodybalance,1.9687,True,False,2026-10-04
+457,SuperCoffee,991,Magnésio Inositol,2.0346,True,False,2026-10-04
+457,SuperCoffee,1687,Creatina Monohidratada (Creapure),2.1329,True,False,2026-10-04
+459,SuperCoffee,330,Termogênico - Lipix6,1.7211,True,False,2026-10-04
+459,SuperCoffee,699,Feno Grego + Boro 500mg,1.9262,True,False,2026-10-04
+459,SuperCoffee,442,Colágeno - Colagentek,2.0101,True,False,2026-10-04
+459,SuperCoffee,694,Complexo B 500mg,2.0767,True,False,2026-10-04
+459,SuperCoffee,1010,Ômega Golden,2.1491,True,False,2026-10-04
+463,SuperCoffee,1239,Suplemento de Magnésio - Blue Calm,2.3492,True,False,2026-10-04
+463,SuperCoffee,538,Ultracoffee - Vegano,2.3881,True,False,2026-10-04
+463,SuperCoffee,215,Colágeno Collagen Skin,2.4496,True,False,2026-10-04
+463,SuperCoffee,404,Isofort Plant (Life Vegan),2.5036,True,False,2026-10-04
+463,SuperCoffee,443,Colágeno - Colagentek,2.6262,True,False,2026-10-04
+465,SuperCoffee,390,Colágeno - Colagentek Protein - Bodybalance,1.9361,True,False,2026-10-04
+465,SuperCoffee,87,Whey hidrolisado e isolado,1.9648,True,False,2026-10-04
+465,SuperCoffee,448,Coenzima Q10 (200mg p/ porção),2.084,True,False,2026-10-04
+465,SuperCoffee,1200,Whey Protein - Isofort Beauty,2.0911,True,False,2026-10-04
+465,SuperCoffee,76,Ômega - Mega DHA,2.0977,True,False,2026-10-04
+474,Glutamina,134,Creatina Monohidratada - Hardcore,1.4208,True,False,2026-10-04
+474,Glutamina,558,Palatinose,1.4479,True,True,2026-10-04
+474,Glutamina,395,Vitamina D - Vita D3,1.5531,True,False,2026-10-04
+474,Glutamina,704,Psyllium,1.6801,True,False,2026-10-04
+474,Glutamina,427,Isofort Plant (Life Vegan),1.8161,True,False,2026-10-04
+480,BT Nitrato 400,598,Glutamina em Pó,1.2734,True,False,2026-10-04
+480,BT Nitrato 400,519,Proteína Isolada e Hidrolisada - Body Protein,1.8175,True,False,2026-10-04
+480,BT Nitrato 400,635,Ômega 3 - 1360mg,1.8462,True,False,2026-10-04
+480,BT Nitrato 400,681,Coenzima Q10,1.8911,True,False,2026-10-04
+480,BT Nitrato 400,1107,Melatonina Duo Harmony,1.9408,True,False,2026-10-04
+481,BT Nitrato 400,139,Refil Whey 100% Pure,1.5224,True,False,2026-10-04
+481,BT Nitrato 400,1105,Aminoácidos - Aminolift,1.5527,True,False,2026-10-04
+481,BT Nitrato 400,696,Prebiótico,1.5607,True,False,2026-10-04
+481,BT Nitrato 400,102,Tasty Whey 3W Gourmet,1.7652,True,False,2026-10-04
+481,BT Nitrato 400,428,Isofort Plant (Life Vegan),1.7677,True,False,2026-10-04
+486,Creatina Monohidratada,860,Fresh Whey,1.9555,True,True,2026-10-04
+486,Creatina Monohidratada,448,Coenzima Q10 (200mg p/ porção),2.2089,True,False,2026-10-04
+486,Creatina Monohidratada,908,Vitamina D3 + K2,2.2906,True,False,2026-10-04
+486,Creatina Monohidratada,421,Glutamina - Glutamax,2.6664,True,False,2026-10-04
+486,Creatina Monohidratada,685,Creatina Monohidratada,2.7935,True,False,2026-10-04
+487,Glutamina Isolates,687,Ômega 3 DHA,2.152,True,False,2026-10-04
+487,Glutamina Isolates,331,Aminoácidos - Aminnu EAAs,2.1648,True,False,2026-10-04
+487,Glutamina Isolates,206,Colágeno - Collagen Renew Hidrolisado,2.4744,True,False,2026-10-04
+487,Glutamina Isolates,705,Melatonina,2.496,True,False,2026-10-04
+487,Glutamina Isolates,698,Shot Matinal,2.5126,True,False,2026-10-04
+5,Whey Protein Isolado,40,Whey,2.1915,True,False,2026-10-04
+5,Whey Protein Isolado,4,Whey Protein Isolado,2.41,True,True,2026-10-04
+5,Whey Protein Isolado,375,Omegafor Plus,2.6561,True,False,2026-10-04
+5,Whey Protein Isolado,712,Suplemento Alimentar - Green Shot,2.7979,True,False,2026-10-04
+5,Whey Protein Isolado,33,Whey,2.8132,True,False,2026-10-04
+50,Whey Protein Isolado,453,Whey Tech 100%,3.3813,True,False,2026-10-04
+50,Whey Protein Isolado,588,Whey Tech 100%,3.4668,True,False,2026-10-04
+50,Whey Protein Isolado,1470,Whey Isolado - Iso Triple Zero,3.687,True,False,2026-10-04
+50,Whey Protein Isolado,1238,Suplemento de Magnésio - Blue Calm,3.9744,True,True,2026-10-04
+50,Whey Protein Isolado,170,100% Whey Pure,4.0559,True,False,2026-10-04
+519,Proteína Isolada e Hidrolisada - Body Protein,860,Fresh Whey,1.5955,True,False,2026-10-04
+519,Proteína Isolada e Hidrolisada - Body Protein,450,Coenzima Q10  (200mg p/ porção),1.6594,True,False,2026-10-04
+519,Proteína Isolada e Hidrolisada - Body Protein,427,Isofort Plant (Life Vegan),1.6948,True,False,2026-10-04
+519,Proteína Isolada e Hidrolisada - Body Protein,480,BT Nitrato 400,1.8175,True,False,2026-10-04
+519,Proteína Isolada e Hidrolisada - Body Protein,1212,Ômega 3 - Ultra Caps 1000mg,1.8963,True,True,2026-10-04
+52,Ômega 3 Fosfatix,1020,Pasta de Amendoim,3.3744,True,False,2026-10-04
+52,Ômega 3 Fosfatix,38,Super Ômega 3,3.4802,True,False,2026-10-04
+52,Ômega 3 Fosfatix,1725,Whey Protein Isolado,3.5276,True,False,2026-10-04
+52,Ômega 3 Fosfatix,1095,Colágeno - Collagen Renew Hidrolisado,3.5812,True,False,2026-10-04
+52,Ômega 3 Fosfatix,1056,Suplemento Alimentar - Pura Fiber,3.6066,True,True,2026-10-04
+520,Proteína Isolada e Hidrolisada - Body Protein,652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,1.3586,True,False,2026-10-04
+520,Proteína Isolada e Hidrolisada - Body Protein,341,Whey Fort 3W,1.4701,True,False,2026-10-04
+520,Proteína Isolada e Hidrolisada - Body Protein,455,Morning Shot - Imunidade,1.56,True,False,2026-10-04
+520,Proteína Isolada e Hidrolisada - Body Protein,902,Termogênico - Termo Plus,1.5728,True,False,2026-10-04
+520,Proteína Isolada e Hidrolisada - Body Protein,451,Coenzima Q10 - (100mg p/ porção),1.7321,True,False,2026-10-04
+521,Proteína Isolada e Hidrolisada - Body Protein,861,Fresh Whey,2.2634,True,False,2026-10-04
+521,Proteína Isolada e Hidrolisada - Body Protein,523,Proteína Isolada e Hidrolisada - Body Protein Red,2.363,True,True,2026-10-04
+521,Proteína Isolada e Hidrolisada - Body Protein,592,Vitamina D3 + K2 Gotas,2.4034,True,False,2026-10-04
+521,Proteína Isolada e Hidrolisada - Body Protein,681,Coenzima Q10,2.4336,True,False,2026-10-04
+521,Proteína Isolada e Hidrolisada - Body Protein,1132,Ferro - Ydrosolv,2.5427,True,False,2026-10-04
+522,Proteína Isolada e Hidrolisada - Body Protein,1332,Whey Protein Isolado - Tasty Iso,1.549,True,False,2026-10-04
+522,Proteína Isolada e Hidrolisada - Body Protein,948,Tasty Whey 3W Gourmet,2.0407,True,False,2026-10-04
+522,Proteína Isolada e Hidrolisada - Body Protein,1048,Colágeno - Collagen Essential Protein,2.3694,True,False,2026-10-04
+522,Proteína Isolada e Hidrolisada - Body Protein,1137,Melatonina - Ydrosolv,2.4269,True,False,2026-10-04
+522,Proteína Isolada e Hidrolisada - Body Protein,169,100% Whey Pure,2.4339,True,False,2026-10-04
+523,Proteína Isolada e Hidrolisada - Body Protein Red,861,Fresh Whey,1.4554,True,False,2026-10-04
+523,Proteína Isolada e Hidrolisada - Body Protein Red,439,Colágeno - Colagentek Protein - Bodybalance,1.618,True,False,2026-10-04
+523,Proteína Isolada e Hidrolisada - Body Protein Red,427,Isofort Plant (Life Vegan),1.8609,True,False,2026-10-04
+523,Proteína Isolada e Hidrolisada - Body Protein Red,549,Achocolatado - Chocoki,1.909,True,False,2026-10-04
+523,Proteína Isolada e Hidrolisada - Body Protein Red,1212,Ômega 3 - Ultra Caps 1000mg,1.9614,True,True,2026-10-04
+528,Achocolatado - Choco Family - Refil,1073,Pasta de Amendoim Integral,2.4033,True,False,2026-10-04
+528,Achocolatado - Choco Family - Refil,549,Achocolatado - Chocoki,2.5354,True,False,2026-10-04
+528,Achocolatado - Choco Family - Refil,1237,Vitamina B9 - Ácido Fólico,2.6252,True,False,2026-10-04
+528,Achocolatado - Choco Family - Refil,533,Aminoácido - Tryptophan,2.6518,True,False,2026-10-04
+528,Achocolatado - Choco Family - Refil,1560,Pré-Treino,2.708,True,False,2026-10-04
+531,Multivitamínico - Vitalift,1408,Coenzima Q10 200mg,1.7455,True,False,2026-10-04
+531,Multivitamínico - Vitalift,1227,Body Protein Vegano,1.8113,True,False,2026-10-04
+531,Multivitamínico - Vitalift,219,Suplemento para Imunidade - Immune Up 100%,1.843,True,False,2026-10-04
+531,Multivitamínico - Vitalift,1157,Refil Whey Concentrado - W100,1.8774,True,False,2026-10-04
+531,Multivitamínico - Vitalift,79,Whey Protein Isolado - Isofort,1.986,True,False,2026-10-04
+533,Aminoácido - Tryptophan,1347,Complexo B - Bio Vit.B+,1.7447,True,False,2026-10-04
+533,Aminoácido - Tryptophan,1110,Pré-treino - Energyzer & focus,1.7624,True,False,2026-10-04
+533,Aminoácido - Tryptophan,1093,Colágeno - Collagen Renew Hidrolisado,1.8266,True,True,2026-10-04
+533,Aminoácido - Tryptophan,999,Creatina Monohidratada,1.9316,True,False,2026-10-04
+533,Aminoácido - Tryptophan,1119,Própolis Verde - Alcoólico,2.1488,True,False,2026-10-04
+534,Coenzima Q10 + Ômega 3 + Vitamina E,589,Whey Tech 100%,1.5344,True,False,2026-10-04
+534,Coenzima Q10 + Ômega 3 + Vitamina E,451,Coenzima Q10 - (100mg p/ porção),2.0892,True,False,2026-10-04
+534,Coenzima Q10 + Ômega 3 + Vitamina E,1590,Refil 100% Whey Protein - Flavour,2.2648,True,False,2026-10-04
+534,Coenzima Q10 + Ômega 3 + Vitamina E,141,Creatina Monohidratada,2.276,True,False,2026-10-04
+534,Coenzima Q10 + Ômega 3 + Vitamina E,407,Beta Alanina,2.3654,True,False,2026-10-04
+536,Creatina Monohidratada,1091,Cafeína,1.9563,True,False,2026-10-04
+536,Creatina Monohidratada,689,Pré-Treino,1.9765,True,False,2026-10-04
+536,Creatina Monohidratada,443,Colágeno - Colagentek,2.0325,True,False,2026-10-04
+536,Creatina Monohidratada,1327,Glutamina,2.1336,True,False,2026-10-04
+536,Creatina Monohidratada,1137,Melatonina - Ydrosolv,2.2437,True,False,2026-10-04
+538,Ultracoffee - Vegano,1109,Glutamina,1.7812,True,False,2026-10-04
+538,Ultracoffee - Vegano,144,100% Whey Protein - Flavour,1.7842,True,False,2026-10-04
+538,Ultracoffee - Vegano,1124,Proteína Isolada e Hidrolisada - Body Protein,1.9566,True,False,2026-10-04
+538,Ultracoffee - Vegano,1099,Whey - Immuno Golden,2.0701,True,False,2026-10-04
+538,Ultracoffee - Vegano,337,#Whey Fort 3W,2.1344,True,False,2026-10-04
+54,Ômega 3 EPA DHA,1449,Simfort Femme,2.1891,True,False,2026-10-04
+54,Ômega 3 EPA DHA,1069,Bio Ferro,2.3427,True,True,2026-10-04
+54,Ômega 3 EPA DHA,360,Probiótico - Simfort Plus,2.5472,True,False,2026-10-04
+54,Ômega 3 EPA DHA,457,SuperCoffee,2.7895,True,False,2026-10-04
+54,Ômega 3 EPA DHA,905,Proteína - Isocrisp Plant Pouch,2.7999,True,False,2026-10-04
+546,Ômega 3 Pulse,1415,Fresh Whey,2.5822,True,False,2026-10-04
+546,Ômega 3 Pulse,365,Probióticos em Pó - Simfort,2.8234,True,False,2026-10-04
+546,Ômega 3 Pulse,588,Whey Tech 100%,2.8995,True,False,2026-10-04
+546,Ômega 3 Pulse,1048,Colágeno - Collagen Essential Protein,3.0021,True,False,2026-10-04
+546,Ômega 3 Pulse,170,100% Whey Pure,3.0458,True,False,2026-10-04
+549,Achocolatado - Chocoki,1106,Melatonina Duo,1.388,True,True,2026-10-04
+549,Achocolatado - Chocoki,427,Isofort Plant (Life Vegan),1.5783,True,False,2026-10-04
+549,Achocolatado - Chocoki,801,Psyllium,1.6748,True,False,2026-10-04
+549,Achocolatado - Chocoki,374,Palatinose,1.7782,True,False,2026-10-04
+549,Achocolatado - Chocoki,1065,Bio Vitamina B12 em gotas,1.8302,True,False,2026-10-04
+550,Suplemento de Magnésio - Blue Calm,910,100% Whey Pure,1.3388,True,False,2026-10-04
+550,Suplemento de Magnésio - Blue Calm,1659,Magnésio Inositol,2.7363,True,False,2026-10-04
+550,Suplemento de Magnésio - Blue Calm,714,Matchá - Chá Verde em Pó,3.0435,True,False,2026-10-04
+550,Suplemento de Magnésio - Blue Calm,1060,Beef Protein,3.2068,True,False,2026-10-04
+550,Suplemento de Magnésio - Blue Calm,1110,Pré-treino - Energyzer & focus,3.6746,True,False,2026-10-04
+558,Palatinose,395,Vitamina D - Vita D3,0.99,True,False,2026-10-04
+558,Palatinose,134,Creatina Monohidratada - Hardcore,1.4396,True,False,2026-10-04
+558,Palatinose,474,Glutamina,1.4479,True,True,2026-10-04
+558,Palatinose,995,Colágeno Tipo II,1.8564,True,False,2026-10-04
+558,Palatinose,71,Creatina Monohidratada - Creatine,1.9918,True,False,2026-10-04
+559,Pré-Treino - V Fort Ultra,37,Whey Isolado e Hidrolisado - H.I Whey,1.4316,True,False,2026-10-04
+559,Pré-Treino - V Fort Ultra,379,Aminoácido - Aminovita,1.7464,True,True,2026-10-04
+559,Pré-Treino - V Fort Ultra,365,Probióticos em Pó - Simfort,2.1897,True,True,2026-10-04
+559,Pré-Treino - V Fort Ultra,617,Coenzima  Q10 - 100mg,2.2272,True,False,2026-10-04
+559,Pré-Treino - V Fort Ultra,1137,Melatonina - Ydrosolv,2.3004,True,False,2026-10-04
+58,Ômega 3 Super DHA,449,Coenzima Q10 (200mg p/ porção),0.9637,True,False,2026-10-04
+58,Ômega 3 Super DHA,782,Morning Shot - Imunidade,1.0623,True,False,2026-10-04
+58,Ômega 3 Super DHA,620,Magnésio Quelato - Bio Mag,1.1502,True,True,2026-10-04
+58,Ômega 3 Super DHA,76,Ômega - Mega DHA,1.3115,True,False,2026-10-04
+58,Ômega 3 Super DHA,1250,NAC + Glycine + Taurine,1.4125,True,False,2026-10-04
+587,Whey Tech 100%,1103,Coffee - Brainstorm,2.5111,True,False,2026-10-04
+587,Whey Tech 100%,871,Creatina - Creafort (Creapure),2.9605,True,False,2026-10-04
+587,Whey Tech 100%,113,Gold Whey Concentrado Refil,3.061,True,False,2026-10-04
+587,Whey Tech 100%,613,Multivitaminico  - Imunomult- 1000mg,3.1401,True,False,2026-10-04
+587,Whey Tech 100%,598,Glutamina em Pó,3.1589,True,False,2026-10-04
+588,Whey Tech 100%,453,Whey Tech 100%,2.6847,True,True,2026-10-04
+588,Whey Tech 100%,1238,Suplemento de Magnésio - Blue Calm,2.8515,True,False,2026-10-04
+588,Whey Tech 100%,546,Ômega 3 Pulse,2.8995,True,False,2026-10-04
+588,Whey Tech 100%,1415,Fresh Whey,3.0169,True,False,2026-10-04
+588,Whey Tech 100%,1219,Beef Protein,3.0525,True,False,2026-10-04
+589,Whey Tech 100%,534,Coenzima Q10 + Ômega 3 + Vitamina E,1.5344,True,False,2026-10-04
+589,Whey Tech 100%,451,Coenzima Q10 - (100mg p/ porção),1.7404,True,False,2026-10-04
+589,Whey Tech 100%,657,Colágeno - Collagen Tipo II 40mg,1.8137,True,False,2026-10-04
+589,Whey Tech 100%,399,Vitamina D - Vita D3 + C + Zinco,1.9286,True,False,2026-10-04
+589,Whey Tech 100%,141,Creatina Monohidratada,1.9476,True,True,2026-10-04
+592,Vitamina D3 + K2 Gotas,614,Vitamina B12,1.935,True,False,2026-10-04
+592,Vitamina D3 + K2 Gotas,1065,Bio Vitamina B12 em gotas,1.9852,True,True,2026-10-04
+592,Vitamina D3 + K2 Gotas,681,Coenzima Q10,2.0089,True,False,2026-10-04
+592,Vitamina D3 + K2 Gotas,691,Cúrcuma 500mg,2.0374,True,False,2026-10-04
+592,Vitamina D3 + K2 Gotas,999,Creatina Monohidratada,2.1227,True,False,2026-10-04
+598,Glutamina em Pó,480,BT Nitrato 400,1.2734,True,False,2026-10-04
+598,Glutamina em Pó,1103,Coffee - Brainstorm,1.7204,True,False,2026-10-04
+598,Glutamina em Pó,447,Colágeno - Colagentek Beauty,2.1163,True,False,2026-10-04
+598,Glutamina em Pó,592,Vitamina D3 + K2 Gotas,2.2393,True,False,2026-10-04
+598,Glutamina em Pó,1011,Ômega Core,2.2563,True,False,2026-10-04
+599,Creatina,70,Omegafor Vision,1.8612,True,False,2026-10-04
+599,Creatina,783,Creatina,1.9087,True,False,2026-10-04
+599,Creatina,1386,Refil Whey 100% Pure,1.9383,True,False,2026-10-04
+599,Creatina,386,L-Carnitina 530mg,1.9437,True,False,2026-10-04
+599,Creatina,381,Aminoácido - Aminovita,1.9922,True,False,2026-10-04
+6,Whey Protein Isolado,167,Whey Fort 3W,2.2907,True,False,2026-10-04
+6,Whey Protein Isolado,39,Proteína Vegana - Immuno Veggie,2.356,True,False,2026-10-04
+6,Whey Protein Isolado,375,Omegafor Plus,2.3945,True,False,2026-10-04
+6,Whey Protein Isolado,1128,Sleep,2.5048,True,False,2026-10-04
+6,Whey Protein Isolado,390,Colágeno - Colagentek Protein - Bodybalance,2.506,True,False,2026-10-04
+60,Creatina Premium - Creapure,691,Cúrcuma 500mg,2.0054,True,False,2026-10-04
+60,Creatina Premium - Creapure,356,Suplemento Alimentar - GUARDIAN®,2.0191,True,False,2026-10-04
+60,Creatina Premium - Creapure,1158,Refil Whey Concentrado - W100,2.0649,True,False,2026-10-04
+60,Creatina Premium - Creapure,651,Colágeno - Collagen Protein Hidrolisado,2.0887,True,True,2026-10-04
+60,Creatina Premium - Creapure,944,Whey Protein Isolado,2.1367,True,False,2026-10-04
+613,Multivitaminico  - Imunomult- 1000mg,1103,Coffee - Brainstorm,2.1713,True,False,2026-10-04
+613,Multivitaminico  - Imunomult- 1000mg,138,Refil Whey 100% Pure,2.2494,True,False,2026-10-04
+613,Multivitaminico  - Imunomult- 1000mg,519,Proteína Isolada e Hidrolisada - Body Protein,2.3056,True,False,2026-10-04
+613,Multivitaminico  - Imunomult- 1000mg,598,Glutamina em Pó,2.3485,True,False,2026-10-04
+613,Multivitaminico  - Imunomult- 1000mg,166,Whey Fort 3W,2.3858,True,True,2026-10-04
+614,Vitamina B12,1204,Vitamina D3,1.5896,True,True,2026-10-04
+614,Vitamina B12,592,Vitamina D3 + K2 Gotas,1.935,True,False,2026-10-04
+614,Vitamina B12,681,Coenzima Q10,2.0338,True,False,2026-10-04
+614,Vitamina B12,726,Termogênico - Lipix6,2.0713,True,False,2026-10-04
+614,Vitamina B12,811,Cromo Picolinato - 250mg,2.1523,True,False,2026-10-04
+615,Magnésio,378,Melatonina em Gotas,1.9505,True,False,2026-10-04
+615,Magnésio,38,Super Ômega 3,1.9617,True,False,2026-10-04
+615,Magnésio,662,Própolis Verde - Premium 10mg,2.6459,True,False,2026-10-04
+615,Magnésio,409,Melatonina - Sleepfor,2.8516,True,False,2026-10-04
+615,Magnésio,207,Colágeno - Collagen Renew Hidrolisado,2.8841,True,True,2026-10-04
+616,Vitamina - Good Mood,681,Coenzima Q10,1.3019,True,False,2026-10-04
+616,Vitamina - Good Mood,638,Beta Alanina 100%,1.4853,True,False,2026-10-04
+616,Vitamina - Good Mood,1228,Creatina Monohidratada,1.6325,True,False,2026-10-04
+616,Vitamina - Good Mood,1118,Própolis Verde 70,1.6394,True,False,2026-10-04
+616,Vitamina - Good Mood,698,Shot Matinal,1.7982,True,False,2026-10-04
+617,Coenzima  Q10 - 100mg,409,Melatonina - Sleepfor,1.7956,True,False,2026-10-04
+617,Coenzima  Q10 - 100mg,394,Ômega 3 - Omegafor Memory,1.8722,True,False,2026-10-04
+617,Coenzima  Q10 - 100mg,434,Creatina - Creafort (Creapure),1.8957,True,False,2026-10-04
+617,Coenzima  Q10 - 100mg,2,Whey Protein Concentrado,1.9898,True,False,2026-10-04
+617,Coenzima  Q10 - 100mg,209,Colágeno Hidrolisado - Collagen Pro 18g,2.0914,True,True,2026-10-04
+619,Bio Zinco,374,Palatinose,1.7704,True,False,2026-10-04
+619,Bio Zinco,638,Beta Alanina 100%,1.8348,True,False,2026-10-04
+619,Bio Zinco,698,Shot Matinal,1.9084,True,False,2026-10-04
+619,Bio Zinco,908,Vitamina D3 + K2,1.9146,True,False,2026-10-04
+619,Bio Zinco,688,Glutamina,1.9569,True,False,2026-10-04
+620,Magnésio Quelato - Bio Mag,449,Coenzima Q10 (200mg p/ porção),1.0537,True,False,2026-10-04
+620,Magnésio Quelato - Bio Mag,58,Ômega 3 Super DHA,1.1502,True,True,2026-10-04
+620,Magnésio Quelato - Bio Mag,782,Morning Shot - Imunidade,1.5187,True,False,2026-10-04
+620,Magnésio Quelato - Bio Mag,1250,NAC + Glycine + Taurine,1.6657,True,False,2026-10-04
+620,Magnésio Quelato - Bio Mag,76,Ômega - Mega DHA,1.8525,True,False,2026-10-04
+623,Coenzima Q10,1247,Omegafor Family - Ômega 3,2.357,True,False,2026-10-04
+623,Coenzima Q10,386,L-Carnitina 530mg,2.3626,True,False,2026-10-04
+623,Coenzima Q10,35,Whey,2.6089,True,False,2026-10-04
+623,Coenzima Q10,783,Creatina,2.7036,True,False,2026-10-04
+623,Coenzima Q10,599,Creatina,2.8782,True,False,2026-10-04
+629,Vitamina B12,1898,Eletrólitos,2.0408,True,False,2026-10-04
+629,Vitamina B12,1118,Própolis Verde 70,2.0726,True,False,2026-10-04
+629,Vitamina B12,1911,Whey Protein Isolado - Sachê,2.0771,True,False,2026-10-04
+629,Vitamina B12,707,Vitamina B12,2.2377,True,False,2026-10-04
+629,Vitamina B12,638,Beta Alanina 100%,2.2975,True,False,2026-10-04
+633,Creatina Monohidratada -  Crealift (Creapure),37,Whey Isolado e Hidrolisado - H.I Whey,1.8284,True,True,2026-10-04
+633,Creatina Monohidratada -  Crealift (Creapure),1238,Suplemento de Magnésio - Blue Calm,1.9507,True,False,2026-10-04
+633,Creatina Monohidratada -  Crealift (Creapure),1470,Whey Isolado - Iso Triple Zero,2.2476,True,False,2026-10-04
+633,Creatina Monohidratada -  Crealift (Creapure),1026,Colágeno - Collagen Pro - Body Suport,2.3459,True,False,2026-10-04
+633,Creatina Monohidratada -  Crealift (Creapure),454,Whey Tech 100%,2.3966,True,False,2026-10-04
+634,Magnésio - Inositol Relief 3.0,357,Suplemento Alimentar - GUARDIAN®,1.6869,True,False,2026-10-04
+634,Magnésio - Inositol Relief 3.0,1384,SuperCoffee Língua de gato - Kopenhagen,2.0328,True,False,2026-10-04
+634,Magnésio - Inositol Relief 3.0,1687,Creatina Monohidratada (Creapure),2.5593,True,False,2026-10-04
+634,Magnésio - Inositol Relief 3.0,376,Ômega 3 EPA DHA,3.0293,True,False,2026-10-04
+634,Magnésio - Inositol Relief 3.0,1673,Refil Whey Protein Concentrado,3.0777,True,False,2026-10-04
+635,Ômega 3 - 1360mg,936,Whey Protein Concentrado,1.5076,True,False,2026-10-04
+635,Ômega 3 - 1360mg,72,Ômega 3 EPA DHA,1.5187,True,False,2026-10-04
+635,Ômega 3 - 1360mg,3,Whey Protein Concentrado,1.5189,True,False,2026-10-04
+635,Ômega 3 - 1360mg,938,Whey Protein Concentrado,1.6422,True,False,2026-10-04
+635,Ômega 3 - 1360mg,939,Whey Protein Concentrado,1.7895,True,False,2026-10-04
+638,Beta Alanina 100%,616,Vitamina - Good Mood,1.4853,True,False,2026-10-04
+638,Beta Alanina 100%,711,Trio Magnésio 720mg,1.602,True,False,2026-10-04
+638,Beta Alanina 100%,396,"Boraprim - Borragem, Prímula e Gergelim",1.7029,True,False,2026-10-04
+638,Beta Alanina 100%,619,Bio Zinco,1.8348,True,False,2026-10-04
+638,Beta Alanina 100%,782,Morning Shot - Imunidade,1.8976,True,False,2026-10-04
+647,Glutamina em Pó,404,Isofort Plant (Life Vegan),1.4496,True,False,2026-10-04
+647,Glutamina em Pó,374,Palatinose,1.7142,True,False,2026-10-04
+647,Glutamina em Pó,1097,Creatina 100%,1.756,True,False,2026-10-04
+647,Glutamina em Pó,801,Psyllium,1.8208,True,False,2026-10-04
+647,Glutamina em Pó,83,Creatina,1.9115,True,False,2026-10-04
+651,Colágeno - Collagen Protein Hidrolisado,698,Shot Matinal,1.5272,True,False,2026-10-04
+651,Colágeno - Collagen Protein Hidrolisado,902,Termogênico - Termo Plus,1.6752,True,False,2026-10-04
+651,Colágeno - Collagen Protein Hidrolisado,361,Probióticos em Pó - Simfort,1.7056,True,False,2026-10-04
+651,Colágeno - Collagen Protein Hidrolisado,455,Morning Shot - Imunidade,1.8314,True,False,2026-10-04
+651,Colágeno - Collagen Protein Hidrolisado,1452,Colágeno - Colagentek Protein - Bodybalance,1.8388,True,False,2026-10-04
+652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,520,Proteína Isolada e Hidrolisada - Body Protein,1.3586,True,False,2026-10-04
+652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,214,Colágeno - Collagen Gut,1.3944,True,False,2026-10-04
+652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,455,Morning Shot - Imunidade,1.3961,True,False,2026-10-04
+652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,330,Termogênico - Lipix6,1.5652,True,False,2026-10-04
+652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,1484,Creatina Monohidratada,1.6022,True,True,2026-10-04
+657,Colágeno - Collagen Tipo II 40mg,407,Beta Alanina,1.189,True,False,2026-10-04
+657,Colágeno - Collagen Tipo II 40mg,1452,Colágeno - Colagentek Protein - Bodybalance,1.5288,True,False,2026-10-04
+657,Colágeno - Collagen Tipo II 40mg,451,Coenzima Q10 - (100mg p/ porção),1.6729,True,False,2026-10-04
+657,Colágeno - Collagen Tipo II 40mg,704,Psyllium,1.6812,True,False,2026-10-04
+657,Colágeno - Collagen Tipo II 40mg,697,Ferro Quelato + Vitamina C,1.7264,True,False,2026-10-04
+658,Cúrcuma - Curcumagic,1274,Suplemento Alimentar - Alpha Inflaminus,1.6886,True,True,2026-10-04
+658,Cúrcuma - Curcumagic,333,Aminoácidos - Aminnu EAAs,1.7896,True,False,2026-10-04
+658,Cúrcuma - Curcumagic,1093,Colágeno - Collagen Renew Hidrolisado,1.9123,True,False,2026-10-04
+658,Cúrcuma - Curcumagic,208,Colágeno Hidrolisado - Collagen Pro 18g,2.0034,True,False,2026-10-04
+658,Cúrcuma - Curcumagic,1670,Tasty Whey 3W Gourmet,2.0316,True,False,2026-10-04
+659,Colágeno - Collagen Protein Hidrolisado,925,Ômega 3 Super DHA - BIG N,1.8054,True,True,2026-10-04
+659,Colágeno - Collagen Protein Hidrolisado,946,Whey Isolado - Iso Triple Zero,2.3785,True,False,2026-10-04
+659,Colágeno - Collagen Protein Hidrolisado,1056,Suplemento Alimentar - Pura Fiber,2.4856,True,True,2026-10-04
+659,Colágeno - Collagen Protein Hidrolisado,521,Proteína Isolada e Hidrolisada - Body Protein,2.5782,True,False,2026-10-04
+659,Colágeno - Collagen Protein Hidrolisado,915,Magnésio - Bio Trimag,2.6088,True,True,2026-10-04
+662,Própolis Verde - Premium 10mg,38,Super Ômega 3,2.2568,True,False,2026-10-04
+662,Própolis Verde - Premium 10mg,391,Beta Alanina,2.2813,True,False,2026-10-04
+662,Própolis Verde - Premium 10mg,1116,Fresh Vegan,2.308,True,False,2026-10-04
+662,Própolis Verde - Premium 10mg,378,Melatonina em Gotas,2.3317,True,False,2026-10-04
+662,Própolis Verde - Premium 10mg,1238,Suplemento de Magnésio - Blue Calm,2.5937,True,True,2026-10-04
+663,Vitamina C - Bio Vit C+,365,Probióticos em Pó - Simfort,1.4039,True,False,2026-10-04
+663,Vitamina C - Bio Vit C+,707,Vitamina B12,1.4924,True,False,2026-10-04
+663,Vitamina C - Bio Vit C+,1091,Cafeína,1.6101,True,False,2026-10-04
+663,Vitamina C - Bio Vit C+,393,Colágeno - Colagentek,1.839,True,False,2026-10-04
+663,Vitamina C - Bio Vit C+,1330,Vitamina B12,1.878,True,False,2026-10-04
+67,Whey Protein Isolado - Isofort,74,Whey Protein Isolado - Isofort,2.0441,True,True,2026-10-04
+67,Whey Protein Isolado - Isofort,860,Fresh Whey,2.2069,True,False,2026-10-04
+67,Whey Protein Isolado - Isofort,1341,Fresh Whey,2.3581,True,False,2026-10-04
+67,Whey Protein Isolado - Isofort,334,Whey Fort 3W,2.366,True,True,2026-10-04
+67,Whey Protein Isolado - Isofort,1048,Colágeno - Collagen Essential Protein,2.4589,True,False,2026-10-04
+679,Cálcio de Algas 1000mg,220,Próbiotico - Purabiotics,1.5406,True,False,2026-10-04
+679,Cálcio de Algas 1000mg,1045,True Cúrcuma,2.2236,True,False,2026-10-04
+679,Cálcio de Algas 1000mg,139,Refil Whey 100% Pure,2.3808,True,False,2026-10-04
+679,Cálcio de Algas 1000mg,140,Refil Whey 100% Pure,2.5909,True,False,2026-10-04
+679,Cálcio de Algas 1000mg,932,Suplemento Alimentar - Alpha Mater,2.6326,True,False,2026-10-04
+68,Omegafor Plus,402,Probiótico - Simfort Plus,1.1513,True,True,2026-10-04
+68,Omegafor Plus,939,Whey Protein Concentrado,1.4901,True,False,2026-10-04
+68,Omegafor Plus,936,Whey Protein Concentrado,1.5768,True,False,2026-10-04
+68,Omegafor Plus,434,Creatina - Creafort (Creapure),1.6094,True,True,2026-10-04
+68,Omegafor Plus,72,Ômega 3 EPA DHA,1.7635,True,True,2026-10-04
+680,Cranberry - She She Comfort,333,Aminoácidos - Aminnu EAAs,2.0523,True,False,2026-10-04
+680,Cranberry - She She Comfort,658,Cúrcuma - Curcumagic,2.0928,True,False,2026-10-04
+680,Cranberry - She She Comfort,1670,Tasty Whey 3W Gourmet,2.2109,True,False,2026-10-04
+680,Cranberry - She She Comfort,709,Resveratrol 500mg,2.3433,True,True,2026-10-04
+680,Cranberry - She She Comfort,424,Multivitaminico - Imunomult- 1000mg,2.3974,True,False,2026-10-04
+681,Coenzima Q10,616,Vitamina - Good Mood,1.3019,True,False,2026-10-04
+681,Coenzima Q10,1212,Ômega 3 - Ultra Caps 1000mg,1.439,True,False,2026-10-04
+681,Coenzima Q10,1107,Melatonina Duo Harmony,1.5271,True,False,2026-10-04
+681,Coenzima Q10,1132,Ferro - Ydrosolv,1.6111,True,False,2026-10-04
+681,Coenzima Q10,1093,Colágeno - Collagen Renew Hidrolisado,1.6415,True,False,2026-10-04
+685,Creatina Monohidratada,908,Vitamina D3 + K2,1.5338,True,False,2026-10-04
+685,Creatina Monohidratada,69,Omegafor Plus,1.5546,True,False,2026-10-04
+685,Creatina Monohidratada,397,Vitamina D - Vita D3,1.7174,True,False,2026-10-04
+685,Creatina Monohidratada,394,Ômega 3 - Omegafor Memory,2.1124,True,False,2026-10-04
+685,Creatina Monohidratada,1092,Creatina 100%,2.1919,True,False,2026-10-04
+687,Ômega 3 DHA,331,Aminoácidos - Aminnu EAAs,2.0655,True,False,2026-10-04
+687,Ômega 3 DHA,487,Glutamina Isolates,2.152,True,False,2026-10-04
+687,Ômega 3 DHA,1158,Refil Whey Concentrado - W100,2.2373,True,False,2026-10-04
+687,Ômega 3 DHA,1108,Suplemento Alimentar - L-teanina - Happy Theanine,2.3051,True,False,2026-10-04
+687,Ômega 3 DHA,983,BT Nitrato,2.3209,True,False,2026-10-04
+688,Glutamina,374,Palatinose,1.8513,True,False,2026-10-04
+688,Glutamina,619,Bio Zinco,1.9569,True,False,2026-10-04
+688,Glutamina,696,Prebiótico,1.965,True,True,2026-10-04
+688,Glutamina,698,Shot Matinal,2.1053,True,True,2026-10-04
+688,Glutamina,1097,Creatina 100%,2.2252,True,False,2026-10-04
+689,Pré-Treino,393,Colágeno - Colagentek,1.6972,True,False,2026-10-04
+689,Pré-Treino,712,Suplemento Alimentar - Green Shot,1.752,True,True,2026-10-04
+689,Pré-Treino,715,Suplemento Alimentar - Slim Body 400mg,1.8771,True,True,2026-10-04
+689,Pré-Treino,454,Whey Tech 100%,1.9264,True,False,2026-10-04
+689,Pré-Treino,391,Beta Alanina,1.941,True,False,2026-10-04
+69,Omegafor Plus,908,Vitamina D3 + K2,1.4139,True,True,2026-10-04
+69,Omegafor Plus,685,Creatina Monohidratada,1.5546,True,False,2026-10-04
+69,Omegafor Plus,397,Vitamina D - Vita D3,1.6633,True,True,2026-10-04
+69,Omegafor Plus,373,Resveratrol Plus - 165mg,1.8021,True,True,2026-10-04
+69,Omegafor Plus,394,Ômega 3 - Omegafor Memory,1.8436,True,True,2026-10-04
+690,Vitamina B12,424,Multivitaminico - Imunomult- 1000mg,2.4145,True,False,2026-10-04
+690,Vitamina B12,397,Vitamina D - Vita D3,2.5255,True,False,2026-10-04
+690,Vitamina B12,685,Creatina Monohidratada,2.5634,True,True,2026-10-04
+690,Vitamina B12,394,Ômega 3 - Omegafor Memory,2.6711,True,False,2026-10-04
+690,Vitamina B12,707,Vitamina B12,2.6984,True,True,2026-10-04
+691,Cúrcuma 500mg,1326,Própolis - Green Própolis,1.8802,True,False,2026-10-04
+691,Cúrcuma 500mg,905,Proteína - Isocrisp Plant Pouch,1.89,True,False,2026-10-04
+691,Cúrcuma 500mg,60,Creatina Premium - Creapure,2.0054,True,False,2026-10-04
+691,Cúrcuma 500mg,1711,Simfort Ultra,2.026,True,False,2026-10-04
+691,Cúrcuma 500mg,592,Vitamina D3 + K2 Gotas,2.0374,True,False,2026-10-04
+692,Magnésio Plus 900mg,382,Magnésio Plus - 350mg,2.7162,True,False,2026-10-04
+692,Magnésio Plus 900mg,1215,Ômega 3 - EPA DHA - 1000mg,2.8285,True,False,2026-10-04
+692,Magnésio Plus 900mg,41,Whey,3.0173,True,False,2026-10-04
+692,Magnésio Plus 900mg,1063,Nitro 400,3.5634,True,False,2026-10-04
+692,Magnésio Plus 900mg,214,Colágeno - Collagen Gut,3.7792,True,False,2026-10-04
+693,Vitamina C + Zinco - Gomas,379,Aminoácido - Aminovita,1.6851,True,False,2026-10-04
+693,Vitamina C + Zinco - Gomas,900,Barrinha de Proteína,2.326,True,False,2026-10-04
+693,Vitamina C + Zinco - Gomas,707,Vitamina B12,2.4435,True,True,2026-10-04
+693,Vitamina C + Zinco - Gomas,536,Creatina Monohidratada,2.4474,True,False,2026-10-04
+693,Vitamina C + Zinco - Gomas,393,Colágeno - Colagentek,2.4494,True,False,2026-10-04
+694,Complexo B 500mg,400,Vitamina D - Vita D3 + C + Zinco,1.8329,True,False,2026-10-04
+694,Complexo B 500mg,459,SuperCoffee,2.0767,True,False,2026-10-04
+694,Complexo B 500mg,330,Termogênico - Lipix6,2.2295,True,False,2026-10-04
+694,Complexo B 500mg,442,Colágeno - Colagentek,2.261,True,False,2026-10-04
+694,Complexo B 500mg,426,Whey Protein Crisp - Isocrisp,2.3893,True,False,2026-10-04
+695,NAC 650mg,700,Extrato de Laranja Moro 400mg,3.7139,True,True,2026-10-04
+695,NAC 650mg,550,Suplemento de Magnésio - Blue Calm,3.7381,True,False,2026-10-04
+695,NAC 650mg,1020,Pasta de Amendoim,3.7988,True,False,2026-10-04
+695,NAC 650mg,1659,Magnésio Inositol,3.8213,True,False,2026-10-04
+695,NAC 650mg,1328,Fibras Prébioticas - Prebiotic,4.0272,True,False,2026-10-04
+696,Prebiótico,481,BT Nitrato 400,1.5607,True,False,2026-10-04
+696,Prebiótico,1109,Glutamina,1.716,True,False,2026-10-04
+696,Prebiótico,950,Fresh Whey,1.7533,True,False,2026-10-04
+696,Prebiótico,428,Isofort Plant (Life Vegan),1.8962,True,False,2026-10-04
+696,Prebiótico,139,Refil Whey 100% Pure,1.9373,True,False,2026-10-04
+697,Ferro Quelato + Vitamina C,704,Psyllium,0.9822,True,True,2026-10-04
+697,Ferro Quelato + Vitamina C,407,Beta Alanina,1.188,True,False,2026-10-04
+697,Ferro Quelato + Vitamina C,907,Vitamina B12,1.2041,True,False,2026-10-04
+697,Ferro Quelato + Vitamina C,433,Cúrcuma Plus,1.2957,True,False,2026-10-04
+697,Ferro Quelato + Vitamina C,451,Coenzima Q10 - (100mg p/ porção),1.4056,True,False,2026-10-04
+698,Shot Matinal,374,Palatinose,1.3065,True,False,2026-10-04
+698,Shot Matinal,1408,Coenzima Q10 200mg,1.5265,True,False,2026-10-04
+698,Shot Matinal,651,Colágeno - Collagen Protein Hidrolisado,1.5272,True,False,2026-10-04
+698,Shot Matinal,905,Proteína - Isocrisp Plant Pouch,1.5816,True,False,2026-10-04
+698,Shot Matinal,1105,Aminoácidos - Aminolift,1.6098,True,False,2026-10-04
+699,Feno Grego + Boro 500mg,459,SuperCoffee,1.9262,True,False,2026-10-04
+699,Feno Grego + Boro 500mg,1063,Nitro 400,2.045,True,False,2026-10-04
+699,Feno Grego + Boro 500mg,342,Whey Fort 3W,2.4648,True,False,2026-10-04
+699,Feno Grego + Boro 500mg,442,Colágeno - Colagentek,2.5309,True,False,2026-10-04
+699,Feno Grego + Boro 500mg,694,Complexo B 500mg,2.5472,True,True,2026-10-04
+70,Omegafor Vision,386,L-Carnitina 530mg,1.602,True,True,2026-10-04
+70,Omegafor Vision,1045,True Cúrcuma,1.7108,True,False,2026-10-04
+70,Omegafor Vision,783,Creatina,1.7268,True,False,2026-10-04
+70,Omegafor Vision,599,Creatina,1.8612,True,False,2026-10-04
+70,Omegafor Vision,405,L-Taurina - 1.000mg,1.9179,True,True,2026-10-04
+700,Extrato de Laranja Moro 400mg,444,Colágeno - Colagentek,2.6476,True,False,2026-10-04
+700,Extrato de Laranja Moro 400mg,422,Glutamina - Glutamax Refil,2.8091,True,False,2026-10-04
+700,Extrato de Laranja Moro 400mg,714,Matchá - Chá Verde em Pó,3.0058,True,True,2026-10-04
+700,Extrato de Laranja Moro 400mg,1020,Pasta de Amendoim,3.06,True,False,2026-10-04
+700,Extrato de Laranja Moro 400mg,1060,Beef Protein,3.0832,True,False,2026-10-04
+704,Psyllium,697,Ferro Quelato + Vitamina C,0.9822,True,True,2026-10-04
+704,Psyllium,407,Beta Alanina,1.3445,True,False,2026-10-04
+704,Psyllium,1092,Creatina 100%,1.362,True,False,2026-10-04
+704,Psyllium,433,Cúrcuma Plus,1.3898,True,False,2026-10-04
+704,Psyllium,401,Simfort fibras,1.3986,True,False,2026-10-04
+705,Melatonina,1408,Coenzima Q10 200mg,1.6001,True,False,2026-10-04
+705,Melatonina,1044,Própolis Trio,1.7351,True,False,2026-10-04
+705,Melatonina,698,Shot Matinal,1.8402,True,True,2026-10-04
+705,Melatonina,1072,Pasta de Amendoim Granulado,1.9076,True,False,2026-10-04
+705,Melatonina,1227,Body Protein Vegano,2.0598,True,False,2026-10-04
+706,Vitamina D3 + K2,141,Creatina Monohidratada,2.3209,True,False,2026-10-04
+706,Vitamina D3 + K2,1238,Suplemento de Magnésio - Blue Calm,2.9767,True,False,2026-10-04
+706,Vitamina D3 + K2,1119,Própolis Verde - Alcoólico,3.0722,True,False,2026-10-04
+706,Vitamina D3 + K2,409,Melatonina - Sleepfor,3.1873,True,False,2026-10-04
+706,Vitamina D3 + K2,589,Whey Tech 100%,3.203,True,False,2026-10-04
+707,Vitamina B12,663,Vitamina C - Bio Vit C+,1.4924,True,False,2026-10-04
+707,Vitamina B12,368,Probiótico - Simcaps,1.5707,True,False,2026-10-04
+707,Vitamina B12,393,Colágeno - Colagentek,1.7283,True,False,2026-10-04
+707,Vitamina B12,1214,Ômega 3 - EPA DHA - 1000mg,1.7337,True,False,2026-10-04
+707,Vitamina B12,806,Óleo de Prímula - 500mg,2.0007,True,False,2026-10-04
+709,Resveratrol 500mg,1214,Ômega 3 - EPA DHA - 1000mg,1.2333,True,False,2026-10-04
+709,Resveratrol 500mg,1117,Própolis Verde - Propomax,2.0781,True,False,2026-10-04
+709,Resveratrol 500mg,658,Cúrcuma - Curcumagic,2.1911,True,False,2026-10-04
+709,Resveratrol 500mg,939,Whey Protein Concentrado,2.2336,True,False,2026-10-04
+709,Resveratrol 500mg,394,Ômega 3 - Omegafor Memory,2.2456,True,False,2026-10-04
+71,Creatina Monohidratada - Creatine,395,Vitamina D - Vita D3,1.893,True,True,2026-10-04
+71,Creatina Monohidratada - Creatine,399,Vitamina D - Vita D3 + C + Zinco,1.9324,True,True,2026-10-04
+71,Creatina Monohidratada - Creatine,558,Palatinose,1.9918,True,False,2026-10-04
+71,Creatina Monohidratada - Creatine,434,Creatina - Creafort (Creapure),1.9966,True,True,2026-10-04
+71,Creatina Monohidratada - Creatine,397,Vitamina D - Vita D3,2.3446,True,True,2026-10-04
+711,Trio Magnésio 720mg,396,"Boraprim - Borragem, Prímula e Gergelim",1.5366,True,False,2026-10-04
+711,Trio Magnésio 720mg,638,Beta Alanina 100%,1.602,True,False,2026-10-04
+711,Trio Magnésio 720mg,782,Morning Shot - Imunidade,1.7984,True,False,2026-10-04
+711,Trio Magnésio 720mg,1200,Whey Protein - Isofort Beauty,1.8363,True,False,2026-10-04
+711,Trio Magnésio 720mg,448,Coenzima Q10 (200mg p/ porção),1.9102,True,False,2026-10-04
+712,Suplemento Alimentar - Green Shot,393,Colágeno - Colagentek,1.6561,True,False,2026-10-04
+712,Suplemento Alimentar - Green Shot,689,Pré-Treino,1.752,True,True,2026-10-04
+712,Suplemento Alimentar - Green Shot,365,Probióticos em Pó - Simfort,2.0732,True,False,2026-10-04
+712,Suplemento Alimentar - Green Shot,715,Suplemento Alimentar - Slim Body 400mg,2.0792,True,True,2026-10-04
+712,Suplemento Alimentar - Green Shot,401,Simfort fibras,2.0839,True,False,2026-10-04
+714,Matchá - Chá Verde em Pó,1237,Vitamina B9 - Ácido Fólico,1.9563,True,False,2026-10-04
+714,Matchá - Chá Verde em Pó,444,Colágeno - Colagentek,2.022,True,False,2026-10-04
+714,Matchá - Chá Verde em Pó,410,Enzimas Enzyfor,2.1767,True,False,2026-10-04
+714,Matchá - Chá Verde em Pó,910,100% Whey Pure,2.32,True,False,2026-10-04
+714,Matchá - Chá Verde em Pó,1475,Suplemento de Magnésio - Blue Calm,2.4124,True,False,2026-10-04
+715,Suplemento Alimentar - Slim Body 400mg,689,Pré-Treino,1.8771,True,True,2026-10-04
+715,Suplemento Alimentar - Slim Body 400mg,712,Suplemento Alimentar - Green Shot,2.0792,True,True,2026-10-04
+715,Suplemento Alimentar - Slim Body 400mg,1219,Beef Protein,2.1302,True,False,2026-10-04
+715,Suplemento Alimentar - Slim Body 400mg,1415,Fresh Whey,2.1849,True,False,2026-10-04
+715,Suplemento Alimentar - Slim Body 400mg,454,Whey Tech 100%,2.2623,True,False,2026-10-04
+72,Ômega 3 EPA DHA,938,Whey Protein Concentrado,1.1822,True,False,2026-10-04
+72,Ômega 3 EPA DHA,635,Ômega 3 - 1360mg,1.5187,True,False,2026-10-04
+72,Ômega 3 EPA DHA,2,Whey Protein Concentrado,1.7361,True,False,2026-10-04
+72,Ômega 3 EPA DHA,76,Ômega - Mega DHA,1.7362,True,True,2026-10-04
+72,Ômega 3 EPA DHA,68,Omegafor Plus,1.7635,True,True,2026-10-04
+726,Termogênico - Lipix6,1760,True Cúrcuma com Ômega,1.6117,True,False,2026-10-04
+726,Termogênico - Lipix6,614,Vitamina B12,2.0713,True,False,2026-10-04
+726,Termogênico - Lipix6,1326,Própolis - Green Própolis,2.4091,True,False,2026-10-04
+726,Termogênico - Lipix6,592,Vitamina D3 + K2 Gotas,2.4957,True,False,2026-10-04
+726,Termogênico - Lipix6,1204,Vitamina D3,2.5663,True,False,2026-10-04
+73,Whey Protein Isolado - Isofort,652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,1.8195,True,False,2026-10-04
+73,Whey Protein Isolado - Isofort,214,Colágeno - Collagen Gut,2.0254,True,False,2026-10-04
+73,Whey Protein Isolado - Isofort,599,Creatina,2.1394,True,False,2026-10-04
+73,Whey Protein Isolado - Isofort,520,Proteína Isolada e Hidrolisada - Body Protein,2.2652,True,False,2026-10-04
+73,Whey Protein Isolado - Isofort,341,Whey Fort 3W,2.3114,True,True,2026-10-04
+74,Whey Protein Isolado - Isofort,67,Whey Protein Isolado - Isofort,2.0441,True,True,2026-10-04
+74,Whey Protein Isolado - Isofort,1341,Fresh Whey,2.0684,True,False,2026-10-04
+74,Whey Protein Isolado - Isofort,138,Refil Whey 100% Pure,2.3258,True,False,2026-10-04
+74,Whey Protein Isolado - Isofort,376,Ômega 3 EPA DHA,2.4185,True,True,2026-10-04
+74,Whey Protein Isolado - Isofort,166,Whey Fort 3W,2.5432,True,True,2026-10-04
+75,Ômega -  Mega DHA,917,Bio Cálcio  60 caps PURAVIDA,1.5609,True,False,2026-10-04
+75,Ômega -  Mega DHA,1239,Suplemento de Magnésio - Blue Calm,1.6506,True,False,2026-10-04
+75,Ômega -  Mega DHA,1252,Super Ômega 3,1.7515,True,False,2026-10-04
+75,Ômega -  Mega DHA,401,Simfort fibras,1.8081,True,True,2026-10-04
+75,Ômega -  Mega DHA,412,Própolis Líquido - Gotas,1.8787,True,True,2026-10-04
+753,Chocolate 70% Cacau,1930,Expresso Whey - Sachê,3.0801,True,False,2026-10-04
+753,Chocolate 70% Cacau,138,Refil Whey 100% Pure,3.2633,True,False,2026-10-04
+753,Chocolate 70% Cacau,1486,Whey Concentrado - W100,3.4722,True,False,2026-10-04
+753,Chocolate 70% Cacau,859,Fresh Whey,3.541,True,False,2026-10-04
+753,Chocolate 70% Cacau,371,Probiótico - Simcaps,3.7551,True,False,2026-10-04
+754,Barra Chocolate 70%,910,100% Whey Pure,3.555,True,False,2026-10-04
+754,Barra Chocolate 70%,837,Tablete de Doce,3.6711,True,False,2026-10-04
+754,Barra Chocolate 70%,550,Suplemento de Magnésio - Blue Calm,3.7341,True,False,2026-10-04
+754,Barra Chocolate 70%,714,Matchá - Chá Verde em Pó,3.9131,True,False,2026-10-04
+754,Barra Chocolate 70%,528,Achocolatado - Choco Family - Refil,4.0225,True,False,2026-10-04
+756,Gel Nitrato,1143,Granola - Zero Açúcar,2.1573,True,False,2026-10-04
+756,Gel Nitrato,806,Óleo de Prímula - 500mg,2.1622,True,False,2026-10-04
+756,Gel Nitrato,1347,Complexo B - Bio Vit.B+,2.1986,True,False,2026-10-04
+756,Gel Nitrato,707,Vitamina B12,2.2806,True,False,2026-10-04
+756,Gel Nitrato,1119,Própolis Verde - Alcoólico,2.6135,True,False,2026-10-04
+76,Ômega - Mega DHA,58,Ômega 3 Super DHA,1.3115,True,False,2026-10-04
+76,Ômega - Mega DHA,209,Colágeno Hidrolisado - Collagen Pro 18g,1.367,True,False,2026-10-04
+76,Ômega - Mega DHA,782,Morning Shot - Imunidade,1.5323,True,False,2026-10-04
+76,Ômega - Mega DHA,449,Coenzima Q10 (200mg p/ porção),1.5622,True,True,2026-10-04
+76,Ômega - Mega DHA,2,Whey Protein Concentrado,1.6517,True,False,2026-10-04
+77,Ômega 3 EPA DHA,617,Coenzima  Q10 - 100mg,2.1604,True,False,2026-10-04
+77,Ômega 3 EPA DHA,399,Vitamina D - Vita D3 + C + Zinco,2.3199,True,True,2026-10-04
+77,Ômega 3 EPA DHA,409,Melatonina - Sleepfor,2.3951,True,True,2026-10-04
+77,Ômega 3 EPA DHA,1119,Própolis Verde - Alcoólico,2.4188,True,False,2026-10-04
+77,Ômega 3 EPA DHA,141,Creatina Monohidratada,2.461,True,False,2026-10-04
+781,Morning Shot - Imunidade,208,Colágeno Hidrolisado - Collagen Pro 18g,1.8676,True,False,2026-10-04
+781,Morning Shot - Imunidade,658,Cúrcuma - Curcumagic,2.0848,True,False,2026-10-04
+781,Morning Shot - Imunidade,422,Glutamina - Glutamax Refil,2.0902,True,False,2026-10-04
+781,Morning Shot - Imunidade,31,Super Ômega 3,2.1014,True,False,2026-10-04
+781,Morning Shot - Imunidade,939,Whey Protein Concentrado,2.1926,True,False,2026-10-04
+782,Morning Shot - Imunidade,58,Ômega 3 Super DHA,1.0623,True,False,2026-10-04
+782,Morning Shot - Imunidade,449,Coenzima Q10 (200mg p/ porção),1.1252,True,False,2026-10-04
+782,Morning Shot - Imunidade,1250,NAC + Glycine + Taurine,1.3852,True,False,2026-10-04
+782,Morning Shot - Imunidade,1096,Colágeno - Collagen Renew Hidrolisado,1.5031,True,False,2026-10-04
+782,Morning Shot - Imunidade,620,Magnésio Quelato - Bio Mag,1.5187,True,False,2026-10-04
+783,Creatina,70,Omegafor Vision,1.7268,True,False,2026-10-04
+783,Creatina,405,L-Taurina - 1.000mg,1.736,True,False,2026-10-04
+783,Creatina,220,Próbiotico - Purabiotics,1.8634,True,False,2026-10-04
+783,Creatina,1067,Melatonina,1.873,True,False,2026-10-04
+783,Creatina,386,L-Carnitina 530mg,1.8734,True,False,2026-10-04
+79,Whey Protein Isolado - Isofort,531,Multivitamínico - Vitalift,1.986,True,False,2026-10-04
+79,Whey Protein Isolado - Isofort,39,Proteína Vegana - Immuno Veggie,2.1394,True,False,2026-10-04
+79,Whey Protein Isolado - Isofort,1157,Refil Whey Concentrado - W100,2.2173,True,False,2026-10-04
+79,Whey Protein Isolado - Isofort,1200,Whey Protein - Isofort Beauty,2.2711,True,True,2026-10-04
+79,Whey Protein Isolado - Isofort,942,Whey Protein Isolado,2.3077,True,False,2026-10-04
+794,Vitamina D3 - 2000 Ui,871,Creatina - Creafort (Creapure),2.4493,True,False,2026-10-04
+794,Vitamina D3 - 2000 Ui,1111,Suplemento Alimentar - True Nac,2.5655,True,False,2026-10-04
+794,Vitamina D3 - 2000 Ui,690,Vitamina B12,2.8869,True,False,2026-10-04
+794,Vitamina D3 - 2000 Ui,138,Refil Whey 100% Pure,3.0585,True,False,2026-10-04
+794,Vitamina D3 - 2000 Ui,371,Probiótico - Simcaps,3.1487,True,False,2026-10-04
+800,Sleep,807,Biotina Plus,1.5686,True,False,2026-10-04
+800,Sleep,480,BT Nitrato 400,2.0073,True,False,2026-10-04
+800,Sleep,112,Gold Whey Concentrado Refil,2.0904,True,False,2026-10-04
+800,Sleep,1326,Própolis - Green Própolis,2.1064,True,False,2026-10-04
+800,Sleep,1108,Suplemento Alimentar - L-teanina - Happy Theanine,2.1163,True,False,2026-10-04
+801,Psyllium,374,Palatinose,1.3055,True,False,2026-10-04
+801,Psyllium,549,Achocolatado - Chocoki,1.6748,True,False,2026-10-04
+801,Psyllium,647,Glutamina em Pó,1.8208,True,False,2026-10-04
+801,Psyllium,455,Morning Shot - Imunidade,1.8373,True,False,2026-10-04
+801,Psyllium,83,Creatina,1.8867,True,False,2026-10-04
+806,Óleo de Prímula - 500mg,1347,Complexo B - Bio Vit.B+,1.9519,True,False,2026-10-04
+806,Óleo de Prímula - 500mg,707,Vitamina B12,2.0007,True,False,2026-10-04
+806,Óleo de Prímula - 500mg,1237,Vitamina B9 - Ácido Fólico,2.1112,True,False,2026-10-04
+806,Óleo de Prímula - 500mg,952,Feno Grego,2.1501,True,True,2026-10-04
+806,Óleo de Prímula - 500mg,756,Gel Nitrato,2.1622,True,False,2026-10-04
+807,Biotina Plus,800,Sleep,1.5686,True,False,2026-10-04
+807,Biotina Plus,992,Melatonina Fast,1.8205,True,False,2026-10-04
+807,Biotina Plus,480,BT Nitrato 400,2.0665,True,False,2026-10-04
+807,Biotina Plus,598,Glutamina em Pó,2.273,True,False,2026-10-04
+807,Biotina Plus,614,Vitamina B12,2.2764,True,False,2026-10-04
+811,Cromo Picolinato - 250mg,406,Glutamina - Glutamax,1.9598,True,False,2026-10-04
+811,Cromo Picolinato - 250mg,614,Vitamina B12,2.1523,True,False,2026-10-04
+811,Cromo Picolinato - 250mg,1093,Colágeno - Collagen Renew Hidrolisado,2.2632,True,False,2026-10-04
+811,Cromo Picolinato - 250mg,1119,Própolis Verde - Alcoólico,2.3921,True,False,2026-10-04
+811,Cromo Picolinato - 250mg,416,Cúrcuma Plus,2.4797,True,False,2026-10-04
+82,Creatina 100% Pure,1499,Ômega 3,4.8007,True,True,2026-10-04
+82,Creatina 100% Pure,1970,Snack Proteico,4.8778,True,False,2026-10-04
+82,Creatina 100% Pure,1968,Snack Proteico,5.1145,True,False,2026-10-04
+82,Creatina 100% Pure,1853,NAC PRO,6.295,True,False,2026-10-04
+82,Creatina 100% Pure,1969,Snack Proteico,7.1545,True,False,2026-10-04
+83,Creatina,1097,Creatina 100%,0.9926,True,False,2026-10-04
+83,Creatina,1052,Colágeno - Collagen Essential Protein,1.5559,True,False,2026-10-04
+83,Creatina,902,Termogênico - Termo Plus,1.6889,True,False,2026-10-04
+83,Creatina,1252,Super Ômega 3,1.7629,True,False,2026-10-04
+83,Creatina,862,Fresh Whey,1.7954,True,False,2026-10-04
+835,Tablete de Doce,1941,Whey 3W -  Sachê,2.9906,True,False,2026-10-04
+835,Tablete de Doce,1942,Whey 3W -  Sachê,3.0119,True,False,2026-10-04
+835,Tablete de Doce,988,Gel Nitrato,3.2076,True,False,2026-10-04
+835,Tablete de Doce,1917,Whey Protein Isolado - Sachê,3.3944,True,False,2026-10-04
+835,Tablete de Doce,1327,Glutamina,3.5967,True,False,2026-10-04
+837,Tablete de Doce,1897,Eletrólitos,3.0479,True,False,2026-10-04
+837,Tablete de Doce,899,Barrinha de Proteína,3.5062,True,False,2026-10-04
+837,Tablete de Doce,754,Barra Chocolate 70%,3.6711,True,False,2026-10-04
+837,Tablete de Doce,1920,FreshWhey - Sachê,3.7557,True,False,2026-10-04
+837,Tablete de Doce,1910,Whey Protein Isolado - Sachê,4.1812,True,False,2026-10-04
+84,Whey hidrolisado e isolado,1112,Whey Isolado - Isofort Ultra Imuno,2.1455,True,False,2026-10-04
+84,Whey hidrolisado e isolado,107,Tasty Whey 3W Gourmet,2.1857,True,False,2026-10-04
+84,Whey hidrolisado e isolado,1572,Termogênico - Termo Plus,2.3268,True,False,2026-10-04
+84,Whey hidrolisado e isolado,1048,Colágeno - Collagen Essential Protein,2.4596,True,False,2026-10-04
+84,Whey hidrolisado e isolado,1459,Coenzima Q10+ 200mg,2.5207,True,False,2026-10-04
+85,Whey hidrolisado e isolado,987,Magnésio - Inositol Relief 3.0,1.8687,True,True,2026-10-04
+85,Whey hidrolisado e isolado,87,Whey hidrolisado e isolado,2.0719,True,True,2026-10-04
+85,Whey hidrolisado e isolado,465,SuperCoffee,2.3134,True,False,2026-10-04
+85,Whey hidrolisado e isolado,208,Colágeno Hidrolisado - Collagen Pro 18g,2.3282,True,False,2026-10-04
+85,Whey hidrolisado e isolado,333,Aminoácidos - Aminnu EAAs,2.5689,True,False,2026-10-04
+858,Fresh Whey,168,100% Whey Pure,1.9481,True,False,2026-10-04
+858,Fresh Whey,33,Whey,1.9805,True,False,2026-10-04
+858,Fresh Whey,32,Super Ômega 3,2.0554,True,False,2026-10-04
+858,Fresh Whey,1415,Fresh Whey,2.2032,True,True,2026-10-04
+858,Fresh Whey,1219,Beef Protein,2.3846,True,False,2026-10-04
+859,Fresh Whey,1486,Whey Concentrado - W100,2.2375,True,False,2026-10-04
+859,Fresh Whey,871,Creatina - Creafort (Creapure),2.6938,True,False,2026-10-04
+859,Fresh Whey,138,Refil Whey 100% Pure,3.1483,True,False,2026-10-04
+859,Fresh Whey,74,Whey Protein Isolado - Isofort,3.1965,True,False,2026-10-04
+859,Fresh Whey,67,Whey Protein Isolado - Isofort,3.3202,True,False,2026-10-04
+86,Whey hidrolisado e isolado,1528,Prebiótico - Fiber Liv,3.6764,True,False,2026-10-04
+86,Whey hidrolisado e isolado,1240,Palatinose,3.8089,True,False,2026-10-04
+86,Whey hidrolisado e isolado,1129,Coenzima Q10,3.8953,True,False,2026-10-04
+86,Whey hidrolisado e isolado,113,Gold Whey Concentrado Refil,3.9693,True,False,2026-10-04
+86,Whey hidrolisado e isolado,613,Multivitaminico  - Imunomult- 1000mg,4.192,True,False,2026-10-04
+860,Fresh Whey,519,Proteína Isolada e Hidrolisada - Body Protein,1.5955,True,False,2026-10-04
+860,Fresh Whey,908,Vitamina D3 + K2,1.7964,True,False,2026-10-04
+860,Fresh Whey,450,Coenzima Q10  (200mg p/ porção),1.8058,True,False,2026-10-04
+860,Fresh Whey,486,Creatina Monohidratada,1.9555,True,True,2026-10-04
+860,Fresh Whey,427,Isofort Plant (Life Vegan),2.1623,True,False,2026-10-04
+861,Fresh Whey,523,Proteína Isolada e Hidrolisada - Body Protein Red,1.4554,True,False,2026-10-04
+861,Fresh Whey,457,SuperCoffee,1.6816,True,False,2026-10-04
+861,Fresh Whey,1114,Fresh Vegan,1.8987,True,True,2026-10-04
+861,Fresh Whey,1093,Colágeno - Collagen Renew Hidrolisado,1.9057,True,False,2026-10-04
+861,Fresh Whey,422,Glutamina - Glutamax Refil,1.952,True,False,2026-10-04
+862,Fresh Whey,1251,Colágeno -  Collagen Gut,1.095,True,False,2026-10-04
+862,Fresh Whey,1052,Colágeno - Collagen Essential Protein,1.7471,True,False,2026-10-04
+862,Fresh Whey,83,Creatina,1.7954,True,False,2026-10-04
+862,Fresh Whey,549,Achocolatado - Chocoki,2.0159,True,False,2026-10-04
+862,Fresh Whey,1201,Whey Protein - Isofort Beauty,2.0889,True,False,2026-10-04
+87,Whey hidrolisado e isolado,394,Ômega 3 - Omegafor Memory,1.8549,True,False,2026-10-04
+87,Whey hidrolisado e isolado,1872,Whey Protein Isolado,1.95,True,False,2026-10-04
+87,Whey hidrolisado e isolado,465,SuperCoffee,1.9648,True,False,2026-10-04
+87,Whey hidrolisado e isolado,85,Whey hidrolisado e isolado,2.0719,True,True,2026-10-04
+87,Whey hidrolisado e isolado,1452,Colágeno - Colagentek Protein - Bodybalance,2.104,True,False,2026-10-04
+871,Creatina - Creafort (Creapure),794,Vitamina D3 - 2000 Ui,2.4493,True,False,2026-10-04
+871,Creatina - Creafort (Creapure),74,Whey Protein Isolado - Isofort,2.5735,True,True,2026-10-04
+871,Creatina - Creafort (Creapure),859,Fresh Whey,2.6938,True,False,2026-10-04
+871,Creatina - Creafort (Creapure),138,Refil Whey 100% Pure,2.7772,True,False,2026-10-04
+871,Creatina - Creafort (Creapure),587,Whey Tech 100%,2.9605,True,False,2026-10-04
+89,Whey hidrolisado e isolado Creme Broule 837g TRUE SOURCE,531,Multivitamínico - Vitalift,2.4602,True,False,2026-10-04
+89,Whey hidrolisado e isolado Creme Broule 837g TRUE SOURCE,1131,Vitamina B12,2.616,True,False,2026-10-04
+89,Whey hidrolisado e isolado Creme Broule 837g TRUE SOURCE,1044,Própolis Trio,2.6438,True,True,2026-10-04
+89,Whey hidrolisado e isolado Creme Broule 837g TRUE SOURCE,1408,Coenzima Q10 200mg,2.7235,True,False,2026-10-04
+89,Whey hidrolisado e isolado Creme Broule 837g TRUE SOURCE,1050,Colágeno - Collagen Essential Protein,2.7472,True,False,2026-10-04
+899,Barrinha de Proteína,900,Barrinha de Proteína,2.2186,True,True,2026-10-04
+899,Barrinha de Proteína,709,Resveratrol 500mg,2.586,True,False,2026-10-04
+899,Barrinha de Proteína,693,Vitamina C + Zinco - Gomas,2.716,True,False,2026-10-04
+899,Barrinha de Proteína,1117,Própolis Verde - Propomax,2.7282,True,False,2026-10-04
+899,Barrinha de Proteína,1214,Ômega 3 - EPA DHA - 1000mg,2.8814,True,False,2026-10-04
+900,Barrinha de Proteína,899,Barrinha de Proteína,2.2186,True,True,2026-10-04
+900,Barrinha de Proteína,707,Vitamina B12,2.3084,True,False,2026-10-04
+900,Barrinha de Proteína,693,Vitamina C + Zinco - Gomas,2.326,True,False,2026-10-04
+900,Barrinha de Proteína,685,Creatina Monohidratada,2.7015,True,False,2026-10-04
+900,Barrinha de Proteína,1117,Própolis Verde - Propomax,2.765,True,False,2026-10-04
+901,Barrinha de Proteína,1910,Whey Protein Isolado - Sachê,2.9098,True,True,2026-10-04
+901,Barrinha de Proteína,369,Coenzima Q10 - 200mg,3.2507,True,False,2026-10-04
+901,Barrinha de Proteína,1920,FreshWhey - Sachê,3.31,True,True,2026-10-04
+901,Barrinha de Proteína,992,Melatonina Fast,3.3395,True,False,2026-10-04
+901,Barrinha de Proteína,794,Vitamina D3 - 2000 Ui,3.4929,True,False,2026-10-04
+902,Termogênico - Termo Plus,455,Morning Shot - Imunidade,1.251,True,False,2026-10-04
+902,Termogênico - Termo Plus,520,Proteína Isolada e Hidrolisada - Body Protein,1.5728,True,False,2026-10-04
+902,Termogênico - Termo Plus,651,Colágeno - Collagen Protein Hidrolisado,1.6752,True,False,2026-10-04
+902,Termogênico - Termo Plus,330,Termogênico - Lipix6,1.6806,True,True,2026-10-04
+902,Termogênico - Termo Plus,83,Creatina,1.6889,True,False,2026-10-04
+905,Proteína - Isocrisp Plant Pouch,1326,Própolis - Green Própolis,1.402,True,False,2026-10-04
+905,Proteína - Isocrisp Plant Pouch,1711,Simfort Ultra,1.5597,True,True,2026-10-04
+905,Proteína - Isocrisp Plant Pouch,698,Shot Matinal,1.5816,True,False,2026-10-04
+905,Proteína - Isocrisp Plant Pouch,1449,Simfort Femme,1.7852,True,True,2026-10-04
+905,Proteína - Isocrisp Plant Pouch,374,Palatinose,1.7958,True,True,2026-10-04
+906,Whey - Isocrisp Pouch,925,Ômega 3 Super DHA - BIG N,2.5182,True,False,2026-10-04
+906,Whey - Isocrisp Pouch,691,Cúrcuma 500mg,2.9612,True,False,2026-10-04
+906,Whey - Isocrisp Pouch,416,Cúrcuma Plus,2.9757,True,True,2026-10-04
+906,Whey - Isocrisp Pouch,659,Colágeno - Collagen Protein Hidrolisado,2.9977,True,False,2026-10-04
+906,Whey - Isocrisp Pouch,915,Magnésio - Bio Trimag,3.1035,True,False,2026-10-04
+907,Vitamina B12,697,Ferro Quelato + Vitamina C,1.2041,True,False,2026-10-04
+907,Vitamina B12,412,Própolis Líquido - Gotas,1.2529,True,True,2026-10-04
+907,Vitamina B12,401,Simfort fibras,1.257,True,True,2026-10-04
+907,Vitamina B12,704,Psyllium,1.5194,True,False,2026-10-04
+907,Vitamina B12,407,Beta Alanina,1.8703,True,True,2026-10-04
+908,Vitamina D3 + K2,69,Omegafor Plus,1.4139,True,True,2026-10-04
+908,Vitamina D3 + K2,685,Creatina Monohidratada,1.5338,True,False,2026-10-04
+908,Vitamina D3 + K2,704,Psyllium,1.7833,True,False,2026-10-04
+908,Vitamina D3 + K2,860,Fresh Whey,1.7964,True,False,2026-10-04
+908,Vitamina D3 + K2,397,Vitamina D - Vita D3,1.8062,True,True,2026-10-04
+910,100% Whey Pure,550,Suplemento de Magnésio - Blue Calm,1.3388,True,False,2026-10-04
+910,100% Whey Pure,714,Matchá - Chá Verde em Pó,2.32,True,False,2026-10-04
+910,100% Whey Pure,1110,Pré-treino - Energyzer & focus,2.9599,True,False,2026-10-04
+910,100% Whey Pure,528,Achocolatado - Choco Family - Refil,2.9662,True,False,2026-10-04
+910,100% Whey Pure,1659,Magnésio Inositol,3.0037,True,False,2026-10-04
+914,Vitamina D3 Synergy,455,Morning Shot - Imunidade,1.6494,True,False,2026-10-04
+914,Vitamina D3 Synergy,652,Colágeno - Collagen Protein Hidrolisado Berries Silvestres 450g PURAVIDA,1.8884,True,True,2026-10-04
+914,Vitamina D3 Synergy,1215,Ômega 3 - EPA DHA - 1000mg,1.9146,True,False,2026-10-04
+914,Vitamina D3 Synergy,451,Coenzima Q10 - (100mg p/ porção),1.9506,True,False,2026-10-04
+914,Vitamina D3 Synergy,374,Palatinose,1.9823,True,False,2026-10-04
+915,Magnésio - Bio Trimag,925,Ômega 3 Super DHA - BIG N,2.3845,True,True,2026-10-04
+915,Magnésio - Bio Trimag,659,Colágeno - Collagen Protein Hidrolisado,2.6088,True,True,2026-10-04
+915,Magnésio - Bio Trimag,906,Whey - Isocrisp Pouch,3.1035,True,False,2026-10-04
+915,Magnésio - Bio Trimag,521,Proteína Isolada e Hidrolisada - Body Protein,3.5128,True,False,2026-10-04
+915,Magnésio - Bio Trimag,1065,Bio Vitamina B12 em gotas,3.5185,True,True,2026-10-04
+917,Bio Cálcio  60 caps PURAVIDA,412,Própolis Líquido - Gotas,1.3956,True,False,2026-10-04
+917,Bio Cálcio  60 caps PURAVIDA,1239,Suplemento de Magnésio - Blue Calm,1.4772,True,True,2026-10-04
+917,Bio Cálcio  60 caps PURAVIDA,75,Ômega -  Mega DHA,1.5609,True,False,2026-10-04
+917,Bio Cálcio  60 caps PURAVIDA,381,Aminoácido - Aminovita,1.6995,True,False,2026-10-04
+917,Bio Cálcio  60 caps PURAVIDA,1091,Cafeína,1.8012,True,False,2026-10-04
+925,Ômega 3 Super DHA - BIG N,659,Colágeno - Collagen Protein Hidrolisado,1.8054,True,True,2026-10-04
+925,Ômega 3 Super DHA - BIG N,915,Magnésio - Bio Trimag,2.3845,True,True,2026-10-04
+925,Ômega 3 Super DHA - BIG N,906,Whey - Isocrisp Pouch,2.5182,True,False,2026-10-04
+925,Ômega 3 Super DHA - BIG N,521,Proteína Isolada e Hidrolisada - Body Protein,3.3175,True,False,2026-10-04
+925,Ômega 3 Super DHA - BIG N,1056,Suplemento Alimentar - Pura Fiber,3.3495,True,True,2026-10-04
+926,Ômega 3 Super DHA BIG,945,Whey Isolado - Iso Triple Zero,1.1898,True,False,2026-10-04
+926,Ômega 3 Super DHA BIG,381,Aminoácido - Aminovita,1.7607,True,False,2026-10-04
+926,Ômega 3 Super DHA BIG,40,Whey,1.9783,True,False,2026-10-04
+926,Ômega 3 Super DHA BIG,1415,Fresh Whey,2.0297,True,False,2026-10-04
+926,Ômega 3 Super DHA BIG,4,Whey Protein Isolado,2.0532,True,False,2026-10-04
+932,Suplemento Alimentar - Alpha Mater,139,Refil Whey 100% Pure,1.1675,True,False,2026-10-04
+932,Suplemento Alimentar - Alpha Mater,330,Termogênico - Lipix6,1.7649,True,False,2026-10-04
+932,Suplemento Alimentar - Alpha Mater,220,Próbiotico - Purabiotics,1.7947,True,True,2026-10-04
+932,Suplemento Alimentar - Alpha Mater,1045,True Cúrcuma,1.9014,True,False,2026-10-04
+932,Suplemento Alimentar - Alpha Mater,1159,Refil Whey Concentrado Havanna - W100,1.9715,True,False,2026-10-04
+935,Whey Protein Concentrado,939,Whey Protein Concentrado,1.9533,True,True,2026-10-04
+935,Whey Protein Concentrado,1212,Ômega 3 - Ultra Caps 1000mg,1.9596,True,False,2026-10-04
+935,Whey Protein Concentrado,402,Probiótico - Simfort Plus,1.9668,True,False,2026-10-04
+935,Whey Protein Concentrado,434,Creatina - Creafort (Creapure),2.4225,True,False,2026-10-04
+935,Whey Protein Concentrado,519,Proteína Isolada e Hidrolisada - Body Protein,2.435,True,False,2026-10-04
+936,Whey Protein Concentrado,939,Whey Protein Concentrado,1.4315,True,True,2026-10-04
+936,Whey Protein Concentrado,44,Creatina Monohidratada (Creapure),1.5031,True,False,2026-10-04
+936,Whey Protein Concentrado,635,Ômega 3 - 1360mg,1.5076,True,False,2026-10-04
+936,Whey Protein Concentrado,68,Omegafor Plus,1.5768,True,False,2026-10-04
+936,Whey Protein Concentrado,402,Probiótico - Simfort Plus,1.5905,True,False,2026-10-04
+937,Whey Protein Concentrado Cappuccino 900g DUX,991,Magnésio Inositol,1.5134,True,False,2026-10-04
+937,Whey Protein Concentrado Cappuccino 900g DUX,44,Creatina Monohidratada (Creapure),1.5855,True,False,2026-10-04
+937,Whey Protein Concentrado Cappuccino 900g DUX,1205,Magnésio Inositol,1.6519,True,False,2026-10-04
+937,Whey Protein Concentrado Cappuccino 900g DUX,938,Whey Protein Concentrado,1.7395,True,True,2026-10-04
+937,Whey Protein Concentrado Cappuccino 900g DUX,635,Ômega 3 - 1360mg,1.8377,True,False,2026-10-04
+938,Whey Protein Concentrado,72,Ômega 3 EPA DHA,1.1822,True,False,2026-10-04
+938,Whey Protein Concentrado,939,Whey Protein Concentrado,1.4128,True,True,2026-10-04
+938,Whey Protein Concentrado,439,Colágeno - Colagentek Protein - Bodybalance,1.5621,True,False,2026-10-04
+938,Whey Protein Concentrado,936,Whey Protein Concentrado,1.6104,True,True,2026-10-04
+938,Whey Protein Concentrado,635,Ômega 3 - 1360mg,1.6422,True,False,2026-10-04
+939,Whey Protein Concentrado,402,Probiótico - Simfort Plus,1.3256,True,False,2026-10-04
+939,Whey Protein Concentrado,938,Whey Protein Concentrado,1.4128,True,True,2026-10-04
+939,Whey Protein Concentrado,936,Whey Protein Concentrado,1.4315,True,True,2026-10-04
+939,Whey Protein Concentrado,68,Omegafor Plus,1.4901,True,False,2026-10-04
+939,Whey Protein Concentrado,434,Creatina - Creafort (Creapure),1.6081,True,False,2026-10-04
+940,Whey Protein Concentrado,936,Whey Protein Concentrado,2.2307,True,True,2026-10-04
+940,Whey Protein Concentrado,402,Probiótico - Simfort Plus,2.2918,True,False,2026-10-04
+940,Whey Protein Concentrado,991,Magnésio Inositol,2.3168,True,False,2026-10-04
+940,Whey Protein Concentrado,939,Whey Protein Concentrado,2.4086,True,True,2026-10-04
+940,Whey Protein Concentrado,457,SuperCoffee,2.4742,True,False,2026-10-04
+941,Whey Protein Isolado,373,Resveratrol Plus - 165mg,1.7396,True,False,2026-10-04
+941,Whey Protein Isolado,68,Omegafor Plus,2.1168,True,False,2026-10-04
+941,Whey Protein Isolado,69,Omegafor Plus,2.2522,True,False,2026-10-04
+941,Whey Protein Isolado,394,Ômega 3 - Omegafor Memory,2.3638,True,False,2026-10-04
+941,Whey Protein Isolado,421,Glutamina - Glutamax,2.3943,True,False,2026-10-04
+942,Whey Protein Isolado,390,Colágeno - Colagentek Protein - Bodybalance,1.6467,True,False,2026-10-04
+942,Whey Protein Isolado,1252,Super Ômega 3,1.761,True,False,2026-10-04
+942,Whey Protein Isolado,1157,Refil Whey Concentrado - W100,2.0024,True,False,2026-10-04
+942,Whey Protein Isolado,1105,Aminoácidos - Aminolift,2.239,True,False,2026-10-04
+942,Whey Protein Isolado,1227,Body Protein Vegano,2.2901,True,False,2026-10-04
+943,Whey Protein Isolado,944,Whey Protein Isolado,1.6317,True,True,2026-10-04
+943,Whey Protein Isolado,356,Suplemento Alimentar - GUARDIAN®,2.1667,True,False,2026-10-04
+943,Whey Protein Isolado,936,Whey Protein Concentrado,2.2639,True,True,2026-10-04
+943,Whey Protein Isolado,396,"Boraprim - Borragem, Prímula e Gergelim",2.2778,True,False,2026-10-04
+943,Whey Protein Isolado,363,"Vitaminas A, E, D e K2- RESTAURE® - Gotas",2.2923,True,False,2026-10-04
+944,Whey Protein Isolado,943,Whey Protein Isolado,1.6317,True,True,2026-10-04
+944,Whey Protein Isolado,3,Whey Protein Concentrado,1.6618,True,True,2026-10-04
+944,Whey Protein Isolado,356,Suplemento Alimentar - GUARDIAN®,1.9085,True,False,2026-10-04
+944,Whey Protein Isolado,421,Glutamina - Glutamax,2.1191,True,False,2026-10-04
+944,Whey Protein Isolado,936,Whey Protein Concentrado,2.1265,True,True,2026-10-04
+945,Whey Isolado - Iso Triple Zero,926,Ômega 3 Super DHA BIG,1.1898,True,False,2026-10-04
+945,Whey Isolado - Iso Triple Zero,423,Suplemento Alimentar  - Hepatofor,2.1712,True,False,2026-10-04
+945,Whey Isolado - Iso Triple Zero,40,Whey,2.2589,True,False,2026-10-04
+945,Whey Isolado - Iso Triple Zero,35,Whey,2.2986,True,False,2026-10-04
+945,Whey Isolado - Iso Triple Zero,381,Aminoácido - Aminovita,2.3583,True,False,2026-10-04
+946,Whey Isolado - Iso Triple Zero,659,Colágeno - Collagen Protein Hidrolisado,2.3785,True,False,2026-10-04
+946,Whey Isolado - Iso Triple Zero,391,Beta Alanina,2.9471,True,False,2026-10-04
+946,Whey Isolado - Iso Triple Zero,1056,Suplemento Alimentar - Pura Fiber,2.9891,True,False,2026-10-04
+946,Whey Isolado - Iso Triple Zero,613,Multivitaminico  - Imunomult- 1000mg,3.0541,True,False,2026-10-04
+946,Whey Isolado - Iso Triple Zero,332,Whey Fort 3W,3.3796,True,False,2026-10-04
+947,Tasty Whey 3W Gourmet,1670,Tasty Whey 3W Gourmet,2.3306,True,True,2026-10-04
+947,Tasty Whey 3W Gourmet,991,Magnésio Inositol,2.5146,True,False,2026-10-04
+947,Tasty Whey 3W Gourmet,1107,Melatonina Duo Harmony,2.6892,True,False,2026-10-04
+947,Tasty Whey 3W Gourmet,1060,Beef Protein,2.7998,True,False,2026-10-04
+947,Tasty Whey 3W Gourmet,206,Colágeno - Collagen Renew Hidrolisado,2.8107,True,False,2026-10-04
+948,Tasty Whey 3W Gourmet,109,Tasty Whey 3W Gourmet,1.39,True,True,2026-10-04
+948,Tasty Whey 3W Gourmet,1048,Colágeno - Collagen Essential Protein,1.4316,True,False,2026-10-04
+948,Tasty Whey 3W Gourmet,1049,Colágeno - Collagen Essential Protein,1.6665,True,False,2026-10-04
+948,Tasty Whey 3W Gourmet,427,Isofort Plant (Life Vegan),1.7482,True,False,2026-10-04
+948,Tasty Whey 3W Gourmet,447,Colágeno - Colagentek Beauty,1.7511,True,False,2026-10-04
+950,Fresh Whey,1109,Glutamina,1.4876,True,False,2026-10-04
+950,Fresh Whey,696,Prebiótico,1.7533,True,False,2026-10-04
+950,Fresh Whey,337,#Whey Fort 3W,1.7738,True,False,2026-10-04
+950,Fresh Whey,1124,Proteína Isolada e Hidrolisada - Body Protein,2.0402,True,False,2026-10-04
+950,Fresh Whey,144,100% Whey Protein - Flavour,2.0752,True,False,2026-10-04
+952,Feno Grego,1096,Colágeno - Collagen Renew Hidrolisado,1.5861,True,False,2026-10-04
+952,Feno Grego,1451,Colágeno - Colagentek Protein - Bodybalance,1.8582,True,False,2026-10-04
+952,Feno Grego,689,Pré-Treino,2.1323,True,False,2026-10-04
+952,Feno Grego,1250,NAC + Glycine + Taurine,2.1343,True,False,2026-10-04
+952,Feno Grego,806,Óleo de Prímula - 500mg,2.1501,True,True,2026-10-04
+957,Laranja Moro,1120,Própolis Alcoólico,1.8341,True,False,2026-10-04
+957,Laranja Moro,1044,Própolis Trio,1.9149,True,False,2026-10-04
+957,Laranja Moro,219,Suplemento para Imunidade - Immune Up 100%,2.1149,True,False,2026-10-04
+957,Laranja Moro,1072,Pasta de Amendoim Granulado,2.2477,True,False,2026-10-04
+957,Laranja Moro,1408,Coenzima Q10 200mg,2.3117,True,True,2026-10-04
+983,BT Nitrato,428,Isofort Plant (Life Vegan),1.6988,True,False,2026-10-04
+983,BT Nitrato,1159,Refil Whey Concentrado Havanna - W100,1.7043,True,False,2026-10-04
+983,BT Nitrato,139,Refil Whey 100% Pure,2.0883,True,False,2026-10-04
+983,BT Nitrato,481,BT Nitrato 400,2.0886,True,True,2026-10-04
+983,BT Nitrato,331,Aminoácidos - Aminnu EAAs,2.1664,True,False,2026-10-04
+987,Magnésio - Inositol Relief 3.0,85,Whey hidrolisado e isolado,1.8687,True,True,2026-10-04
+987,Magnésio - Inositol Relief 3.0,465,SuperCoffee,2.8512,True,False,2026-10-04
+987,Magnésio - Inositol Relief 3.0,1673,Refil Whey Protein Concentrado,3.0409,True,False,2026-10-04
+987,Magnésio - Inositol Relief 3.0,634,Magnésio - Inositol Relief 3.0,3.1018,True,True,2026-10-04
+987,Magnésio - Inositol Relief 3.0,208,Colágeno Hidrolisado - Collagen Pro 18g,3.2767,True,False,2026-10-04
+988,Gel Nitrato,1941,Whey 3W -  Sachê,1.6326,True,False,2026-10-04
+988,Gel Nitrato,1886,Ferro Plus,1.9262,True,False,2026-10-04
+988,Gel Nitrato,1942,Whey 3W -  Sachê,2.1742,True,False,2026-10-04
+988,Gel Nitrato,1917,Whey Protein Isolado - Sachê,2.7292,True,False,2026-10-04
+988,Gel Nitrato,1775,Multivitaminino - Multi All,2.7537,True,False,2026-10-04
+989,Gel Nitrato com L-Citrulinilarginina,1044,Própolis Trio,1.7752,True,False,2026-10-04
+989,Gel Nitrato com L-Citrulinilarginina,705,Melatonina,2.3017,True,False,2026-10-04
+989,Gel Nitrato com L-Citrulinilarginina,1072,Pasta de Amendoim Granulado,2.5726,True,False,2026-10-04
+989,Gel Nitrato com L-Citrulinilarginina,1120,Própolis Alcoólico,2.6551,True,False,2026-10-04
+989,Gel Nitrato com L-Citrulinilarginina,206,Colágeno - Collagen Renew Hidrolisado,2.825,True,False,2026-10-04
+991,Magnésio Inositol,937,Whey Protein Concentrado Cappuccino 900g DUX,1.5134,True,False,2026-10-04
+991,Magnésio Inositol,1205,Magnésio Inositol,1.7954,True,False,2026-10-04
+991,Magnésio Inositol,1670,Tasty Whey 3W Gourmet,1.8173,True,False,2026-10-04
+991,Magnésio Inositol,1107,Melatonina Duo Harmony,1.8593,True,False,2026-10-04
+991,Magnésio Inositol,457,SuperCoffee,2.0346,True,False,2026-10-04
+992,Melatonina Fast,807,Biotina Plus,1.8205,True,False,2026-10-04
+992,Melatonina Fast,800,Sleep,2.236,True,False,2026-10-04
+992,Melatonina Fast,1656,Maca Peruana,2.417,True,False,2026-10-04
+992,Melatonina Fast,112,Gold Whey Concentrado Refil,2.7183,True,False,2026-10-04
+992,Melatonina Fast,1326,Própolis - Green Própolis,2.869,True,False,2026-10-04
+994,NAC Acetilcisteína -  600mg,336,Bom Ciclo,1.6052,True,False,2026-10-04
+994,NAC Acetilcisteína -  600mg,1572,Termogênico - Termo Plus,2.1722,True,False,2026-10-04
+994,NAC Acetilcisteína -  600mg,1131,Vitamina B12,2.3943,True,False,2026-10-04
+994,NAC Acetilcisteína -  600mg,1120,Própolis Alcoólico,2.5679,True,False,2026-10-04
+994,NAC Acetilcisteína -  600mg,421,Glutamina - Glutamax,2.5987,True,False,2026-10-04
+995,Colágeno Tipo II,399,Vitamina D - Vita D3 + C + Zinco,1.8531,True,False,2026-10-04
+995,Colágeno Tipo II,558,Palatinose,1.8564,True,False,2026-10-04
+995,Colágeno Tipo II,352,Pré-Treino - V Fort Ultra,2.3361,True,False,2026-10-04
+995,Colágeno Tipo II,395,Vitamina D - Vita D3,2.3528,True,False,2026-10-04
+995,Colágeno Tipo II,451,Coenzima Q10 - (100mg p/ porção),2.4997,True,False,2026-10-04
+999,Creatina Monohidratada,1093,Colágeno - Collagen Renew Hidrolisado,1.4521,True,False,2026-10-04
+999,Creatina Monohidratada,533,Aminoácido - Tryptophan,1.9316,True,False,2026-10-04
+999,Creatina Monohidratada,1329,Colágeno Tipo II - Artro Aid,1.9653,True,False,2026-10-04
+999,Creatina Monohidratada,1110,Pré-treino - Energyzer & focus,2.0594,True,False,2026-10-04
+999,Creatina Monohidratada,861,Fresh Whey,2.0864,True,False,2026-10-04

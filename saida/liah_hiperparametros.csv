@@ -1,0 +1,249 @@
+modelo,complexidade,familia,parametro,valor,explicacao,frequencia,data_base,versao
+Ingênuo,0.0,Base,janela,7,Repete o último período (última semana).,diária (total),2026-10-06,v5
+Média móvel,0.0,Base,janela,28,Média dos últimos períodos.,diária (total),2026-10-06,v5
+Sazonal ingênuo,0.0,Base,lag,364,Repete o mesmo período do ano anterior.,diária (total),2026-10-06,v5
+Sazonal ingênuo,0.0,Base,janela_reserva,7,Repete o mesmo período do ano anterior.,diária (total),2026-10-06,v5
+Sazonal ingênuo,0.0,Base,historico_completo,True,Repete o mesmo período do ano anterior.,diária (total),2026-10-06,v5
+Sazonal × crescimento,1.0,Base,lag,364,Ano anterior × ritmo de crescimento das últimas semanas.,diária (total),2026-10-06,v5
+Sazonal × crescimento,1.0,Base,janela_reserva,7,Ano anterior × ritmo de crescimento das últimas semanas.,diária (total),2026-10-06,v5
+Sazonal × crescimento,1.0,Base,janela_crescimento,56,Ano anterior × ritmo de crescimento das últimas semanas.,diária (total),2026-10-06,v5
+Sazonal × crescimento,1.0,Base,limites,"(0.5, 2.0)",Ano anterior × ritmo de crescimento das últimas semanas.,diária (total),2026-10-06,v5
+Sazonal × crescimento,1.0,Base,historico_completo,True,Ano anterior × ritmo de crescimento das últimas semanas.,diária (total),2026-10-06,v5
+ETS (Holt-Winters),2.0,Estatístico,sazonal,True,Suavização exponencial: nível + tendência amortecida + dia da semana.,diária (total),2026-10-06,v5
+ETS (Holt-Winters),2.0,Estatístico,periodo,7,Suavização exponencial: nível + tendência amortecida + dia da semana.,diária (total),2026-10-06,v5
+ARIMA,2.0,Estatístico,grade,"[(1, 1, 1), (0, 1, 1), (1, 1, 0), (2, 1, 2), (1, 0, 1), (2, 0, 1)]","Autorregressivo clássico; ordem (p,d,q) escolhida pelo menor AIC.",diária (total),2026-10-06,v5
+SARIMAX calendário,3.0,Estatístico,ordem,"(1, 1, 1)","ARIMA com sazonalidade semanal anual (Fourier), feriados e Black Friday.",diária (total),2026-10-06,v5
+SARIMAX calendário,3.0,Estatístico,sazonal,"(1, 0, 1, 7)","ARIMA com sazonalidade semanal anual (Fourier), feriados e Black Friday.",diária (total),2026-10-06,v5
+SARIMAX calendário,3.0,Estatístico,fourier,3,"ARIMA com sazonalidade semanal anual (Fourier), feriados e Black Friday.",diária (total),2026-10-06,v5
+Prophet,3.0,Estatístico,changepoint_prior_scale,0.05,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,diária (total),2026-10-06,v5
+Prophet,3.0,Estatístico,seasonality_prior_scale,5.0,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,diária (total),2026-10-06,v5
+Prophet,3.0,Estatístico,holidays_prior_scale,10.0,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,diária (total),2026-10-06,v5
+Prophet,3.0,Estatístico,sazonalidade_anual,10,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,diária (total),2026-10-06,v5
+Prophet,3.0,Estatístico,min_dias_sazonalidade_anual,547,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,diária (total),2026-10-06,v5
+Prophet,3.0,Estatístico,feriados_pais,BR,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,diária (total),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,tendencia,True,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,meia_vida_dias,180,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,seed,42,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,gb.n_estimators,300,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,gb.max_depth,3,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,gb.learning_rate,0.03,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,xgb.n_estimators,400,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,xgb.max_depth,3,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,xgb.learning_rate,0.03,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,seed,42,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,peso_residuo,1.0,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.changepoint_prior_scale,0.05,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.seasonality_prior_scale,5.0,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.sazonalidade_anual,10,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.min_dias_sazonalidade_anual,547,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.feriados_pais,BR,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.n_estimators,200,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.max_depth,2,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.learning_rate,0.03,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.subsample,0.8,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,log,True,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,holiday_region,BR,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,auto_arima_max_order,5,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,include_drift,False,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,clean_spikes_and_dips,True,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,adjust_step_changes,True,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,nivel_confianca,0.8,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-06,v5
+Ingênuo,0.0,Base,janela,1,Repete o último período (última semana).,semanal (granularidades),2026-10-06,v5
+Média móvel,0.0,Base,janela,8,Média dos últimos períodos.,semanal (granularidades),2026-10-06,v5
+Sazonal ingênuo,0.0,Base,lag,52,Repete o mesmo período do ano anterior.,semanal (granularidades),2026-10-06,v5
+Sazonal ingênuo,0.0,Base,janela_reserva,1,Repete o mesmo período do ano anterior.,semanal (granularidades),2026-10-06,v5
+Sazonal ingênuo,0.0,Base,historico_completo,True,Repete o mesmo período do ano anterior.,semanal (granularidades),2026-10-06,v5
+Sazonal × crescimento,1.0,Base,lag,52,Ano anterior × ritmo de crescimento das últimas semanas.,semanal (granularidades),2026-10-06,v5
+Sazonal × crescimento,1.0,Base,janela_reserva,1,Ano anterior × ritmo de crescimento das últimas semanas.,semanal (granularidades),2026-10-06,v5
+Sazonal × crescimento,1.0,Base,janela_crescimento,8,Ano anterior × ritmo de crescimento das últimas semanas.,semanal (granularidades),2026-10-06,v5
+Sazonal × crescimento,1.0,Base,limites,"(0.5, 2.0)",Ano anterior × ritmo de crescimento das últimas semanas.,semanal (granularidades),2026-10-06,v5
+Sazonal × crescimento,1.0,Base,historico_completo,True,Ano anterior × ritmo de crescimento das últimas semanas.,semanal (granularidades),2026-10-06,v5
+ETS (Holt-Winters),2.0,Estatístico,sazonal,False,Suavização exponencial: nível + tendência amortecida.,semanal (granularidades),2026-10-06,v5
+ETS (Holt-Winters),2.0,Estatístico,periodo,7,Suavização exponencial: nível + tendência amortecida.,semanal (granularidades),2026-10-06,v5
+ARIMA,2.0,Estatístico,grade,"[(1, 1, 1), (0, 1, 1), (1, 1, 0), (2, 1, 2), (1, 0, 1), (2, 0, 1)]","Autorregressivo clássico; ordem (p,d,q) escolhida pelo menor AIC.",semanal (granularidades),2026-10-06,v5
+SARIMAX calendário,3.0,Estatístico,ordem,"(1, 1, 1)","ARIMA com sazonalidade anual (Fourier), feriados e Black Friday.",semanal (granularidades),2026-10-06,v5
+SARIMAX calendário,3.0,Estatístico,sazonal,"(1, 0, 1, 7)","ARIMA com sazonalidade anual (Fourier), feriados e Black Friday.",semanal (granularidades),2026-10-06,v5
+SARIMAX calendário,3.0,Estatístico,fourier,3,"ARIMA com sazonalidade anual (Fourier), feriados e Black Friday.",semanal (granularidades),2026-10-06,v5
+Prophet,3.0,Estatístico,changepoint_prior_scale,0.05,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,semanal (granularidades),2026-10-06,v5
+Prophet,3.0,Estatístico,seasonality_prior_scale,5.0,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,semanal (granularidades),2026-10-06,v5
+Prophet,3.0,Estatístico,holidays_prior_scale,10.0,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,semanal (granularidades),2026-10-06,v5
+Prophet,3.0,Estatístico,sazonalidade_anual,6,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,semanal (granularidades),2026-10-06,v5
+Prophet,3.0,Estatístico,min_dias_sazonalidade_anual,547,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,semanal (granularidades),2026-10-06,v5
+Prophet,3.0,Estatístico,feriados_pais,BR,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,semanal (granularidades),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,tendencia,True,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,meia_vida_dias,180,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,seed,42,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,gb.n_estimators,300,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,gb.max_depth,3,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,gb.learning_rate,0.03,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,xgb.n_estimators,400,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,xgb.max_depth,3,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-06,v5
+ML calendário (GB+XGB),4.0,ML,xgb.learning_rate,0.03,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,seed,42,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,peso_residuo,1.0,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.changepoint_prior_scale,0.05,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.seasonality_prior_scale,5.0,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.sazonalidade_anual,6,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.min_dias_sazonalidade_anual,547,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.feriados_pais,BR,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.n_estimators,200,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.max_depth,2,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.learning_rate,0.03,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-06,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.subsample,0.8,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,log,True,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,holiday_region,BR,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,auto_arima_max_order,5,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,include_drift,False,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,clean_spikes_and_dips,True,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,adjust_step_changes,True,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-06,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,nivel_confianca,0.8,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-06,v5
+Regra,,,TOLERANCIA_PARCIMONIA,0.05,,geral,2026-10-06,v5
+Regra,,,REFERENCIA,Sazonal ingênuo,,geral,2026-10-06,v5
+Regra,,,INICIO_TREINO,2025-01-01,,geral,2026-10-06,v5
+Regra,,,ORIGENS (total),"['2025-09-30', '2025-11-30', '2026-01-31', '2026-03-31']",,geral,2026-10-06,v5
+Regra,,,ORIGENS (semanal),"['2026-03-30', '2026-05-11', '2026-06-29']",,geral,2026-10-06,v5
+Regra,,,SEMANAS_TESTE,13,,geral,2026-10-06,v5
+Regra,,,METRICA_GRANULAR,faturamento,,geral,2026-10-06,v5
+Regra,,,EXCLUIR_EXTREMOS_GRANULAR,True,,geral,2026-10-06,v5
+Regra,,,TOP_SERIES,"{'UF': 10, 'Marca': 12, 'Produto': 25, 'Subgrupo': 15}",,geral,2026-10-06,v5
+Regra,,,HIERARQUIA,"{'UF': 'Região', 'Subgrupo': 'Grupo', 'Produto': 'Subgrupo', 'Marca': 'Total'}",,geral,2026-10-06,v5
+Extremos,,,regra,"{'valor_extremo': 5000, 'valor_min_grupo': 1000, 'linhas_min_grupo': 2, 'janela_dias_grupo': 7}",,geral,2026-10-06,v5
+Extremos,,,DATA_ABERTURA,2026-05-01,,geral,2026-10-06,v5
+Extremos,,,JANELA_EXTREMOS,desde_abertura,,geral,2026-10-06,v5
+Viés,,,USAR_CORRECAO_VIES,True,,geral,2026-10-06,v5
+Viés,,,MIN_MESES_AVALIADOS,3,,geral,2026-10-06,v5
+Viés,,,JANELA_VIES,6,,geral,2026-10-06,v5
+Viés,,,LIMITE_CORRECAO,0.15,,geral,2026-10-06,v5
+Escolha,,,pedidos (total),ML calendário (GB+XGB),,geral,2026-10-06,v5
+Escolha,,,ticket,Holt amortecido,,geral,2026-10-06,v5
+Escolha,,,nível Total,SARIMAX calendário,,geral,2026-10-06,v5
+Escolha,,,nível Canal,ARIMA,,geral,2026-10-06,v5
+Escolha,,,nível Origem 1P/3P,ARIMA,,geral,2026-10-06,v5
+Escolha,,,nível Região,SARIMAX calendário,,geral,2026-10-06,v5
+Escolha,,,nível UF,Top-down (pai × part.),,geral,2026-10-06,v5
+Escolha,,,nível Marca,Combinação top-3,,geral,2026-10-06,v5
+Escolha,,,nível Produto,ARIMA,,geral,2026-10-06,v5
+Ingênuo,0.0,Base,janela,7,Repete o último período (última semana).,diária (total),2026-10-07,v5
+Média móvel,0.0,Base,janela,28,Média dos últimos períodos.,diária (total),2026-10-07,v5
+Sazonal ingênuo,0.0,Base,lag,364,Repete o mesmo período do ano anterior.,diária (total),2026-10-07,v5
+Sazonal ingênuo,0.0,Base,janela_reserva,7,Repete o mesmo período do ano anterior.,diária (total),2026-10-07,v5
+Sazonal ingênuo,0.0,Base,historico_completo,True,Repete o mesmo período do ano anterior.,diária (total),2026-10-07,v5
+Sazonal × crescimento,1.0,Base,lag,364,Ano anterior × ritmo de crescimento das últimas semanas.,diária (total),2026-10-07,v5
+Sazonal × crescimento,1.0,Base,janela_reserva,7,Ano anterior × ritmo de crescimento das últimas semanas.,diária (total),2026-10-07,v5
+Sazonal × crescimento,1.0,Base,janela_crescimento,56,Ano anterior × ritmo de crescimento das últimas semanas.,diária (total),2026-10-07,v5
+Sazonal × crescimento,1.0,Base,limites,"(0.5, 2.0)",Ano anterior × ritmo de crescimento das últimas semanas.,diária (total),2026-10-07,v5
+Sazonal × crescimento,1.0,Base,historico_completo,True,Ano anterior × ritmo de crescimento das últimas semanas.,diária (total),2026-10-07,v5
+ETS (Holt-Winters),2.0,Estatístico,sazonal,True,Suavização exponencial: nível + tendência amortecida + dia da semana.,diária (total),2026-10-07,v5
+ETS (Holt-Winters),2.0,Estatístico,periodo,7,Suavização exponencial: nível + tendência amortecida + dia da semana.,diária (total),2026-10-07,v5
+ARIMA,2.0,Estatístico,grade,"[(1, 1, 1), (0, 1, 1), (1, 1, 0), (2, 1, 2), (1, 0, 1), (2, 0, 1)]","Autorregressivo clássico; ordem (p,d,q) escolhida pelo menor AIC.",diária (total),2026-10-07,v5
+SARIMAX calendário,3.0,Estatístico,ordem,"(1, 1, 1)","ARIMA com sazonalidade semanal anual (Fourier), feriados e Black Friday.",diária (total),2026-10-07,v5
+SARIMAX calendário,3.0,Estatístico,sazonal,"(1, 0, 1, 7)","ARIMA com sazonalidade semanal anual (Fourier), feriados e Black Friday.",diária (total),2026-10-07,v5
+SARIMAX calendário,3.0,Estatístico,fourier,3,"ARIMA com sazonalidade semanal anual (Fourier), feriados e Black Friday.",diária (total),2026-10-07,v5
+Prophet,3.0,Estatístico,changepoint_prior_scale,0.05,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,diária (total),2026-10-07,v5
+Prophet,3.0,Estatístico,seasonality_prior_scale,5.0,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,diária (total),2026-10-07,v5
+Prophet,3.0,Estatístico,holidays_prior_scale,10.0,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,diária (total),2026-10-07,v5
+Prophet,3.0,Estatístico,sazonalidade_anual,10,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,diária (total),2026-10-07,v5
+Prophet,3.0,Estatístico,min_dias_sazonalidade_anual,547,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,diária (total),2026-10-07,v5
+Prophet,3.0,Estatístico,feriados_pais,BR,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,diária (total),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,tendencia,True,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,meia_vida_dias,180,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,seed,42,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,gb.n_estimators,300,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,gb.max_depth,3,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,gb.learning_rate,0.03,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,xgb.n_estimators,400,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,xgb.max_depth,3,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,xgb.learning_rate,0.03,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,diária (total),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,seed,42,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,peso_residuo,1.0,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.changepoint_prior_scale,0.05,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.seasonality_prior_scale,5.0,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.sazonalidade_anual,10,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.min_dias_sazonalidade_anual,547,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.feriados_pais,BR,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.n_estimators,200,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.max_depth,2,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.learning_rate,0.03,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.subsample,0.8,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,diária (total),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,log,True,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,holiday_region,BR,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,auto_arima_max_order,5,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,include_drift,False,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,clean_spikes_and_dips,True,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,adjust_step_changes,True,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,nivel_confianca,0.8,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",diária (total),2026-10-07,v5
+Ingênuo,0.0,Base,janela,1,Repete o último período (última semana).,semanal (granularidades),2026-10-07,v5
+Média móvel,0.0,Base,janela,8,Média dos últimos períodos.,semanal (granularidades),2026-10-07,v5
+Sazonal ingênuo,0.0,Base,lag,52,Repete o mesmo período do ano anterior.,semanal (granularidades),2026-10-07,v5
+Sazonal ingênuo,0.0,Base,janela_reserva,1,Repete o mesmo período do ano anterior.,semanal (granularidades),2026-10-07,v5
+Sazonal ingênuo,0.0,Base,historico_completo,True,Repete o mesmo período do ano anterior.,semanal (granularidades),2026-10-07,v5
+Sazonal × crescimento,1.0,Base,lag,52,Ano anterior × ritmo de crescimento das últimas semanas.,semanal (granularidades),2026-10-07,v5
+Sazonal × crescimento,1.0,Base,janela_reserva,1,Ano anterior × ritmo de crescimento das últimas semanas.,semanal (granularidades),2026-10-07,v5
+Sazonal × crescimento,1.0,Base,janela_crescimento,8,Ano anterior × ritmo de crescimento das últimas semanas.,semanal (granularidades),2026-10-07,v5
+Sazonal × crescimento,1.0,Base,limites,"(0.5, 2.0)",Ano anterior × ritmo de crescimento das últimas semanas.,semanal (granularidades),2026-10-07,v5
+Sazonal × crescimento,1.0,Base,historico_completo,True,Ano anterior × ritmo de crescimento das últimas semanas.,semanal (granularidades),2026-10-07,v5
+ETS (Holt-Winters),2.0,Estatístico,sazonal,False,Suavização exponencial: nível + tendência amortecida.,semanal (granularidades),2026-10-07,v5
+ETS (Holt-Winters),2.0,Estatístico,periodo,7,Suavização exponencial: nível + tendência amortecida.,semanal (granularidades),2026-10-07,v5
+ARIMA,2.0,Estatístico,grade,"[(1, 1, 1), (0, 1, 1), (1, 1, 0), (2, 1, 2), (1, 0, 1), (2, 0, 1)]","Autorregressivo clássico; ordem (p,d,q) escolhida pelo menor AIC.",semanal (granularidades),2026-10-07,v5
+SARIMAX calendário,3.0,Estatístico,ordem,"(1, 1, 1)","ARIMA com sazonalidade anual (Fourier), feriados e Black Friday.",semanal (granularidades),2026-10-07,v5
+SARIMAX calendário,3.0,Estatístico,sazonal,"(1, 0, 1, 7)","ARIMA com sazonalidade anual (Fourier), feriados e Black Friday.",semanal (granularidades),2026-10-07,v5
+SARIMAX calendário,3.0,Estatístico,fourier,3,"ARIMA com sazonalidade anual (Fourier), feriados e Black Friday.",semanal (granularidades),2026-10-07,v5
+Prophet,3.0,Estatístico,changepoint_prior_scale,0.05,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,semanal (granularidades),2026-10-07,v5
+Prophet,3.0,Estatístico,seasonality_prior_scale,5.0,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,semanal (granularidades),2026-10-07,v5
+Prophet,3.0,Estatístico,holidays_prior_scale,10.0,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,semanal (granularidades),2026-10-07,v5
+Prophet,3.0,Estatístico,sazonalidade_anual,6,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,semanal (granularidades),2026-10-07,v5
+Prophet,3.0,Estatístico,min_dias_sazonalidade_anual,547,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,semanal (granularidades),2026-10-07,v5
+Prophet,3.0,Estatístico,feriados_pais,BR,Prophet (Meta): tendência com mudanças + sazonalidades + feriados BR.,semanal (granularidades),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,tendencia,True,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,meia_vida_dias,180,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,seed,42,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,gb.n_estimators,300,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,gb.max_depth,3,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,gb.learning_rate,0.03,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,xgb.n_estimators,400,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,xgb.max_depth,3,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-07,v5
+ML calendário (GB+XGB),4.0,ML,xgb.learning_rate,0.03,Média de GradientBoosting e XGBoost com variáveis de calendário (modelo da v4).,semanal (granularidades),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,seed,42,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,peso_residuo,1.0,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.changepoint_prior_scale,0.05,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.seasonality_prior_scale,5.0,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.sazonalidade_anual,6,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.min_dias_sazonalidade_anual,547,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,prophet.feriados_pais,BR,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.n_estimators,200,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.max_depth,2,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.learning_rate,0.03,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-07,v5
+Híbrido Prophet+XGB,5.0,Híbrido,xgb.subsample,0.8,Prophet faz a base; XGBoost corrige o que o Prophet não captou (resíduo).,semanal (granularidades),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,log,True,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,holiday_region,BR,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,auto_arima_max_order,5,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,include_drift,False,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,clean_spikes_and_dips,True,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,adjust_step_changes,True,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-07,v5
+ARIMA_PLUS (BigQuery),3.0,Estatístico,nivel_confianca,0.8,"Auto-ARIMA do BigQuery ML: escolhe a ordem sozinho, trata picos, feriados e mudanças de patamar.",semanal (granularidades),2026-10-07,v5
+Regra,,,TOLERANCIA_PARCIMONIA,0.05,,geral,2026-10-07,v5
+Regra,,,REFERENCIA,Sazonal ingênuo,,geral,2026-10-07,v5
+Regra,,,INICIO_TREINO,2025-01-01,,geral,2026-10-07,v5
+Regra,,,ORIGENS (total),"['2025-09-30', '2025-11-30', '2026-01-31', '2026-03-31']",,geral,2026-10-07,v5
+Regra,,,ORIGENS (semanal),"['2026-03-30', '2026-05-11', '2026-06-29']",,geral,2026-10-07,v5
+Regra,,,SEMANAS_TESTE,13,,geral,2026-10-07,v5
+Regra,,,METRICA_GRANULAR,faturamento,,geral,2026-10-07,v5
+Regra,,,EXCLUIR_EXTREMOS_GRANULAR,True,,geral,2026-10-07,v5
+Regra,,,TOP_SERIES,"{'UF': 10, 'Marca': 12, 'Produto': 25, 'Subgrupo': 15}",,geral,2026-10-07,v5
+Regra,,,HIERARQUIA,"{'UF': 'Região', 'Subgrupo': 'Grupo', 'Produto': 'Subgrupo', 'Marca': 'Total'}",,geral,2026-10-07,v5
+Extremos,,,regra,"{'valor_extremo': 5000, 'valor_min_grupo': 1000, 'linhas_min_grupo': 2, 'janela_dias_grupo': 7}",,geral,2026-10-07,v5
+Extremos,,,DATA_ABERTURA,2026-05-01,,geral,2026-10-07,v5
+Extremos,,,JANELA_EXTREMOS,desde_abertura,,geral,2026-10-07,v5
+Viés,,,USAR_CORRECAO_VIES,True,,geral,2026-10-07,v5
+Viés,,,MIN_MESES_AVALIADOS,3,,geral,2026-10-07,v5
+Viés,,,JANELA_VIES,6,,geral,2026-10-07,v5
+Viés,,,LIMITE_CORRECAO,0.15,,geral,2026-10-07,v5
+Escolha,,,pedidos (total),ML calendário (GB+XGB),,geral,2026-10-07,v5
+Escolha,,,ticket,Holt amortecido,,geral,2026-10-07,v5
+Escolha,,,nível Total,SARIMAX calendário,,geral,2026-10-07,v5
+Escolha,,,nível Canal,ARIMA,,geral,2026-10-07,v5
+Escolha,,,nível Origem 1P/3P,ARIMA,,geral,2026-10-07,v5
+Escolha,,,nível Região,SARIMAX calendário,,geral,2026-10-07,v5
+Escolha,,,nível UF,Top-down (pai × part.),,geral,2026-10-07,v5
+Escolha,,,nível Marca,Combinação top-3,,geral,2026-10-07,v5
+Escolha,,,nível Produto,ARIMA,,geral,2026-10-07,v5

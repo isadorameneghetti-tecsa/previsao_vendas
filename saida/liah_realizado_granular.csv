@@ -1,0 +1,601 @@
+nivel,serie,mes,realizado,metrica
+Total,Total,2025-10-01,363021.8514,faturamento
+Total,Total,2025-11-01,307628.9171,faturamento
+Total,Total,2025-12-01,219208.3243,faturamento
+Total,Total,2026-01-01,328833.75,faturamento
+Total,Total,2026-02-01,283699.3043,faturamento
+Total,Total,2026-03-01,361584.1114,faturamento
+Total,Total,2026-04-01,366733.3529,faturamento
+Total,Total,2026-05-01,383747.3071,faturamento
+Total,Total,2026-06-01,274148.6029,faturamento
+Total,Total,2026-07-01,322268.4329,faturamento
+Total,Total,2026-08-01,334832.13,faturamento
+Total,Total,2026-09-01,299437.6057,faturamento
+Canal,COM_NUTRICIONISTA,2025-10-01,363021.8514,faturamento
+Canal,COM_NUTRICIONISTA,2025-11-01,307628.9171,faturamento
+Canal,COM_NUTRICIONISTA,2025-12-01,219208.3243,faturamento
+Canal,COM_NUTRICIONISTA,2026-01-01,328833.75,faturamento
+Canal,COM_NUTRICIONISTA,2026-02-01,283699.3043,faturamento
+Canal,COM_NUTRICIONISTA,2026-03-01,361584.1114,faturamento
+Canal,COM_NUTRICIONISTA,2026-04-01,366733.3529,faturamento
+Canal,COM_NUTRICIONISTA,2026-05-01,383747.3071,faturamento
+Canal,COM_NUTRICIONISTA,2026-06-01,274148.6029,faturamento
+Canal,COM_NUTRICIONISTA,2026-07-01,322268.4329,faturamento
+Canal,COM_NUTRICIONISTA,2026-08-01,334803.0714,faturamento
+Canal,COM_NUTRICIONISTA,2026-09-01,280595.9143,faturamento
+Canal,SEM_NUTRICIONISTA,2025-10-01,0.0,faturamento
+Canal,SEM_NUTRICIONISTA,2025-11-01,0.0,faturamento
+Canal,SEM_NUTRICIONISTA,2025-12-01,0.0,faturamento
+Canal,SEM_NUTRICIONISTA,2026-01-01,0.0,faturamento
+Canal,SEM_NUTRICIONISTA,2026-02-01,0.0,faturamento
+Canal,SEM_NUTRICIONISTA,2026-03-01,0.0,faturamento
+Canal,SEM_NUTRICIONISTA,2026-04-01,0.0,faturamento
+Canal,SEM_NUTRICIONISTA,2026-05-01,0.0,faturamento
+Canal,SEM_NUTRICIONISTA,2026-06-01,0.0,faturamento
+Canal,SEM_NUTRICIONISTA,2026-07-01,0.0,faturamento
+Canal,SEM_NUTRICIONISTA,2026-08-01,29.0586,faturamento
+Canal,SEM_NUTRICIONISTA,2026-09-01,18841.6914,faturamento
+Origem 1P/3P,1P,2025-10-01,0.0,faturamento
+Origem 1P/3P,1P,2025-11-01,0.0,faturamento
+Origem 1P/3P,1P,2025-12-01,0.0,faturamento
+Origem 1P/3P,1P,2026-01-01,0.0,faturamento
+Origem 1P/3P,1P,2026-02-01,0.0,faturamento
+Origem 1P/3P,1P,2026-03-01,0.0,faturamento
+Origem 1P/3P,1P,2026-04-01,0.0,faturamento
+Origem 1P/3P,1P,2026-05-01,3075.22,faturamento
+Origem 1P/3P,1P,2026-06-01,19300.7657,faturamento
+Origem 1P/3P,1P,2026-07-01,87362.6686,faturamento
+Origem 1P/3P,1P,2026-08-01,124318.9457,faturamento
+Origem 1P/3P,1P,2026-09-01,171998.6757,faturamento
+Origem 1P/3P,3P,2025-10-01,0.0,faturamento
+Origem 1P/3P,3P,2025-11-01,0.0,faturamento
+Origem 1P/3P,3P,2025-12-01,0.0,faturamento
+Origem 1P/3P,3P,2026-01-01,0.0,faturamento
+Origem 1P/3P,3P,2026-02-01,0.0,faturamento
+Origem 1P/3P,3P,2026-03-01,0.0,faturamento
+Origem 1P/3P,3P,2026-04-01,0.0,faturamento
+Origem 1P/3P,3P,2026-05-01,143565.82,faturamento
+Origem 1P/3P,3P,2026-06-01,250339.6771,faturamento
+Origem 1P/3P,3P,2026-07-01,234710.0643,faturamento
+Origem 1P/3P,3P,2026-08-01,206948.5543,faturamento
+Origem 1P/3P,3P,2026-09-01,126364.8486,faturamento
+Origem 1P/3P,SEM_INFO,2025-10-01,363021.8514,faturamento
+Origem 1P/3P,SEM_INFO,2025-11-01,307628.9171,faturamento
+Origem 1P/3P,SEM_INFO,2025-12-01,219208.3243,faturamento
+Origem 1P/3P,SEM_INFO,2026-01-01,328833.75,faturamento
+Origem 1P/3P,SEM_INFO,2026-02-01,283699.3043,faturamento
+Origem 1P/3P,SEM_INFO,2026-03-01,361584.1114,faturamento
+Origem 1P/3P,SEM_INFO,2026-04-01,366733.3529,faturamento
+Origem 1P/3P,SEM_INFO,2026-05-01,237106.2671,faturamento
+Origem 1P/3P,SEM_INFO,2026-06-01,4508.16,faturamento
+Origem 1P/3P,SEM_INFO,2026-07-01,195.7,faturamento
+Origem 1P/3P,SEM_INFO,2026-08-01,3564.63,faturamento
+Origem 1P/3P,SEM_INFO,2026-09-01,1074.0814,faturamento
+Região,Sudeste,2025-10-01,363021.8514,faturamento
+Região,Sudeste,2025-11-01,307628.9171,faturamento
+Região,Sudeste,2025-12-01,219208.3243,faturamento
+Região,Sudeste,2026-01-01,328833.75,faturamento
+Região,Sudeste,2026-02-01,283699.3043,faturamento
+Região,Sudeste,2026-03-01,361584.1114,faturamento
+Região,Sudeste,2026-04-01,366733.3529,faturamento
+Região,Sudeste,2026-05-01,383747.3071,faturamento
+Região,Sudeste,2026-06-01,274148.6029,faturamento
+Região,Sudeste,2026-07-01,322029.5529,faturamento
+Região,Sudeste,2026-08-01,334832.13,faturamento
+Região,Sudeste,2026-09-01,299437.6057,faturamento
+Região,Sul,2025-10-01,0.0,faturamento
+Região,Sul,2025-11-01,0.0,faturamento
+Região,Sul,2025-12-01,0.0,faturamento
+Região,Sul,2026-01-01,0.0,faturamento
+Região,Sul,2026-02-01,0.0,faturamento
+Região,Sul,2026-03-01,0.0,faturamento
+Região,Sul,2026-04-01,0.0,faturamento
+Região,Sul,2026-05-01,0.0,faturamento
+Região,Sul,2026-06-01,0.0,faturamento
+Região,Sul,2026-07-01,238.88,faturamento
+Região,Sul,2026-08-01,0.0,faturamento
+Região,Sul,2026-09-01,0.0,faturamento
+UF,RJ,2025-10-01,32313.66,faturamento
+UF,RJ,2025-11-01,28620.4743,faturamento
+UF,RJ,2025-12-01,20826.9371,faturamento
+UF,RJ,2026-01-01,26296.1843,faturamento
+UF,RJ,2026-02-01,22016.26,faturamento
+UF,RJ,2026-03-01,34334.85,faturamento
+UF,RJ,2026-04-01,27617.1229,faturamento
+UF,RJ,2026-05-01,33809.6857,faturamento
+UF,RJ,2026-06-01,24880.0343,faturamento
+UF,RJ,2026-07-01,29272.39,faturamento
+UF,RJ,2026-08-01,29170.83,faturamento
+UF,RJ,2026-09-01,23955.9114,faturamento
+UF,RS,2025-10-01,0.0,faturamento
+UF,RS,2025-11-01,0.0,faturamento
+UF,RS,2025-12-01,0.0,faturamento
+UF,RS,2026-01-01,0.0,faturamento
+UF,RS,2026-02-01,0.0,faturamento
+UF,RS,2026-03-01,0.0,faturamento
+UF,RS,2026-04-01,0.0,faturamento
+UF,RS,2026-05-01,0.0,faturamento
+UF,RS,2026-06-01,0.0,faturamento
+UF,RS,2026-07-01,238.88,faturamento
+UF,RS,2026-08-01,0.0,faturamento
+UF,RS,2026-09-01,0.0,faturamento
+UF,SP,2025-10-01,330708.1914,faturamento
+UF,SP,2025-11-01,279008.4429,faturamento
+UF,SP,2025-12-01,198381.3871,faturamento
+UF,SP,2026-01-01,302537.5657,faturamento
+UF,SP,2026-02-01,261683.0443,faturamento
+UF,SP,2026-03-01,327249.2614,faturamento
+UF,SP,2026-04-01,339116.23,faturamento
+UF,SP,2026-05-01,349937.6214,faturamento
+UF,SP,2026-06-01,249268.5686,faturamento
+UF,SP,2026-07-01,292757.1629,faturamento
+UF,SP,2026-08-01,305661.3,faturamento
+UF,SP,2026-09-01,275481.6943,faturamento
+Marca,DUX,2025-10-01,78495.4486,faturamento
+Marca,DUX,2025-11-01,68616.4357,faturamento
+Marca,DUX,2025-12-01,51654.53,faturamento
+Marca,DUX,2026-01-01,72805.6486,faturamento
+Marca,DUX,2026-02-01,66362.7643,faturamento
+Marca,DUX,2026-03-01,75238.99,faturamento
+Marca,DUX,2026-04-01,88516.0243,faturamento
+Marca,DUX,2026-05-01,89742.8329,faturamento
+Marca,DUX,2026-06-01,66343.9471,faturamento
+Marca,DUX,2026-07-01,87008.4929,faturamento
+Marca,DUX,2026-08-01,108981.61,faturamento
+Marca,DUX,2026-09-01,86152.0071,faturamento
+Marca,VITAFOR,2025-10-01,80206.2314,faturamento
+Marca,VITAFOR,2025-11-01,72824.38,faturamento
+Marca,VITAFOR,2025-12-01,60364.1186,faturamento
+Marca,VITAFOR,2026-01-01,80232.74,faturamento
+Marca,VITAFOR,2026-02-01,67227.2614,faturamento
+Marca,VITAFOR,2026-03-01,95501.86,faturamento
+Marca,VITAFOR,2026-04-01,91846.6257,faturamento
+Marca,VITAFOR,2026-05-01,94362.3843,faturamento
+Marca,VITAFOR,2026-06-01,65354.7457,faturamento
+Marca,VITAFOR,2026-07-01,76112.8557,faturamento
+Marca,VITAFOR,2026-08-01,76096.62,faturamento
+Marca,VITAFOR,2026-09-01,72744.9329,faturamento
+Marca,ESSENTIAL,2025-10-01,32300.8543,faturamento
+Marca,ESSENTIAL,2025-11-01,33289.4343,faturamento
+Marca,ESSENTIAL,2025-12-01,16742.1086,faturamento
+Marca,ESSENTIAL,2026-01-01,35633.4571,faturamento
+Marca,ESSENTIAL,2026-02-01,30718.3343,faturamento
+Marca,ESSENTIAL,2026-03-01,37609.0243,faturamento
+Marca,ESSENTIAL,2026-04-01,36739.03,faturamento
+Marca,ESSENTIAL,2026-05-01,40793.0057,faturamento
+Marca,ESSENTIAL,2026-06-01,30588.3514,faturamento
+Marca,ESSENTIAL,2026-07-01,22353.7257,faturamento
+Marca,ESSENTIAL,2026-08-01,21054.9943,faturamento
+Marca,ESSENTIAL,2026-09-01,23653.8343,faturamento
+Marca,NUTRIFY,2025-10-01,21880.8957,faturamento
+Marca,NUTRIFY,2025-11-01,16669.1543,faturamento
+Marca,NUTRIFY,2025-12-01,8342.6143,faturamento
+Marca,NUTRIFY,2026-01-01,15862.4214,faturamento
+Marca,NUTRIFY,2026-02-01,11006.2443,faturamento
+Marca,NUTRIFY,2026-03-01,16782.6957,faturamento
+Marca,NUTRIFY,2026-04-01,17177.7843,faturamento
+Marca,NUTRIFY,2026-05-01,16168.75,faturamento
+Marca,NUTRIFY,2026-06-01,16427.9671,faturamento
+Marca,NUTRIFY,2026-07-01,16521.5557,faturamento
+Marca,NUTRIFY,2026-08-01,16158.76,faturamento
+Marca,NUTRIFY,2026-09-01,16008.1257,faturamento
+Marca,TRUE SOURCE,2025-10-01,12840.9557,faturamento
+Marca,TRUE SOURCE,2025-11-01,9881.3143,faturamento
+Marca,TRUE SOURCE,2025-12-01,7868.3343,faturamento
+Marca,TRUE SOURCE,2026-01-01,13993.1714,faturamento
+Marca,TRUE SOURCE,2026-02-01,10749.7571,faturamento
+Marca,TRUE SOURCE,2026-03-01,9761.3429,faturamento
+Marca,TRUE SOURCE,2026-04-01,15893.0229,faturamento
+Marca,TRUE SOURCE,2026-05-01,19005.4714,faturamento
+Marca,TRUE SOURCE,2026-06-01,11412.62,faturamento
+Marca,TRUE SOURCE,2026-07-01,15214.4757,faturamento
+Marca,TRUE SOURCE,2026-08-01,14789.4486,faturamento
+Marca,TRUE SOURCE,2026-09-01,13400.2329,faturamento
+Marca,EQUALIV,2025-10-01,18342.8757,faturamento
+Marca,EQUALIV,2025-11-01,12429.16,faturamento
+Marca,EQUALIV,2025-12-01,9615.2457,faturamento
+Marca,EQUALIV,2026-01-01,11765.1457,faturamento
+Marca,EQUALIV,2026-02-01,8921.1771,faturamento
+Marca,EQUALIV,2026-03-01,10369.3443,faturamento
+Marca,EQUALIV,2026-04-01,12306.9314,faturamento
+Marca,EQUALIV,2026-05-01,17928.1957,faturamento
+Marca,EQUALIV,2026-06-01,15765.3143,faturamento
+Marca,EQUALIV,2026-07-01,17693.1643,faturamento
+Marca,EQUALIV,2026-08-01,13798.6029,faturamento
+Marca,EQUALIV,2026-09-01,10623.1,faturamento
+Marca,PURAVIDA,2025-10-01,28754.0586,faturamento
+Marca,PURAVIDA,2025-11-01,19303.2714,faturamento
+Marca,PURAVIDA,2025-12-01,15286.3371,faturamento
+Marca,PURAVIDA,2026-01-01,19711.1857,faturamento
+Marca,PURAVIDA,2026-02-01,16112.1043,faturamento
+Marca,PURAVIDA,2026-03-01,18400.8486,faturamento
+Marca,PURAVIDA,2026-04-01,15685.7329,faturamento
+Marca,PURAVIDA,2026-05-01,17741.9014,faturamento
+Marca,PURAVIDA,2026-06-01,12490.69,faturamento
+Marca,PURAVIDA,2026-07-01,9758.1486,faturamento
+Marca,PURAVIDA,2026-08-01,13522.3057,faturamento
+Marca,PURAVIDA,2026-09-01,17364.1257,faturamento
+Marca,CAFFEINE ARMY,2025-10-01,14103.1286,faturamento
+Marca,CAFFEINE ARMY,2025-11-01,11377.5386,faturamento
+Marca,CAFFEINE ARMY,2025-12-01,6461.6286,faturamento
+Marca,CAFFEINE ARMY,2026-01-01,12469.3286,faturamento
+Marca,CAFFEINE ARMY,2026-02-01,12606.4143,faturamento
+Marca,CAFFEINE ARMY,2026-03-01,16749.2857,faturamento
+Marca,CAFFEINE ARMY,2026-04-01,15923.4143,faturamento
+Marca,CAFFEINE ARMY,2026-05-01,13503.4286,faturamento
+Marca,CAFFEINE ARMY,2026-06-01,8594.6486,faturamento
+Marca,CAFFEINE ARMY,2026-07-01,12789.7257,faturamento
+Marca,CAFFEINE ARMY,2026-08-01,12031.9957,faturamento
+Marca,CAFFEINE ARMY,2026-09-01,7892.5229,faturamento
+Marca,OCEAN DROP,2025-10-01,10617.32,faturamento
+Marca,OCEAN DROP,2025-11-01,12147.7929,faturamento
+Marca,OCEAN DROP,2025-12-01,7135.9571,faturamento
+Marca,OCEAN DROP,2026-01-01,11093.8114,faturamento
+Marca,OCEAN DROP,2026-02-01,11596.35,faturamento
+Marca,OCEAN DROP,2026-03-01,13085.9457,faturamento
+Marca,OCEAN DROP,2026-04-01,15148.5614,faturamento
+Marca,OCEAN DROP,2026-05-01,15122.7043,faturamento
+Marca,OCEAN DROP,2026-06-01,10122.3743,faturamento
+Marca,OCEAN DROP,2026-07-01,10716.8671,faturamento
+Marca,OCEAN DROP,2026-08-01,9629.0557,faturamento
+Marca,OCEAN DROP,2026-09-01,8228.7271,faturamento
+Marca,CENTRAL NUTRITION,2025-10-01,4588.2557,faturamento
+Marca,CENTRAL NUTRITION,2025-11-01,5534.8886,faturamento
+Marca,CENTRAL NUTRITION,2025-12-01,5337.2686,faturamento
+Marca,CENTRAL NUTRITION,2026-01-01,4751.7143,faturamento
+Marca,CENTRAL NUTRITION,2026-02-01,5299.2071,faturamento
+Marca,CENTRAL NUTRITION,2026-03-01,8653.2214,faturamento
+Marca,CENTRAL NUTRITION,2026-04-01,7204.4971,faturamento
+Marca,CENTRAL NUTRITION,2026-05-01,12327.6814,faturamento
+Marca,CENTRAL NUTRITION,2026-06-01,8841.1157,faturamento
+Marca,CENTRAL NUTRITION,2026-07-01,9708.4571,faturamento
+Marca,CENTRAL NUTRITION,2026-08-01,10566.6886,faturamento
+Marca,CENTRAL NUTRITION,2026-09-01,9418.5929,faturamento
+Marca,ADAPTOGEN,2025-10-01,9712.2429,faturamento
+Marca,ADAPTOGEN,2025-11-01,6917.4857,faturamento
+Marca,ADAPTOGEN,2025-12-01,3751.9571,faturamento
+Marca,ADAPTOGEN,2026-01-01,8294.9714,faturamento
+Marca,ADAPTOGEN,2026-02-01,5537.1714,faturamento
+Marca,ADAPTOGEN,2026-03-01,10698.5,faturamento
+Marca,ADAPTOGEN,2026-04-01,11497.0286,faturamento
+Marca,ADAPTOGEN,2026-05-01,8582.1714,faturamento
+Marca,ADAPTOGEN,2026-06-01,5903.7614,faturamento
+Marca,ADAPTOGEN,2026-07-01,10175.9371,faturamento
+Marca,ADAPTOGEN,2026-08-01,5305.2414,faturamento
+Marca,ADAPTOGEN,2026-09-01,7908.2857,faturamento
+Marca,ATLHETICA NUTRITION,2025-10-01,9376.6343,faturamento
+Marca,ATLHETICA NUTRITION,2025-11-01,8676.5871,faturamento
+Marca,ATLHETICA NUTRITION,2025-12-01,6270.3757,faturamento
+Marca,ATLHETICA NUTRITION,2026-01-01,10816.3171,faturamento
+Marca,ATLHETICA NUTRITION,2026-02-01,13485.9771,faturamento
+Marca,ATLHETICA NUTRITION,2026-03-01,13289.9057,faturamento
+Marca,ATLHETICA NUTRITION,2026-04-01,4208.5871,faturamento
+Marca,ATLHETICA NUTRITION,2026-05-01,4243.8971,faturamento
+Marca,ATLHETICA NUTRITION,2026-06-01,2831.9957,faturamento
+Marca,ATLHETICA NUTRITION,2026-07-01,3504.16,faturamento
+Marca,ATLHETICA NUTRITION,2026-08-01,6312.1171,faturamento
+Marca,ATLHETICA NUTRITION,2026-09-01,4010.18,faturamento
+Marca,OUTROS,2025-10-01,41802.95,faturamento
+Marca,OUTROS,2025-11-01,29961.4743,faturamento
+Marca,OUTROS,2025-12-01,20377.8486,faturamento
+Marca,OUTROS,2026-01-01,31403.8371,faturamento
+Marca,OUTROS,2026-02-01,24076.5414,faturamento
+Marca,OUTROS,2026-03-01,35443.1471,faturamento
+Marca,OUTROS,2026-04-01,34586.1129,faturamento
+Marca,OUTROS,2026-05-01,34224.8829,faturamento
+Marca,OUTROS,2026-06-01,19471.0714,faturamento
+Marca,OUTROS,2026-07-01,30710.8671,faturamento
+Marca,OUTROS,2026-08-01,26584.69,faturamento
+Marca,OUTROS,2026-09-01,22032.9386,faturamento
+Produto,Whey Protein Concentrado,2025-10-01,35835.6714,faturamento
+Produto,Whey Protein Concentrado,2025-11-01,30897.1571,faturamento
+Produto,Whey Protein Concentrado,2025-12-01,23122.1857,faturamento
+Produto,Whey Protein Concentrado,2026-01-01,29417.2571,faturamento
+Produto,Whey Protein Concentrado,2026-02-01,24305.32,faturamento
+Produto,Whey Protein Concentrado,2026-03-01,26345.4457,faturamento
+Produto,Whey Protein Concentrado,2026-04-01,38213.7829,faturamento
+Produto,Whey Protein Concentrado,2026-05-01,29527.9186,faturamento
+Produto,Whey Protein Concentrado,2026-06-01,26249.9286,faturamento
+Produto,Whey Protein Concentrado,2026-07-01,32900.6229,faturamento
+Produto,Whey Protein Concentrado,2026-08-01,45163.2429,faturamento
+Produto,Whey Protein Concentrado,2026-09-01,28787.7857,faturamento
+Produto,Whey Protein Isolado,2025-10-01,17182.2,faturamento
+Produto,Whey Protein Isolado,2025-11-01,16657.1857,faturamento
+Produto,Whey Protein Isolado,2025-12-01,15226.9857,faturamento
+Produto,Whey Protein Isolado,2026-01-01,19638.5429,faturamento
+Produto,Whey Protein Isolado,2026-02-01,19383.06,faturamento
+Produto,Whey Protein Isolado,2026-03-01,26250.6643,faturamento
+Produto,Whey Protein Isolado,2026-04-01,25067.2214,faturamento
+Produto,Whey Protein Isolado,2026-05-01,26201.0657,faturamento
+Produto,Whey Protein Isolado,2026-06-01,20368.19,faturamento
+Produto,Whey Protein Isolado,2026-07-01,28268.3043,faturamento
+Produto,Whey Protein Isolado,2026-08-01,27208.7471,faturamento
+Produto,Whey Protein Isolado,2026-09-01,29318.7829,faturamento
+Produto,Omegafor Plus,2025-10-01,13694.2,faturamento
+Produto,Omegafor Plus,2025-11-01,11171.5571,faturamento
+Produto,Omegafor Plus,2025-12-01,10325.0614,faturamento
+Produto,Omegafor Plus,2026-01-01,14769.7286,faturamento
+Produto,Omegafor Plus,2026-02-01,14284.4143,faturamento
+Produto,Omegafor Plus,2026-03-01,15741.7,faturamento
+Produto,Omegafor Plus,2026-04-01,15087.2857,faturamento
+Produto,Omegafor Plus,2026-05-01,17373.8,faturamento
+Produto,Omegafor Plus,2026-06-01,10769.8,faturamento
+Produto,Omegafor Plus,2026-07-01,12788.1286,faturamento
+Produto,Omegafor Plus,2026-08-01,15516.6214,faturamento
+Produto,Omegafor Plus,2026-09-01,13831.5171,faturamento
+Produto,Creatina Monohidratada,2025-10-01,11408.5286,faturamento
+Produto,Creatina Monohidratada,2025-11-01,8879.6714,faturamento
+Produto,Creatina Monohidratada,2025-12-01,5500.2286,faturamento
+Produto,Creatina Monohidratada,2026-01-01,9519.5,faturamento
+Produto,Creatina Monohidratada,2026-02-01,10040.5886,faturamento
+Produto,Creatina Monohidratada,2026-03-01,9959.25,faturamento
+Produto,Creatina Monohidratada,2026-04-01,10308.7571,faturamento
+Produto,Creatina Monohidratada,2026-05-01,11197.8357,faturamento
+Produto,Creatina Monohidratada,2026-06-01,6651.2343,faturamento
+Produto,Creatina Monohidratada,2026-07-01,9474.7757,faturamento
+Produto,Creatina Monohidratada,2026-08-01,10987.8043,faturamento
+Produto,Creatina Monohidratada,2026-09-01,7476.3357,faturamento
+Produto,Fresh Whey,2025-10-01,9892.8571,faturamento
+Produto,Fresh Whey,2025-11-01,8454.9,faturamento
+Produto,Fresh Whey,2025-12-01,4548.6571,faturamento
+Produto,Fresh Whey,2026-01-01,8338.2571,faturamento
+Produto,Fresh Whey,2026-02-01,7846.0429,faturamento
+Produto,Fresh Whey,2026-03-01,8791.7,faturamento
+Produto,Fresh Whey,2026-04-01,8209.0143,faturamento
+Produto,Fresh Whey,2026-05-01,10182.6286,faturamento
+Produto,Fresh Whey,2026-06-01,5401.3314,faturamento
+Produto,Fresh Whey,2026-07-01,8464.8571,faturamento
+Produto,Fresh Whey,2026-08-01,12262.5043,faturamento
+Produto,Fresh Whey,2026-09-01,9895.7343,faturamento
+Produto,SuperCoffee,2025-10-01,8819.1571,faturamento
+Produto,SuperCoffee,2025-11-01,8655.61,faturamento
+Produto,SuperCoffee,2025-12-01,4562.7143,faturamento
+Produto,SuperCoffee,2026-01-01,6897.5143,faturamento
+Produto,SuperCoffee,2026-02-01,9208.3571,faturamento
+Produto,SuperCoffee,2026-03-01,11027.5571,faturamento
+Produto,SuperCoffee,2026-04-01,10776.2286,faturamento
+Produto,SuperCoffee,2026-05-01,10075.1286,faturamento
+Produto,SuperCoffee,2026-06-01,6913.6943,faturamento
+Produto,SuperCoffee,2026-07-01,4411.9786,faturamento
+Produto,SuperCoffee,2026-08-01,6610.4914,faturamento
+Produto,SuperCoffee,2026-09-01,4561.04,faturamento
+Produto,Ômega 3 EPA DHA,2025-10-01,7194.2857,faturamento
+Produto,Ômega 3 EPA DHA,2025-11-01,6521.0686,faturamento
+Produto,Ômega 3 EPA DHA,2025-12-01,5984.8143,faturamento
+Produto,Ômega 3 EPA DHA,2026-01-01,5339.4714,faturamento
+Produto,Ômega 3 EPA DHA,2026-02-01,3286.5143,faturamento
+Produto,Ômega 3 EPA DHA,2026-03-01,4611.5,faturamento
+Produto,Ômega 3 EPA DHA,2026-04-01,7672.4343,faturamento
+Produto,Ômega 3 EPA DHA,2026-05-01,8648.7057,faturamento
+Produto,Ômega 3 EPA DHA,2026-06-01,3288.7557,faturamento
+Produto,Ômega 3 EPA DHA,2026-07-01,4850.3143,faturamento
+Produto,Ômega 3 EPA DHA,2026-08-01,3419.23,faturamento
+Produto,Ômega 3 EPA DHA,2026-09-01,4849.5686,faturamento
+Produto,Creatina - Creafort (Creapure),2025-10-01,5622.5571,faturamento
+Produto,Creatina - Creafort (Creapure),2025-11-01,5783.9,faturamento
+Produto,Creatina - Creafort (Creapure),2025-12-01,5844.1,faturamento
+Produto,Creatina - Creafort (Creapure),2026-01-01,5788.1286,faturamento
+Produto,Creatina - Creafort (Creapure),2026-02-01,4514.5,faturamento
+Produto,Creatina - Creafort (Creapure),2026-03-01,5562.4571,faturamento
+Produto,Creatina - Creafort (Creapure),2026-04-01,6986.0043,faturamento
+Produto,Creatina - Creafort (Creapure),2026-05-01,4612.4,faturamento
+Produto,Creatina - Creafort (Creapure),2026-06-01,4518.8829,faturamento
+Produto,Creatina - Creafort (Creapure),2026-07-01,4478.3457,faturamento
+Produto,Creatina - Creafort (Creapure),2026-08-01,5278.2829,faturamento
+Produto,Creatina - Creafort (Creapure),2026-09-01,5894.3429,faturamento
+Produto,Whey,2025-10-01,4325.5286,faturamento
+Produto,Whey,2025-11-01,6491.3,faturamento
+Produto,Whey,2025-12-01,4153.5843,faturamento
+Produto,Whey,2026-01-01,8044.4571,faturamento
+Produto,Whey,2026-02-01,6813.5857,faturamento
+Produto,Whey,2026-03-01,9522.4629,faturamento
+Produto,Whey,2026-04-01,5118.4071,faturamento
+Produto,Whey,2026-05-01,7035.6129,faturamento
+Produto,Whey,2026-06-01,7959.3171,faturamento
+Produto,Whey,2026-07-01,2496.8071,faturamento
+Produto,Whey,2026-08-01,3754.5443,faturamento
+Produto,Whey,2026-09-01,3374.5571,faturamento
+Produto,Whey Protein Isolado - Isofort,2025-10-01,3528.8571,faturamento
+Produto,Whey Protein Isolado - Isofort,2025-11-01,5543.9286,faturamento
+Produto,Whey Protein Isolado - Isofort,2025-12-01,2125.0286,faturamento
+Produto,Whey Protein Isolado - Isofort,2026-01-01,5755.2857,faturamento
+Produto,Whey Protein Isolado - Isofort,2026-02-01,4215.7857,faturamento
+Produto,Whey Protein Isolado - Isofort,2026-03-01,5645.3286,faturamento
+Produto,Whey Protein Isolado - Isofort,2026-04-01,5762.4286,faturamento
+Produto,Whey Protein Isolado - Isofort,2026-05-01,5671.7429,faturamento
+Produto,Whey Protein Isolado - Isofort,2026-06-01,2384.2429,faturamento
+Produto,Whey Protein Isolado - Isofort,2026-07-01,2609.1714,faturamento
+Produto,Whey Protein Isolado - Isofort,2026-08-01,3193.9857,faturamento
+Produto,Whey Protein Isolado - Isofort,2026-09-01,6011.24,faturamento
+Produto,Super Ômega 3,2025-10-01,5295.72,faturamento
+Produto,Super Ômega 3,2025-11-01,4478.23,faturamento
+Produto,Super Ômega 3,2025-12-01,2558.4257,faturamento
+Produto,Super Ômega 3,2026-01-01,7350.3286,faturamento
+Produto,Super Ômega 3,2026-02-01,5024.4429,faturamento
+Produto,Super Ômega 3,2026-03-01,4074.9986,faturamento
+Produto,Super Ômega 3,2026-04-01,5332.5714,faturamento
+Produto,Super Ômega 3,2026-05-01,5681.6329,faturamento
+Produto,Super Ômega 3,2026-06-01,4758.91,faturamento
+Produto,Super Ômega 3,2026-07-01,4025.8071,faturamento
+Produto,Super Ômega 3,2026-08-01,3703.8571,faturamento
+Produto,Super Ômega 3,2026-09-01,3971.0429,faturamento
+Produto,Whey Fort 3W,2025-10-01,4516.3286,faturamento
+Produto,Whey Fort 3W,2025-11-01,5080.1143,faturamento
+Produto,Whey Fort 3W,2025-12-01,3432.6857,faturamento
+Produto,Whey Fort 3W,2026-01-01,3775.1143,faturamento
+Produto,Whey Fort 3W,2026-02-01,4840.3,faturamento
+Produto,Whey Fort 3W,2026-03-01,7958.8,faturamento
+Produto,Whey Fort 3W,2026-04-01,4492.1143,faturamento
+Produto,Whey Fort 3W,2026-05-01,5197.4857,faturamento
+Produto,Whey Fort 3W,2026-06-01,2182.9429,faturamento
+Produto,Whey Fort 3W,2026-07-01,5031.0471,faturamento
+Produto,Whey Fort 3W,2026-08-01,5591.2243,faturamento
+Produto,Whey Fort 3W,2026-09-01,3939.6614,faturamento
+Produto,Magnésio - Inositol Relief 3.0,2025-10-01,2475.6857,faturamento
+Produto,Magnésio - Inositol Relief 3.0,2025-11-01,2924.0286,faturamento
+Produto,Magnésio - Inositol Relief 3.0,2025-12-01,1374.2143,faturamento
+Produto,Magnésio - Inositol Relief 3.0,2026-01-01,5471.8714,faturamento
+Produto,Magnésio - Inositol Relief 3.0,2026-02-01,3373.0714,faturamento
+Produto,Magnésio - Inositol Relief 3.0,2026-03-01,899.4857,faturamento
+Produto,Magnésio - Inositol Relief 3.0,2026-04-01,6071.5286,faturamento
+Produto,Magnésio - Inositol Relief 3.0,2026-05-01,5479.3386,faturamento
+Produto,Magnésio - Inositol Relief 3.0,2026-06-01,3944.3014,faturamento
+Produto,Magnésio - Inositol Relief 3.0,2026-07-01,3933.3986,faturamento
+Produto,Magnésio - Inositol Relief 3.0,2026-08-01,4268.8629,faturamento
+Produto,Magnésio - Inositol Relief 3.0,2026-09-01,3240.3943,faturamento
+Produto,Tasty Whey 3W Gourmet,2025-10-01,5846.3214,faturamento
+Produto,Tasty Whey 3W Gourmet,2025-11-01,2848.5286,faturamento
+Produto,Tasty Whey 3W Gourmet,2025-12-01,1559.2,faturamento
+Produto,Tasty Whey 3W Gourmet,2026-01-01,4427.0,faturamento
+Produto,Tasty Whey 3W Gourmet,2026-02-01,2475.9857,faturamento
+Produto,Tasty Whey 3W Gourmet,2026-03-01,5943.7857,faturamento
+Produto,Tasty Whey 3W Gourmet,2026-04-01,5301.2143,faturamento
+Produto,Tasty Whey 3W Gourmet,2026-05-01,4226.7143,faturamento
+Produto,Tasty Whey 3W Gourmet,2026-06-01,4632.0871,faturamento
+Produto,Tasty Whey 3W Gourmet,2026-07-01,5443.4571,faturamento
+Produto,Tasty Whey 3W Gourmet,2026-08-01,2840.2857,faturamento
+Produto,Tasty Whey 3W Gourmet,2026-09-01,3525.7429,faturamento
+Produto,Proteína Isolada e Hidrolisada - Body Protein,2025-10-01,7680.7,faturamento
+Produto,Proteína Isolada e Hidrolisada - Body Protein,2025-11-01,5623.1571,faturamento
+Produto,Proteína Isolada e Hidrolisada - Body Protein,2025-12-01,4429.4143,faturamento
+Produto,Proteína Isolada e Hidrolisada - Body Protein,2026-01-01,4460.8286,faturamento
+Produto,Proteína Isolada e Hidrolisada - Body Protein,2026-02-01,3235.6714,faturamento
+Produto,Proteína Isolada e Hidrolisada - Body Protein,2026-03-01,4303.7571,faturamento
+Produto,Proteína Isolada e Hidrolisada - Body Protein,2026-04-01,3518.4,faturamento
+Produto,Proteína Isolada e Hidrolisada - Body Protein,2026-05-01,4222.0286,faturamento
+Produto,Proteína Isolada e Hidrolisada - Body Protein,2026-06-01,4127.7857,faturamento
+Produto,Proteína Isolada e Hidrolisada - Body Protein,2026-07-01,6784.5,faturamento
+Produto,Proteína Isolada e Hidrolisada - Body Protein,2026-08-01,3827.1429,faturamento
+Produto,Proteína Isolada e Hidrolisada - Body Protein,2026-09-01,3581.2286,faturamento
+Produto,Colágeno - Colagentek Protein - Bodybalance,2025-10-01,5191.1429,faturamento
+Produto,Colágeno - Colagentek Protein - Bodybalance,2025-11-01,3790.5857,faturamento
+Produto,Colágeno - Colagentek Protein - Bodybalance,2025-12-01,2669.9,faturamento
+Produto,Colágeno - Colagentek Protein - Bodybalance,2026-01-01,2827.0,faturamento
+Produto,Colágeno - Colagentek Protein - Bodybalance,2026-02-01,3263.9,faturamento
+Produto,Colágeno - Colagentek Protein - Bodybalance,2026-03-01,6656.3,faturamento
+Produto,Colágeno - Colagentek Protein - Bodybalance,2026-04-01,4600.3,faturamento
+Produto,Colágeno - Colagentek Protein - Bodybalance,2026-05-01,3889.3,faturamento
+Produto,Colágeno - Colagentek Protein - Bodybalance,2026-06-01,4313.4429,faturamento
+Produto,Colágeno - Colagentek Protein - Bodybalance,2026-07-01,5018.7857,faturamento
+Produto,Colágeno - Colagentek Protein - Bodybalance,2026-08-01,3689.4857,faturamento
+Produto,Colágeno - Colagentek Protein - Bodybalance,2026-09-01,3255.4286,faturamento
+Produto,Whey hidrolisado e isolado,2025-10-01,4177.2714,faturamento
+Produto,Whey hidrolisado e isolado,2025-11-01,2833.3714,faturamento
+Produto,Whey hidrolisado e isolado,2025-12-01,1859.4,faturamento
+Produto,Whey hidrolisado e isolado,2026-01-01,4205.7857,faturamento
+Produto,Whey hidrolisado e isolado,2026-02-01,3010.4571,faturamento
+Produto,Whey hidrolisado e isolado,2026-03-01,3895.8857,faturamento
+Produto,Whey hidrolisado e isolado,2026-04-01,3851.6143,faturamento
+Produto,Whey hidrolisado e isolado,2026-05-01,4652.9271,faturamento
+Produto,Whey hidrolisado e isolado,2026-06-01,2730.5529,faturamento
+Produto,Whey hidrolisado e isolado,2026-07-01,4882.5671,faturamento
+Produto,Whey hidrolisado e isolado,2026-08-01,5249.3771,faturamento
+Produto,Whey hidrolisado e isolado,2026-09-01,2754.78,faturamento
+Produto,SuperCoffee Língua de gato - Kopenhagen,2025-10-01,5283.9714,faturamento
+Produto,SuperCoffee Língua de gato - Kopenhagen,2025-11-01,2721.9286,faturamento
+Produto,SuperCoffee Língua de gato - Kopenhagen,2025-12-01,1898.9143,faturamento
+Produto,SuperCoffee Língua de gato - Kopenhagen,2026-01-01,5571.8143,faturamento
+Produto,SuperCoffee Língua de gato - Kopenhagen,2026-02-01,3398.0571,faturamento
+Produto,SuperCoffee Língua de gato - Kopenhagen,2026-03-01,5721.7286,faturamento
+Produto,SuperCoffee Língua de gato - Kopenhagen,2026-04-01,5147.1857,faturamento
+Produto,SuperCoffee Língua de gato - Kopenhagen,2026-05-01,3428.3,faturamento
+Produto,SuperCoffee Língua de gato - Kopenhagen,2026-06-01,1319.6829,faturamento
+Produto,SuperCoffee Língua de gato - Kopenhagen,2026-07-01,6835.2671,faturamento
+Produto,SuperCoffee Língua de gato - Kopenhagen,2026-08-01,4606.0957,faturamento
+Produto,SuperCoffee Língua de gato - Kopenhagen,2026-09-01,3331.4829,faturamento
+Produto,Suplemento Alimentar - GUARDIAN®,2025-10-01,1684.8714,faturamento
+Produto,Suplemento Alimentar - GUARDIAN®,2025-11-01,2161.7857,faturamento
+Produto,Suplemento Alimentar - GUARDIAN®,2025-12-01,1739.1714,faturamento
+Produto,Suplemento Alimentar - GUARDIAN®,2026-01-01,1559.2571,faturamento
+Produto,Suplemento Alimentar - GUARDIAN®,2026-02-01,1619.2286,faturamento
+Produto,Suplemento Alimentar - GUARDIAN®,2026-03-01,3748.2143,faturamento
+Produto,Suplemento Alimentar - GUARDIAN®,2026-04-01,3148.5,faturamento
+Produto,Suplemento Alimentar - GUARDIAN®,2026-05-01,3508.3286,faturamento
+Produto,Suplemento Alimentar - GUARDIAN®,2026-06-01,2735.6214,faturamento
+Produto,Suplemento Alimentar - GUARDIAN®,2026-07-01,3135.7557,faturamento
+Produto,Suplemento Alimentar - GUARDIAN®,2026-08-01,3772.4629,faturamento
+Produto,Suplemento Alimentar - GUARDIAN®,2026-09-01,3802.2371,faturamento
+Produto,Creatina Monohidratada (Creapure),2025-10-01,4813.2143,faturamento
+Produto,Creatina Monohidratada (Creapure),2025-11-01,2028.9429,faturamento
+Produto,Creatina Monohidratada (Creapure),2025-12-01,2769.9857,faturamento
+Produto,Creatina Monohidratada (Creapure),2026-01-01,3545.2857,faturamento
+Produto,Creatina Monohidratada (Creapure),2026-02-01,1667.0,faturamento
+Produto,Creatina Monohidratada (Creapure),2026-03-01,2513.8,faturamento
+Produto,Creatina Monohidratada (Creapure),2026-04-01,3306.2429,faturamento
+Produto,Creatina Monohidratada (Creapure),2026-05-01,4106.9557,faturamento
+Produto,Creatina Monohidratada (Creapure),2026-06-01,3445.0329,faturamento
+Produto,Creatina Monohidratada (Creapure),2026-07-01,2869.9143,faturamento
+Produto,Creatina Monohidratada (Creapure),2026-08-01,1793.5257,faturamento
+Produto,Creatina Monohidratada (Creapure),2026-09-01,3046.7614,faturamento
+Produto,Colágeno Hidrolisado - Collagen Pro 18g,2025-10-01,4451.6186,faturamento
+Produto,Colágeno Hidrolisado - Collagen Pro 18g,2025-11-01,3511.9429,faturamento
+Produto,Colágeno Hidrolisado - Collagen Pro 18g,2025-12-01,706.6714,faturamento
+Produto,Colágeno Hidrolisado - Collagen Pro 18g,2026-01-01,3019.4143,faturamento
+Produto,Colágeno Hidrolisado - Collagen Pro 18g,2026-02-01,2548.3,faturamento
+Produto,Colágeno Hidrolisado - Collagen Pro 18g,2026-03-01,3254.9714,faturamento
+Produto,Colágeno Hidrolisado - Collagen Pro 18g,2026-04-01,4282.8571,faturamento
+Produto,Colágeno Hidrolisado - Collagen Pro 18g,2026-05-01,3426.2857,faturamento
+Produto,Colágeno Hidrolisado - Collagen Pro 18g,2026-06-01,2354.1571,faturamento
+Produto,Colágeno Hidrolisado - Collagen Pro 18g,2026-07-01,1734.5571,faturamento
+Produto,Colágeno Hidrolisado - Collagen Pro 18g,2026-08-01,3167.9,faturamento
+Produto,Colágeno Hidrolisado - Collagen Pro 18g,2026-09-01,3034.8529,faturamento
+Produto,Refil Whey Protein Concentrado,2025-10-01,712.4857,faturamento
+Produto,Refil Whey Protein Concentrado,2025-11-01,359.8,faturamento
+Produto,Refil Whey Protein Concentrado,2025-12-01,679.7,faturamento
+Produto,Refil Whey Protein Concentrado,2026-01-01,1729.2,faturamento
+Produto,Refil Whey Protein Concentrado,2026-02-01,2627.6786,faturamento
+Produto,Refil Whey Protein Concentrado,2026-03-01,3092.9971,faturamento
+Produto,Refil Whey Protein Concentrado,2026-04-01,2537.4286,faturamento
+Produto,Refil Whey Protein Concentrado,2026-05-01,3231.2057,faturamento
+Produto,Refil Whey Protein Concentrado,2026-06-01,1130.9143,faturamento
+Produto,Refil Whey Protein Concentrado,2026-07-01,3529.8,faturamento
+Produto,Refil Whey Protein Concentrado,2026-08-01,4859.9571,faturamento
+Produto,Refil Whey Protein Concentrado,2026-09-01,3181.5643,faturamento
+Produto,Probiótico - Simfort Plus,2025-10-01,2969.3286,faturamento
+Produto,Probiótico - Simfort Plus,2025-11-01,2290.2429,faturamento
+Produto,Probiótico - Simfort Plus,2025-12-01,2440.2857,faturamento
+Produto,Probiótico - Simfort Plus,2026-01-01,2610.2571,faturamento
+Produto,Probiótico - Simfort Plus,2026-02-01,2013.5286,faturamento
+Produto,Probiótico - Simfort Plus,2026-03-01,2694.5143,faturamento
+Produto,Probiótico - Simfort Plus,2026-04-01,3267.7857,faturamento
+Produto,Probiótico - Simfort Plus,2026-05-01,3396.4286,faturamento
+Produto,Probiótico - Simfort Plus,2026-06-01,2919.8857,faturamento
+Produto,Probiótico - Simfort Plus,2026-07-01,2406.8914,faturamento
+Produto,Probiótico - Simfort Plus,2026-08-01,2751.4343,faturamento
+Produto,Probiótico - Simfort Plus,2026-09-01,2695.2471,faturamento
+Produto,Coenzima Q10 (200mg p/ porção),2025-10-01,2024.8143,faturamento
+Produto,Coenzima Q10 (200mg p/ porção),2025-11-01,1930.4571,faturamento
+Produto,Coenzima Q10 (200mg p/ porção),2025-12-01,1251.7429,faturamento
+Produto,Coenzima Q10 (200mg p/ porção),2026-01-01,2303.7857,faturamento
+Produto,Coenzima Q10 (200mg p/ porção),2026-02-01,1911.2429,faturamento
+Produto,Coenzima Q10 (200mg p/ porção),2026-03-01,3039.4471,faturamento
+Produto,Coenzima Q10 (200mg p/ porção),2026-04-01,2657.59,faturamento
+Produto,Coenzima Q10 (200mg p/ porção),2026-05-01,3518.7514,faturamento
+Produto,Coenzima Q10 (200mg p/ porção),2026-06-01,2408.73,faturamento
+Produto,Coenzima Q10 (200mg p/ porção),2026-07-01,2406.7,faturamento
+Produto,Coenzima Q10 (200mg p/ porção),2026-08-01,2511.1914,faturamento
+Produto,Coenzima Q10 (200mg p/ porção),2026-09-01,2588.08,faturamento
+Produto,Beef Protein,2025-10-01,3294.4286,faturamento
+Produto,Beef Protein,2025-11-01,2432.33,faturamento
+Produto,Beef Protein,2025-12-01,1018.2186,faturamento
+Produto,Beef Protein,2026-01-01,1182.3429,faturamento
+Produto,Beef Protein,2026-02-01,1182.3429,faturamento
+Produto,Beef Protein,2026-03-01,1838.8857,faturamento
+Produto,Beef Protein,2026-04-01,3311.75,faturamento
+Produto,Beef Protein,2026-05-01,2882.8,faturamento
+Produto,Beef Protein,2026-06-01,3728.9671,faturamento
+Produto,Beef Protein,2026-07-01,2102.1929,faturamento
+Produto,Beef Protein,2026-08-01,892.5471,faturamento
+Produto,Beef Protein,2026-09-01,1959.4829,faturamento
+Produto,OUTROS,2025-10-01,185100.1057,faturamento
+Produto,OUTROS,2025-11-01,153557.1929,faturamento
+Produto,OUTROS,2025-12-01,107427.0343,faturamento
+Produto,OUTROS,2026-01-01,161286.3214,faturamento
+Produto,OUTROS,2026-02-01,137609.9286,faturamento
+Produto,OUTROS,2026-03-01,178488.4743,faturamento
+Produto,OUTROS,2026-04-01,172704.7057,faturamento
+Produto,OUTROS,2026-05-01,192371.9857,faturamento
+Produto,OUTROS,2026-06-01,132910.2114,faturamento
+Produto,OUTROS,2026-07-01,151384.4857,faturamento
+Produto,OUTROS,2026-08-01,147911.3257,faturamento
+Produto,OUTROS,2026-09-01,137528.7143,faturamento
