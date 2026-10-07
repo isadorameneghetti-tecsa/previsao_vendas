@@ -1,0 +1,23 @@
+# Dados de vendas e resultados (números internos: não versionar)
+dados/
+saida/
+dashboard/dados_painel.js
+dashboard/dados_painel.json
+cache_dados/
+versoes_anteriores/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Credenciais (nunca versionar)
+*.json.key
+*credentials*.json
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
